@@ -61,20 +61,14 @@ Double click the exe :)
 
 ```
 chmod +x
-```
-
-```
-SMLoadr-linux-x64 ./SMLoadr-linux-x64
+./SMLoadr-linux-x64
 ```
 
 **CLI:**
 
 ```
 chmod +x
-```
-
-```
-SMLoadr-linux-x64 ./SMLoadr-linux-x64 -q "MP3_128" -p "DOWNLOADS/" "http://www.deezer.com/album|artist|playlist|profile|track/0123456789"
+./SMLoadr-linux-x64 -q "MP3_128" -p "DOWNLOADS/" "http://www.deezer.com/album|artist|playlist|profile|track/0123456789"
 ```
 
 
