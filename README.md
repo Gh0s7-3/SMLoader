@@ -115,3 +115,7 @@ SMLoadr-linux-x64 ./SMLoadr-linux-x64 -q "MP3_128" -p "DOWNLOADS/" "http://www.d
 - We do **not** call to commit crimes.
 - The usage of this tool **may be illegal** in your country! Please inform yourself.
 - We do **not** give any guarantee at all and we am **not** responsible for damages of all kinds!
+
+
+
+> Made with :heart: by SMLoadrDevs | Copyright © 2018 SMLoadrDevs.
