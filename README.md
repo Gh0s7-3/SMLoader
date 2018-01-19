@@ -1,6 +1,7 @@
 #SMLoadr
 > A streaming music downloader.
 
+![Screenshot](screenshot.png)
 
 SMLoadr is a program for downloading music from streaming music services.
 
@@ -86,7 +87,7 @@ chmod +x
 
 ### Downloads
 
-- Get stable releases here: [http://telegra.ph/SMLoadr-Downloads-12-14](http://telegra.ph/SMLoadr-Downloads-12-14)
+- Get stable releases here: [https://git.teknik.io/SMLoadrDev/SMLoadr/releases](https://git.teknik.io/SMLoadrDev/SMLoadr/releases)
 - Telegram news channel: [https://t.me/SMLoadrNews](https://t.me/SMLoadrNews)
 - Telegram community group: [https://t.me/SMLoadrCommunity](https://t.me/SMLoadrCommunity)
 - Telegram off-topic group: [https://t.me/SMLoadrOffTopic](https://t.me/SMLoadrOffTopic)
