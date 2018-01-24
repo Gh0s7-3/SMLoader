@@ -1,0 +1,7 @@
+.idea/
+node_modules/
+BUILD/
+PLAYLISTS/
+DOWNLOADS/
+SMLoadrConfig\.json
+/downloadLinks.txt

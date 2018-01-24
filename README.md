@@ -74,6 +74,15 @@ chmod +x
 
 
 
+### How to use (Source)
+
+```
+npm i
+node SMLoadr.js
+```
+
+
+
 ### CLI parameters
 
 | Parameter            | Short               | Default          | Supported values                        | Description                          |
@@ -113,4 +122,4 @@ chmod +x
 
 
 ---
-> Made with :heart: by SMLoadrDevs | Copyright © 2018 SMLoadrDevs.
+> Made with :heart: & :beer: by SMLoadrDevs | Copyright © 2018 SMLoadrDevs.
