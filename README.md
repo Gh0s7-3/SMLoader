@@ -15,7 +15,7 @@ Remember that the artists and studios put a lot of work into making music - purc
 
 - Download music in excellent quality for free
 - Supports single tracks, albums, artists, playlists and users favourite tracks
-- Music quality selection (MP3 - 128 kbps, MP3 - 256 kbps, MP3 - 320 kbps, FLAC - 1411 kbps)
+- Music quality selection (MP3 - 128 kbps, MP3 - 320 kbps, FLAC - 1411 kbps)
 - Auto tagging MP3 & FLAC files (with album cover)
 - Saves music to "DOWNLOADS/[artist]/[album]/[track_number] [title].mp3/flac"
 - Download a list of links from "downloadLinks.txt"
@@ -87,10 +87,11 @@ node SMLoadr.js
 
 | Parameter            | Short               | Default          | Supported values                        | Description                          |
 | :-----------------   | :------------------ | :--------------- | :-------------------------------------- | :----------------------------------- |
-| ```--quality```      | ```-q```            | ```MP3_320```    | MP3_128/MP3_256/MP3_320/FLAC            | The quality of the files to download |
+| ```--quality```      | ```-q```            | ```MP3_320```    | MP3_128/MP3_320/FLAC            | The quality of the files to download |
 | ```--path```         | ```-p```            | ```DOWNLOADS/``` | Path with / in the end                  | The path to download the files to    |
 | ```--url```          | ```-u or nothing``` |                  | album/artist/playlist/profile/track url | Downloads single deezer url          |
 | ```--downloadmode``` | ```-d```            | ```single```     | ```all``` for "downloadLinks.txt"       | Downloads multiple urls from list    |
+| ```--help```         | ```-h```            |                  | _Nothing_                               | Shows the CLI help                   |
 
 
 
