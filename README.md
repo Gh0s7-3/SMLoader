@@ -42,6 +42,8 @@ Remember that the artists and studios put a lot of work into making music - purc
 
 ### How to use (Windows)
 
+Run it as admin if you get "EPERM: operation not permitted..." error!
+
 **Interactive:**
 
 ```
