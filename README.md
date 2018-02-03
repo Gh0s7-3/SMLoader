@@ -11,7 +11,7 @@ Remember that the artists and studios put a lot of work into making music - purc
 
 
 
-### Features
+## Features
 
 - Download music in excellent quality for free
 - Supports single tracks, albums, artists, playlists and users favourite tracks
@@ -23,52 +23,52 @@ Remember that the artists and studios put a lot of work into making music - purc
 
 
 
-### Supported sites
+## Supported sites
 
 - Currently only Deezer is supported.
 - We'll add more in the future ;)
 
 
 
-### Supported platforms
+## Supported platforms
 
 - Windows x64
 - Windows x86
 - Linux x64
 - Linux x86
 - MacOS x64
+- Android (Run from source, see guide below)
+- ARM like Raspberry Pi (Run from source)
 
 
 
-### How to use (Windows)
+## How to use (Windows)
 
 Run it as admin if you get "EPERM: operation not permitted..." error!
 
-**Interactive:**
-
+###Interactive:
 ```
 Double click the exe :)
 ```
 
-**CLI:**
-
+###CLI:
 ```
 .\SMLoadr-win-x64.exe -q "MP3_128" -p "DOWNLOADS/" "http://www.deezer.com/album|artist|playlist|profile|track/0123456789"
 ```
 
 
 
-### How to use (Linux/MacOS)
+## How to use (Linux/MacOS)
 
-**Interactive:**
+See "How to use (from source)" to run it on ARM devices like the Raspberry Pi.
 
+###Interactive:
 ```
 chmod +x
 ./SMLoadr-linux-x64
 ```
 
-**CLI:**
-
+###CLI:
 ```
 chmod +x
 ./SMLoadr-linux-x64 -q "MP3_128" -p "DOWNLOADS/" "http://www.deezer.com/album|artist|playlist|profile|track/0123456789"
@@ -76,8 +76,52 @@ chmod +x
 
 
 
-### How to use (Source)
+## How to use (Android)
 
+Installing SMLoadr on Android is a little bit complicated :/
+
+### 1. Install Termux
+In order to run SMLoadr on Android you have to install `Termux`.
+- Play Store: [link](https://play.google.com/store/apps/details?id=com.termux)
+- Apk Mirror: [link](https://www.apkmirror.com/apk/fredrik-fornwall/termux)
+
+### 2. Install dependencies
+Run `Termux` and enter these lines in the given order (If it asks you if you want to continue, enter `y`):
+```
+pkg update
+pkg upgrade
+pkg install git
+pkg install nodejs
+```
+
+### 3. Download
+First download the latest version from the repo:
+```
+git clone https://git.teknik.io/SMLoadrDev/SMLoadr.git
+```
+
+### 4. Install
+Now lets install what we've downloaded:
+```
+npm install
+```
+
+In order to make SMLoadr work we need to setup storage for `Termux`:
+```
+termux-setup-storage
+```
+
+### 5. Run
+Last but not least run the app:
+```
+node SMLoadr.js
+```
+
+
+
+## How to use (from source)
+
+To run it from source download the repo and execute the following commands in the directory:
 ```
 npm i
 node SMLoadr.js
@@ -85,7 +129,7 @@ node SMLoadr.js
 
 
 
-### CLI parameters
+## CLI parameters
 
 | Parameter            | Short               | Default          | Supported values                        | Description                          |
 | :-----------------   | :------------------ | :--------------- | :-------------------------------------- | :----------------------------------- |
@@ -97,7 +141,7 @@ node SMLoadr.js
 
 
 
-### Downloads
+## Downloads
 
 - Get stable releases here: [https://git.teknik.io/SMLoadrDev/SMLoadr/releases](https://git.teknik.io/SMLoadrDev/SMLoadr/releases)
 - Telegram news channel: [https://t.me/SMLoadrNews](https://t.me/SMLoadrNews)
@@ -106,7 +150,7 @@ node SMLoadr.js
 
 
 
-### Donate
+## Donate
 
 - **BTC:** 15GktD5M1kCmESyxfhA6EvmhGzWnRA8gvg
 - **BTC Cash:** 1LpLtLREzTWzba94wBBpJxcv7r6h6u1jgF
@@ -117,11 +161,12 @@ node SMLoadr.js
 
 
 
-### Disclaimer
+## Disclaimer
 
 - We do **not** call to commit crimes.
 - The usage of this tool **may be illegal** in your country! Please inform yourself.
 - We do **not** give any guarantee at all and we am **not** responsible for damages of all kinds!
+
 
 
 ---
