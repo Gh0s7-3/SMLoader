@@ -90,7 +90,7 @@ Run `Termux` and enter these lines in the given order (If it asks you if you wan
 ```
 pkg update
 pkg upgrade
-
+pkg install nodejs git
 
 ```
 
