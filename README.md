@@ -64,13 +64,13 @@ See "How to use (from source)" to run it on ARM devices like the Raspberry Pi.
 
 ###Interactive:
 ```
-chmod +x
+chmod +x SMLoadr-linux-x64
 ./SMLoadr-linux-x64
 ```
 
 ###CLI:
 ```
-chmod +x
+chmod +x SMLoadr-linux-x64
 ./SMLoadr-linux-x64 -q "MP3_128" -p "DOWNLOADS/" "http://www.deezer.com/album|artist|playlist|profile|track/0123456789"
 ```
 
