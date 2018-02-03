@@ -90,33 +90,50 @@ Run `Termux` and enter these lines in the given order (If it asks you if you wan
 ```
 pkg update
 pkg upgrade
-pkg install git
-pkg install nodejs
+pkg install git nodejs
+
 ```
 
 ### 3. Download
 First download the latest version from the repo:
 ```
-git clone https://git.teknik.io/SMLoadrDev/SMLoadr.git
+git clone --depth 1 https://git.teknik.io/SMLoadrDev/SMLoadr.git
 ```
 
 ### 4. Install
-Now lets install what we've downloaded:
+
+
+
+mv SMLoadr/{package.json,SMLoadr.js} ./
+rm -r SMLoadr
+```
+
+Now we install what we've downloaded:
 ```
 npm install
 ```
 
-In order to make SMLoadr work we need to setup storage for `Termux`:
+
+
+In order to let SMLoadr download to the right folder, we need to setup storage for `Termux`:
 ```
 termux-setup-storage
 ```
 
-### 5. Run
-Last but not least run the app:
+Now we trick SMLoadr into downloading to the public storage:
+```
+mkdir ~/storage/shared/SMLoadr
+ln -s ~/storage/shared/SMLoadr DOWNLOADS
+```
+
+### 6. Run
+Last but not least run the app (downloaded files will be in a folder named SMLoadr in public storage):
 ```
 node SMLoadr.js
 ```
 
+### 7. Updating
+To update it, run step 3 and step 4
 
 
 ## How to use (from source)
