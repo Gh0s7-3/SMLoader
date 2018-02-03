@@ -113,7 +113,12 @@ Now we install what we've downloaded:
 npm install
 ```
 
+Patch openurl:
+```
+sed -i 's/linux/android/' node_modules/openurl/openurl.js
+```
 
+### 5. Setup storage
 
 In order to let SMLoadr download to the right folder, we need to setup storage for `Termux`:
 ```
