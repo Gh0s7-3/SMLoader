@@ -90,7 +90,7 @@ Run `Termux` and enter these lines in the given order (If it asks you if you wan
 ```
 pkg update
 pkg upgrade
-pkg install git nodejs
+
 
 ```
 
@@ -102,8 +102,8 @@ git clone --depth 1 https://git.teknik.io/SMLoadrDev/SMLoadr.git
 
 ### 4. Install
 
-
-
+Move files and remove unnecessary ones:
+```
 mv SMLoadr/{package.json,SMLoadr.js} ./
 rm -r SMLoadr
 ```
