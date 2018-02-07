@@ -79,6 +79,7 @@ chmod +x SMLoadr-linux-x64
 ## How to use (Android)
 
 Installing SMLoadr on Android is a little bit complicated :/
+It is somewhat unsupported. If you need help, tag @sudoHackr in Telegram, and don't expect many people to help you. 
 
 ### 1. Install Termux
 In order to run SMLoadr on Android you have to install `Termux`.
