@@ -5,9 +5,10 @@ const DarwinPlatform = require('./platforms/darwin');
 
 function getMethods() {
     const classes = {
-        'win32':  WindowsPlatform,
-        'linux':  LinuxPlatform,
-        'darwin': DarwinPlatform
+        'win32':   WindowsPlatform,
+        'linux':   LinuxPlatform,
+        'android': LinuxPlatform,
+        'darwin':  DarwinPlatform
     };
 
     return classes[process.platform];
