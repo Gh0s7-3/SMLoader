@@ -144,7 +144,9 @@ To update it, run step 3 and step 4
 
 ## How to use (from source)
 
-To run it from source download the repo and execute the following commands in the directory:
+To run it from source you have to install [Node.js](https://nodejs.org/) first (>= 8.0.0 is required).
+
+After that download the repo and execute the following commands in the directory:
 ```
 npm i
 node SMLoadr.js
