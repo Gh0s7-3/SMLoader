@@ -106,8 +106,8 @@ git clone --depth 1 https://git.teknik.io/SMLoadrDev/SMLoadr.git
 
 Move files and remove unnecessary ones:
 ```
-mv SMLoadr/{package.json,SMLoadr.js} ./
-rm -r SMLoadr
+mv SMLoadr/{package.json,SMLoadr.js,./libs/} ./
+rm -rf SMLoadr
 ```
 
 Now we install what we've downloaded:
