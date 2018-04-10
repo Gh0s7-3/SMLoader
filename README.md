@@ -139,7 +139,7 @@ Last but not least run the app (downloaded files will be in a folder named SMLoa
 node SMLoadr.js
 ```
 
-### 7. Updating
+### 7. Updating to a new version 
 To update it, run step 3 and step 4
 
 
