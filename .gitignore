@@ -5,3 +5,7 @@ PLAYLISTS/
 DOWNLOADS/
 SMLoadrConfig\.json
 /downloadLinks.txt
+downloadedSuccessfully\.txt
+downloadedUnsuccessfully\.txt
+downloadedWithWarning\.txt
+SMLoadr\.log
