@@ -1,7 +1,9 @@
 #SMLoadr
 > A streaming music downloader.
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot1.png)
+
+![Screenshot](screenshot2.png)
 
 SMLoadr is a program for downloading music from streaming music services.
 

@@ -1,6 +1,6 @@
 {
     "name": "SMLoadr",
-    "version": "1.9.2",
+    "version": "1.9.3",
     "description": "A streaming music downloader written in NodeJS.",
     "author": "SMLoadrDev",
     "license": "Unlicense",
@@ -21,14 +21,14 @@
         "command-line-args": "^5.0.2",
         "command-line-usage": "^5.0.4",
         "fs-finder": "^1.8.1",
-        "inquirer": "^5.2.0",
+        "inquirer": "^6.0.0",
         "jsonfile": "^4.0.0",
         "log": "^1.4.0",
         "openurl": "^1.1.1",
-        "ora": "^2.1.0",
+        "ora": "^3.0.0",
         "request": "^2.85.0",
         "request-plus": "^1.0.1",
         "sanitize-filename": "^1.6.1",
-        "util": "^0.10.3"
+        "util": "^0.11.0"
     }
 }
