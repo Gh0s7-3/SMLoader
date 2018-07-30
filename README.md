@@ -101,7 +101,7 @@ pkg install nodejs git
 ### 3. Download
 First download the latest version from the repo:
 ```
-git clone --depth 1 https://git.teknik.io/SMLoadrDev/SMLoadr.git
+git clone --depth 1 https://git.fuwafuwa.moe/SMLoadrDev/SMLoadr.git
 ```
 
 ### 4. Install
@@ -171,7 +171,7 @@ node SMLoadr.js
 
 ## Downloads
 
-- Get stable releases here: [https://git.teknik.io/SMLoadrDev/SMLoadr/releases](https://git.teknik.io/SMLoadrDev/SMLoadr/releases)
+- Get stable releases here: [https://git.fuwafuwa.moe/SMLoadrDev/SMLoadr/releases](https://git.fuwafuwa.moe/SMLoadrDev/SMLoadr/releases)
 - Telegram news channel: [https://t.me/SMLoadrNews](https://t.me/SMLoadrNews)
 - Telegram community group: [https://t.me/SMLoadrCommunity](https://t.me/SMLoadrCommunity)
 - Telegram off-topic group: [https://t.me/SMLoadrOffTopic](https://t.me/SMLoadrOffTopic)
