@@ -80,7 +80,59 @@ chmod +x SMLoadr-linux-x64
 
 ## How to use (Android)
 
-Installing SMLoadr on Android is a little bit complicated and **not officially supported** :/
+There are 2 Options available. Please use the Automatic Version because it is a lot easier and user friendlier than the manual Version.
+Also keep in mind that Android is **not** officially supported.
+
+
+
+## How to use (Android): _Automatic Method_
+
+The automatic Version is a lot easier to setup than the Manual Method mentioned below.
+
+If you run into Errors please tag @NeonDragon1909 in Telegram
+
+### 1. Install Termux
+In order to run SMLoadr on Android you have to install `Termux`.
+- Play Store: [link](https://play.google.com/store/apps/details?id=com.termux)
+- Apk Mirror: [link](https://www.apkmirror.com/apk/fredrik-fornwall/termux)
+
+### 2. Install dependencies
+Run `Termux` and enter these lines in the given order (If it asks you if you want to continue, enter `y`):
+```
+pkg update
+pkg upgrade
+pkg install curl
+```
+
+### 3. Downlaod the install script
+After installing all the needed dependencies download the install script make it executable and start it.
+Follow the instructions on Screen.
+```
+curl https://del.dog/raw/helpme > SMLoadr.sh
+chmod +x SMLoadr.sh
+./SMLoadr.sh
+```
+
+### 4. CLI parameters for the Automatic Version (optional)
+If you want to change the Folder where SMLoadr saves the music on Android enter the following line and enter the full path to where you want to have the music saved.
+```
+./SMLoadr.sh -c
+```
+
+To pass the regular CLI parameters from SMLoadr onto the Script version use the `-o` argument and enter you parameters in between `'`
+eg.:
+```
+./SMLoadr.sh -o '-q MP3_128 -d single DeezerURL'
+```
+
+### 5. Start SMLoadr from Termux
+Whenever you want to start SMLoadr on your Phone just enter ```./SMLoadr.sh``` into Termux and you are ready to go.
+
+
+
+## How to use (Android): _Manual Method_
+
+Installing SMLoadr manually on Android is a little bit complicated and **not officially supported** :/
 
 If you need help, tag @sudoHackr in Telegram, and don't expect many people to help you.
 
@@ -105,7 +157,6 @@ git clone --depth 1 https://git.fuwafuwa.moe/SMLoadrDev/SMLoadr.git
 ```
 
 ### 4. Install
-
 Move files and remove unnecessary ones:
 ```
 mv SMLoadr/{package.json,SMLoadr.js,./libs/} ./
@@ -123,7 +174,6 @@ sed -i 's/linux/android/' node_modules/openurl/openurl.js
 ```
 
 ### 5. Setup storage
-
 In order to let SMLoadr download to the right folder, we need to setup storage for `Termux`:
 ```
 termux-setup-storage
@@ -141,8 +191,9 @@ Last but not least run the app (downloaded files will be in a folder named SMLoa
 node SMLoadr.js
 ```
 
-### 7. Updating to a new version 
+### 7. Updating to a new version
 To update it, run step 3 and step 4
+
 
 
 ## How to use (from source)
