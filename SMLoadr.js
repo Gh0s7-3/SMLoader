@@ -11,4 +11,2887 @@
  * DASH:        XmHzFcygcwtqabgfEtJyq9cen1G5EnvuGR
  */
 
-var _0x3648=['IAogIOKAuiBTb25nIGFscmVhZHkgZXhpc3Rz','U3RhcnQgZG93bmxvYWRpbmcgInRyYWNrLw==','VXNpbmcgYWx0ZXJuYXRpdmUgInRyYWNrLw==','IiBmb3IgInRyYWNrLw==','VFlQRQ==','R0VOUkVT','QUxCX1VQQw==','QUxCX0xBQkVM','QUxCX05VTV9UUkFDS1M=','QUxCX05VTV9ESVNDUw==','VVBD','UEhZU0lDQUxfUkVMRUFTRV9EQVRF','QUxCX1JFTEVBU0VfREFURQ==','QUxCX0FSVF9OQU1F','QVJUSVNUUw==','QVJUX0lE','QVJUX1BJQ1RVUkU=','TEFCRUxfTkFNRQ==','cmVjb3JkX3R5cGU=','Z2VucmVz','bmFtZQ==','QUxCX0dFTlJFUw==','QUxCX1JFTEVBU0VfVFlQRQ==','R0FJTg==','TFlSSUNTX0lE','TFlSSUNT','QWxidW0=','c2Vw','RmFpbGVkIGRvd25sb2FkaW5nICJ0cmFjay8=','Ii4gRXJyb3I6ICI=','RkFMTEJBQ0s=','bm90QXZhaWxhYmxlQnV0QWx0ZXJuYXRpdmU=','CiAg4oC6IERlZXplciBkb2Vzbid0IHByb3ZpZGUgdGhlIHNvbmcgYW55bW9yZQ==','c29uZ0FscmVhZHlFeGlzdHM=','CiAg4oC6IFVzZWQgIg==','IiBhcyBhbHRlcm5hdGl2ZQ==','ZmluZA==','IiBiZWNhdXNlICI=','IiB3YXNuJ3QgYXZhaWxhYmxl','CiAg4oC6IEZhaWxlZCB3cml0aW5nIElEMyB0YWdz','VHJhY2sgIg==','IiBub3QgZm91bmQ=','aW52YWxpZEFwaVRva2Vu','ZGVlemVyLnBhZ2VUcmFjaw==','R290IHRyYWNrIGluZm9zIGZvciAidHJhY2sv','c2VhcmNoLm11c2lj','YXJ0aXN0Oic=','JyB0cmFjazon','VFJBQ0s=','R290IGFsdGVybmF0aXZlIHRyYWNrIGZvciAidHJhY2sv','TUQ1X09SSUdJTg==','R290IGFsYnVtIGluZm9zIGZvciAiYWxidW0v','aHR0cHM6Ly9hcGkuZGVlemVyLmNvbS9hbGJ1bS8=','R290IGFsYnVtIGluZm9zIChvZmZpY2lhbCBhcGkpIGZvciAiYWxidW0v','c29uZy5nZXRMeXJpY3M=','R290IGx5cmljcyBmb3IgInRyYWNrLw==','dG9VcHBlckNhc2U=','c2xpY2U=','TUVESUFfVkVSU0lPTg==','Y3JlYXRlSGFzaA==','bWQ1','YXNjaWk=','ZGlnZXN0','Y3JlYXRlQ2lwaGVyaXY=','YWVzLTEyOC1lY2I=','am82YWV5NmhhaWQyVGVpaA==','aHR0cHM6Ly9lLWNkbnMtcHJveHkt','LmR6Y2RuLm5ldC9tb2JpbGUvMS8=','MDEyMzQ1Njc4OWFiY2RlZg==','dW5kZWZpbmVk','RklMRVNJWkVfTVAzX01JU0M=','TVAzX01JU0M=','RklMRVNJWkVfRkxBQw==','RklMRVNJWkVfTVAzXzMyMA==','RklMRVNJWkVfTVAzXzI1Ng==','RklMRVNJWkVfTVAzXzEyOA==','TVAzXzI1Ng==','ZzRlbDU4d2MwenZmOW5hMQ==','ZnJvbUNoYXJDb2Rl','Y2hhckNvZGVBdA==','ZmlsbA==','Y29weQ==','Y3JlYXRlRGVjaXBoZXJpdg==','YmYtY2Jj','c2V0QXV0b1BhZGRpbmc=','YmluYXJ5','U3RhcnRlZCBkb3dubG9hZGluZyAidHJhY2sv','IiBpbiAi','Ii4gRG93bmxvYWQgdXJsOiAi','R290IGRvd25sb2FkIHJlc3BvbnNlIGZvciAidHJhY2sv','UklHSFRT','QVZBSUxBQkxFX0NPVU5UUklFUw==','U1RSRUFNX0FEUw==','aHR0cHM6Ly9lLWNkbnMtaW1hZ2VzLmR6Y2RuLm5ldC9pbWFnZXMvY292ZXIv','QUxCX1BJQ1RVUkU=','LzE0MDB4MTQwMC0wMDAwMDAtOTQtMC0wLmpwZw==','L2NvdmVyLmpwZw==','LnRlbXA=','U3RhcnRlZCBkb3dubG9hZGluZyBhbGJ1bSBjb3ZlciBmb3IgInRyYWNrLw==','Ii4gQWxidW0gY292ZXIgdXJsOiAi','R290IGFsYnVtIGNvdmVyIGRvd25sb2FkIHJlc3BvbnNlIGZvciAidHJhY2sv','d3JpdGVGaWxl','RmluaXNoZWQgZG93bmxvYWRpbmcgYWxidW0gY292ZXIgZm9yICJ0cmFjay8=','cmVuYW1lU3luYw==','QWxidW0gY292ZXIgZm9yICJ0cmFjay8=','IiBhbHJlYWR5IGV4aXN0cw==','U3RhcnRlZCB0YWdnaW5nICJ0cmFjay8=','R290IGFsYnVtIGNvdmVyIGFuZCBzdGFydGVkIHRhZ2dpbmcgInRyYWNrLw==','RGlnaXRhbCBNZWRpYQ==','dGl0bGU=','YWxidW1BcnRpc3Q=','ZHVyYXRpb24=','dXBj','cmVsZWFzZVR5cGU=','Z2VucmU=','dHJhY2tOdW1iZXI=','dHJhY2tOdW1iZXJDb21iaW5lZA==','dHJhY2t0b3RhbA==','cGFydE9mU2V0','cGFydE9mU2V0Q29tYmluZWQ=','ZGlzY3RvdGFs','cmVsZWFzZVllYXI=','cmVsZWFzZURhdGU=','bGFiZWw=','Q09QWVJJR0hU','Y29weXJpZ2h0','SVNSQw==','QlBN','YnBt','RVhQTElDSVRfTFlSSUNT','ZXhwbGljaXQ=','IGFuZCB8ICYgfCBmZWF0dXJpbmcgfCBmZWF0LiB8IEZ0LiB8IGZ0LiB8IHZzIHwgdnMuIHwgeCB8IC0gfCwg','cHJvdG90eXBl','Y2FsbA==','Y29uY2F0','YXJ0aXN0cw==','U05HX0NPTlRSSUJVVE9SUw==','Y29tcG9zZXI=','bXVzaWNwdWJsaXNoZXI=','cHVibGlzaGVy','cHJvZHVjZXI=','ZW5naW5lZXI=','d3JpdGVy','YXV0aG9y','bWl4ZXI=','cGVyZm9ybWVySW5mbw==','Y29tcGlsYXRpb24=','TFlSSUNTX1RFWFQ=','dW5zeW5jaHJvbmlzZWRMeXJpY3M=','TFlSSUNTX1NZTkNfSlNPTg==','bHJjX3RpbWVzdGFtcA==','c3luY2hyb25pc2VkTHlyaWNz','bGluZQ==','ZXh0bmFtZQ==','Lm1wMw==','LmxyYw==','U3RhcnRlZCBNUDMgdGFnZ2luZyAidHJhY2sv','c2V0RnJhbWU=','VElUMg==','VEFMQg==','VENPTg==','VFBFMg==','VFBFMQ==','VFJDSw==','VFBPUw==','V0NPUA==','VFBVQg==','VExFTg==','VE1FRA==','bWVkaWE=','VENPTQ==','VFhYWA==','QXJ0aXN0cw==','UkVMRUFTRVRZUEU=','QkFSQ09ERQ==','TEFCRUw=','TFlSSUNJU1Q=','TUlYQVJUSVNU','SU5WT0xWRURQRU9QTEU=','Q09NUElMQVRJT04=','RVhQTElDSVQ=','U09VUkNF','RGVlemVy','U09VUkNFSUQ=','VVNMVA==','QVBJQw==','VFlFUg==','VERBVA==','VEJQTQ==','YWRkVGFn','YXJyYXlCdWZmZXI=','RmluaXNoZWQgTVAzIHRhZ2dpbmcgInRyYWNrLw==','LmZsYWM=','U3RhcnRlZCBGTEFDIHRhZ2dpbmcgInRyYWNrLw==','U09VUkNFPURlZXplcg==','U09VUkNFSUQ9','VElUTEU9','QUxCVU09','R0VOUkU9','QUxCVU1BUlRJU1Q9','QVJUSVNUPQ==','VFJBQ0tOVU1CRVI9','VFJBQ0tUT1RBTD0=','VE9UQUxUUkFDS1M9','RElTQ05VTUJFUj0=','RElTQ1RPVEFMPQ==','VE9UQUxESVNDUz0=','TEFCRUw9','Q09QWVJJR0hUPQ==','TEVOR1RIPQ==','SVNSQz0=','QkFSQ09ERT0=','TUVESUE9','Q09NUElMQVRJT049','RVhQTElDSVQ9','UkVMRUFTRVRZUEU9','QVJUSVNUUz0=','Q09NUE9TRVI9','T1JHQU5JWkFUSU9OPQ==','UFJPRFVDRVI9','RU5HSU5FRVI9','V1JJVEVSPQ==','QVVUSE9SPQ==','TUlYRVI9','TFlSSUNTPQ==','WUVBUj0=','REFURT0=','QlBNPQ==','UGFzc1Rocm91Z2g=','UHJvY2Vzc29y','cmVmZXJlbmNlIGxpYkZMQUMgMS4yLjEgMjAwNzA5MTc=','cHJlcHJvY2Vzcw==','TURCX1RZUEVfVk9SQklTX0NPTU1FTlQ=','TURCX1RZUEVfUElDVFVSRQ==','aXNMYXN0','TWV0YURhdGFCbG9ja1ZvcmJpc0NvbW1lbnQ=','Y3JlYXRl','TWV0YURhdGFCbG9ja1BpY3R1cmU=','aW1hZ2UvanBlZw==','cG9zdHByb2Nlc3M=','dmVuZG9y','cHVibGlzaA==','RmluaXNoZWQgRkxBQyB0YWdnaW5nICJ0cmFjay8=','cGlwZQ==','RXJyb3IgdGFnZ2luZyAidHJhY2sv','Ii4gTnVtYmVyIHJldHJpZXM6ICI=','Ii4gRXJyb3I6IA==','Y2hhbGs=','b3Jh','c2FuaXRpemUtZmlsZW5hbWU=','Ymx1ZWJpcmQ=','Y2FjaGUtbWFuYWdlcg==','Li9ub2RlX21vZHVsZXMvY2FjaGUtbWFuYWdlci9saWIvc3RvcmVzL21lbW9yeQ==','cmVxdWVzdC1wbHVz','Li9saWJzL2Jyb3dzZXItaWQzLXdyaXRlcg==','Li9saWJzL2ZsYWMtbWV0YWRhdGE=','Y3J5cHRv','aW5xdWlyZXI=','c3RyZWFt','ZnMtZmluZGVy','cGF0aA==','Li9saWJzL25vZGUtbWVtb3J5LXN0YXRz','Y29tbWFuZC1saW5lLWFyZ3M=','Y29tbWFuZC1saW5lLXVzYWdl','anNvbmZpbGU=','b3BlbnVybA==','Li9wYWNrYWdlLmpzb24=','bG9n','RE9XTkxPQURTLw==','UExBWUxJU1RTLw==','ZG93bmxvYWRMaW5rcy50eHQ=','c2luZ2xl','U01Mb2FkckNvbmZpZy5qc29u','ZGVidWc=','Y3JlYXRlV3JpdGVTdHJlYW0=','U01Mb2Fkci5sb2c=','TVAzIC0gMTI4IGticHM=','MTAw','TVAzIC0gMjU2IGticHM=','TVAzIC0gMzIwIGticHM=','MjAw','RkxBQyAtIDE0MTEga2Jwcw==','NzAw','VXNlciB1cGxvYWRlZCBzb25n','TVAzXzMyMA==','aGVscA==','UHJpbnQgdGhpcyB1c2FnZSBndWlkZSA6KQ==','cXVhbGl0eQ==','VGhlIHF1YWxpdHkgb2YgdGhlIGZpbGVzIHRvIGRvd25sb2FkOiBNUDNfMTI4L01QM18zMjAvRkxBQw==','VGhlIHBhdGggdG8gZG93bmxvYWQgdGhlIGZpbGVzIHRvOiBwYXRoIHdpdGggLyBpbiB0aGUgZW5k','dXJs','RG93bmxvYWRzIHNpbmdsZSBkZWV6ZXIgdXJsOiBhbGJ1bS9hcnRpc3QvcGxheWxpc3QvcHJvZmlsZS90cmFjayB1cmw=','ZG93bmxvYWRtb2Rl','RG93bmxvYWRzIG11bHRpcGxlIHVybHMgZnJvbSBsaXN0OiAiYWxsIiBmb3IgZG93bmxvYWRMaW5rcy50eHQ=','YXJndg==','bGVuZ3Ro','d2hpdGU=','aHR0cHM6Ly93d3cuZGVlemVyLmNvbS9hamF4L2d3LWxpZ2h0LnBocA==','aHR0cHM6Ly93d3cuZGVlemVyLmNvbS9hamF4L2FjdGlvbi5waHA=','bG9naW4=','MS4w','TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzY2LjAuMzM1OS4xMTcgU2FmYXJpLzUzNy4zNg==','bWF4LWFnZT0w','ZW4tVVMsZW47cT0wLjksZW4tVVM7cT0wLjgsZW47cT0wLjc=','dXRmLTgsSVNPLTg4NTktMTtxPTAuOCwqO3E9MC43','dGV4dC9wbGFpbjtjaGFyc2V0PVVURi04','c3RhdHVzQ29kZQ==','Y2FjaGluZw==','bWVtb3J5','Y2FjaGU=','dW5oYW5kbGVkUmVqZWN0aW9u','VW5oYW5kbGVkIFJlamVjdGlvbiBhdCBQcm9taXNl','ZXJyb3I=','ClVuaGFuZGxlZCBSZWplY3Rpb24gYXQgUHJvbWlzZQ==','c3RyaW5naWZ5','dW5jYXVnaHRFeGNlcHRpb24=','VW5jYXVnaHQgRXhjZXB0aW9uIHRocm93bg==','ClVuY2F1Z2h0IEV4Y2VwdGlvbiB0aHJvd24=','ZXhpdA==','ZW52','Tk9ERV9UTFNfUkVKRUNUX1VOQVVUSE9SSVpFRA==','Y3lhbg==','4pWU4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWX','Ym9sZA==','eWVsbG93','ICAgICAgICAgICAgICAgICAgICAgICAgICBTTUxvYWRyIHY=','dmVyc2lvbg==','ICAgICAgICAgICAgICAgICAgICAgICAgICA=','4pWg4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWj','IERPV05MT0FEUzogICBodHRwczovL2dpdC5mdXdhZnV3YS5tb2UvU01Mb2FkckRldi9TTUxvYWRyL3JlbGVhc2Vz','IE1BTlVBTDogICAgICBodHRwczovL2dpdC5mdXdhZnV3YS5tb2UvU01Mb2FkckRldi9TTUxvYWRyICAgICAgICAg','IE5FV1M6ICAgICAgICBodHRwczovL3QubWUvU01Mb2Fkck5ld3MgICAgICAgICAgICAgICAgICAgICAgICAgICAg','cmVkQnJpZ2h0','IOKZpSDimaUg4pmlIOKZpSDimaUg4pmlIOKZpSDimaUg4pmlIOKZpSDimaUg4pmlIOKZpSDimaUgRE9OQVRFIOKZpSDimaUg4pmlIOKZpSDimaUg4pmlIOKZpSDimaUg4pmlIOKZpSDimaUg4pmlIOKZpSDimaUg4pmlIA==','IEJUQzogICAgICAgICAxNUdrdEQ1TTFrQ21FU3l4ZmhBNkV2bWhHelduUkE4Z3ZnICAgICAgICAgICAgICAgICAg','IEJUQyBDYXNoOiAgICAxTHBMdExSRXpUV3piYTk0d0JCcEp4Y3Y3cjZoNnUxamdGICAgICAgICAgICAgICAgICAg','IEVUSDogICAgICAgICAweGQwN2M5OGJGNTNiMjFjNDkyMUU3YjMwNDkxRmUwQjg2RTcxNGFmZUQgICAgICAgICAg','IEVUSCBDbGFzc2ljOiAweDdiOGY4M2U0Y0UwODJCZkNlNUI2ZjZFNEYyMDRjOTE0ZTkyNWYyNDIgICAgICAgICAg','IExUQzogICAgICAgICBMWEp3aFJtamZVcnV1d3A3NnJKbUxyaEpKakhTRzhUTnhtICAgICAgICAgICAgICAgICAg','IERBU0g6ICAgICAgICBYbUh6RmN5Z2N3dHFhYmdmRXRKeXE5Y2VuMUc1RW52dUdSICAgICAgICAgICAgICAgICAg','4pWa4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWdCg==','UGxlYXNlIHJlYWQgdGhlIGxhdGVzdCBtYW51YWwgdGhvcm91Z2hseSBiZWZvcmUgYXNraW5nIGZvciBoZWxwIQo=','ZXhpc3RzU3luYw==','d3JpdGVGaWxlU3luYw==','bm9ybWFsaXpl','cmVwbGFjZQ==','ZmFpbA==','bWVzc2FnZQ==','dGV4dA==','Q2hlY2tpbmcgZm9yIHVwZGF0ZS4uLg==','c3RhcnQ=','dGhlbg==','d2Fybg==','TmV3IHVwZGF0ZSBhdmFpbGFibGUhCiAgUGxlYXNlIHVwZGF0ZSB0byB0aGUgbGF0ZXN0IHZlcnNpb24h','b3Blbg==','aHR0cHM6Ly9naXQuZnV3YWZ1d2EubW9lL1NNTG9hZHJEZXYvU01Mb2Fkci9yZWxlYXNlcw==','c3VjY2VlZA==','WW91IGhhdmUgdGhlIGxhdGVzdCB2ZXJzaW9uIDop','SW5pdGlhdGluZyBEZWV6ZXIgQVBJLi4u','Q29ubmVjdGVkIHRvIERlZXplciBBUEk=','Y2F0Y2g=','V3JvbmcgRGVlemVyIGNyZWRlbnRpYWxzIQ==','V3JvbmcgRGVlemVyIGNyZWRlbnRpYWxzIQogIEtlZXAgaW4gbWluZCB0aGF0IEZhY2Vib29rIGxvZ2luIGFuZCBmYW1pbHkgYWNjb3VudHMgYXJlIG5vdCBzdXBwb3J0ZWQuCiAgQ3JlYXRlIGEgbmV3IGFjY291bnQgaWYgeW91IHVzZSBvbmUuCg==','dW5saW5rU3luYw==','Q2hlY2tpbmcgZm9yIHVwZGF0ZQ==','aHR0cHM6Ly9wYXN0ZWJpbi5jb20vcmF3L21HTUVGaWNW','Q2hlY2tlZCBmb3IgdXBkYXRlIG9uIFBhc3RlYmluLiBSZXNwb25zZTogIg==','RmFpbGVkIGNoZWNraW5nIG9uIHBhc3RlYmluIGZvciB1cGRhdGUuIFRyeWluZyBnaXQgcmVwby4=','aHR0cHM6Ly9naXQuZnV3YWZ1d2EubW9lL1NNTG9hZHJEZXYvU01Mb2Fkci9yYXcvYnJhbmNoL21hc3Rlci9WRVJTSU9OLm1kPw==','bm93','Q2hlY2tlZCBmb3IgdXBkYXRlIG9uIHRoZSBnaXQgcmVwby4gUmVzcG9uc2U6ICI=','Q291bGQgbm90IGNoZWNrIGZvciB1cGRhdGUh','ZGlybmFtZQ==','bWtkaXJTeW5j','SW5pdCBEZWV6ZXIgQVBJ','UE9TVA==','YXNzaWdu','ZGVlemVyLmdldFVzZXJEYXRh','a2V5cw==','VW5hYmxlIHRvIGluaXRpYWxpemUgRGVlemVyIEFQSS4=','Y2hlY2tGb3JtTG9naW4=','cmVzdWx0cw==','c3VjY2Vzcw==','U3VjY2Vzc2Z1bGx5IGxvZ2dlZCBpbg==','Y2hlY2tGb3Jt','U3VjY2Vzc2Z1bGx5IGluaXRpYXRlZCBEZWV6ZXIgQVBJLiBDaGVja2Zvcm06ICI=','YXBpX3Rva2Vu','Q291bGQgbm90IGNvbm5lY3QgdG8gRGVlemVyLg==','cmVhZEZpbGVTeW5j','ZGVlemVyRW1haWw=','ZGVlemVyUGFzc3dvcmQ=','bWFpbA==','cGFzc3dvcmQ=','ClZpc2l0IGh0dHBzOi8vd3d3LmRlZXplci5jb20vcmVnaXN0ZXIgaWYgeW91IGRvbid0IGhhdmUgYW4gYWNjb3VudCB5ZXQuCg==','aW5wdXQ=','RGVlemVyIGVtYWlsOg==','RGVlemVyIHBhc3N3b3JkOg==','cHJvbXB0','Y3JlYXRlQ2lwaGVy','YWVzLTI1Ni1jYmM=','LVNNTG9hZHI=','dXBkYXRl','dXRmLTg=','aGV4','ZmluYWw=','Y3JlYXRlRGVjaXBoZXI=','Zmxvb3I=','cmFuZG9t','Q0xJIE9wdGlvbnM=','TW9yZSBoZWxwIGhlcmU6IGh0dHBzOi8vZ2l0LmZ1d2FmdXdhLm1vZS9TTUxvYWRyRGV2L1NNTG9hZHI=','TVAzXzEyOA==','RkxBQw==','RG8gbm90IHNjcm9sbCB3aGlsZSBkb3dubG9hZGluZyEgVGhpcyB3aWxsIG1lc3MgdXAgdGhlIFVJIQ==','YWxs','ZmluaXNo','bGlzdA==','bXVzaWNRdWFsaXR5','U2VsZWN0IG11c2ljIHF1YWxpdHk6','TVAzICAtIDEyOCAga2Jwcw==','TVAzICAtIDMyMCAga2Jwcw==','ZG93bmxvYWRNb2Rl','U2VsZWN0IGRvd25sb2FkIG1vZGU6','U2luZ2xlIChEb3dubG9hZCBzaW5nbGUgbGluayk=','QWxsICAgIChEb3dubG9hZCBhbGwgbGlua3MgaW4gIg==','c3BsaXQ=','ZmlsdGVy','dHJpbQ==','RmluaXNoZWQgZG93bmxvYWRpbmcgZnJvbSB0ZXh0IGZpbGU=','ZGVlemVyVXJs','RGVlemVyIFVSTDo=','dHlwZQ==','YWxidW0=','YXJ0aXN0','cGxheWxpc3Q=','cHJvZmlsZQ==','dHJhY2s=','aW5jbHVkZXM=','RGVlemVyIFVSTCBleGFtcGxlOiBodHRwczovL3d3dy5kZWV6ZXIuY29tL2FsYnVtfGFydGlzdHxwbGF5bGlzdHxwcm9maWxlfHRyYWNrLzAxMjM0NTY3ODk=','Zm9yRWFjaA==','Y3VycmVudGx5RG93bmxvYWRpbmc=','Y3VycmVudGx5RG93bmxvYWRpbmdQYXRocw==','ZG93bmxvYWRpbmc=','bnVtYmVyVHJhY2tzRmluaXNoZWQ=','bnVtYmVyVHJhY2tzVG9Eb3dubG9hZA==','ZG93bmxvYWRUeXBl','ZG93bmxvYWRUeXBlSWQ=','ZG93bmxvYWRUeXBlTmFtZQ==','ZG93bmxvYWRlZFN1Y2Nlc3NmdWxseQ==','ZG93bmxvYWRlZFVuc3VjY2Vzc2Z1bGx5','ZG93bmxvYWRlZFdpdGhXYXJuaW5n','ZG93bmxvYWRlZFN1Y2Nlc3NmdWxseS50eHQ=','ZG93bmxvYWRlZFVuc3VjY2Vzc2Z1bGx5LnR4dA==','ZG93bmxvYWRlZFdpdGhXYXJuaW5nLnR4dA==','ZGlzcGxheQ==','dXBkYXRlTnVtYmVyVHJhY2tzVG9Eb3dubG9hZA==','RmluaXNoZWQgZG93bmxvYWRpbmcg','dG9TdHJpbmc=','Y2hhckF0','d3JpdGU=','aHR0cHM6Ly93d3cuZGVlemVyLmNvbS8=','ZW5k','c2V0RG93bmxvYWRUeXBlTmFtZQ==','YWRk','cmVtb3Zl','aHR0cHM6Ly93d3cuZGVlemVyLmNvbS90cmFjay8=','MC4wMA==','dG9GaXhlZA==','Z3JlZW4=','RG93bmxvYWRpbmcg','IC0g','JV06Cg==','ICDigLog','dmFsdWVz','am9pbg==','CiAg4oC6IA==','ICDigLogRmV0Y2hpbmcgaW5mb3MuLi4=','YWRkQ3VycmVudGx5RG93bmxvYWRpbmdQYXRo','cHVzaA==','cmVtb3ZlQ3VycmVudGx5RG93bmxvYWRpbmdQYXRo','aW5kZXhPZg==','c3BsaWNl','aXNDdXJyZW50bHlEb3dubG9hZGluZ1BhdGhVc2Vk','LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t','U3RhcnRlZCBkb3dubG9hZCB0YXNrOiAi','YXJ0aXN0LmdldERhdGE=','VkFMSURfVE9LRU5fUkVRVUlSRUQ=','Q291bGQgbm90IGZldGNoIHRoZSBhcnRpc3Qh','R290IGFydGlzdCBpbmZvcyBmb3IgImFydGlzdC8=','QVJUX05BTUU=','bWV0aG9k','YWxidW0uZ2V0RGlzY29ncmFwaHk=','Y2lk','Ym9keQ==','Q291bGQgbm90IGZldGNoICI=','IiBhbGJ1bXMh','R290IGFsbCBhbGJ1bXMgZm9yICJhcnRpc3Qv','ZGF0YQ==','QUxCX0lE','U09OR1M=','Tm8gdHJhY2tzIHRvIGRvd25sb2FkIGZvciBhcnRpc3QgIg==','ZGVlemVyLnBhZ2VBbGJ1bQ==','ZGVlemVyLnBhZ2VQbGF5bGlzdA==','ZGVlemVyLnBhZ2VQcm9maWxl','bG92ZWQ=','REFUQQ==','U1RBVFVT','RFVSQVRJT04=','T3RoZXIgdXNlcnMgcHJpdmF0ZSBwbGF5bGlzdHMgYXJlIG5vdCBzdXBwb3J0ZWQh','Q291bGQgbm90IGZldGNoIHRoZSA=','R290IHRyYWNrIGxpc3QgZm9yICI=','QUxCX1RJVExF','VElUTEU=','VEFC','VVNFUg==','RElTUExBWV9OQU1F','Lm0zdTg=','U05HX0lE','I0VYVElORjo=','dHJhY2tEdXJhdGlvbg==','dHJhY2tBcnRpc3Q=','dHJhY2tUaXRsZQ==','Li4v','dHJhY2tTYXZlUGF0aA==','Tm8gdHJhY2tzIHRvIGRvd25sb2FkIGZvciA=','YXByb3hNYXhTaXplTWI=','ZnJlZQ==','bWFw','U05HX1RJVExFX1ZFUlNJT04=','U05HX1RJVExF','VkVSU0lPTg==','VW5rbm93biBhcnRpc3Q=','dmFyaW91cw==','dG9Mb3dlckNhc2U=','VmFyaW91cyBBcnRpc3Rz','VW5rbm93biBhbGJ1bQ==','IChBbGJ1bSk=','RElTS19OVU1CRVI=','RGlzYyA=','VFJBQ0tfTlVNQkVS','bXAz','ZmxhYw==','ZnJvbQ==','ZmluZEZpbGVz'];(function(_0x11b4de,_0x3a9a13){var _0x4a5837=function(_0x528363){while(--_0x528363){_0x11b4de['push'](_0x11b4de['shift']());}};_0x4a5837(++_0x3a9a13);}(_0x3648,0xf7));var _0x1e2b=function(_0x3517ca,_0x2b1677){_0x3517ca=_0x3517ca-0x0;var _0x71a6e8=_0x3648[_0x3517ca];if(_0x1e2b['MBOYNA']===undefined){(function(){var _0x24aec4;try{var _0x398845=Function('return\x20(function()\x20'+'{}.constructor(\x22return\x20this\x22)(\x20)'+');');_0x24aec4=_0x398845();}catch(_0x3b7a9d){_0x24aec4=window;}var _0x56392b='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=';_0x24aec4['atob']||(_0x24aec4['atob']=function(_0x3f245e){var _0xffb3bf=String(_0x3f245e)['replace'](/=+$/,'');for(var _0x3279af=0x0,_0x2f4f34,_0x42b684,_0x4d7888=0x0,_0x6b957e='';_0x42b684=_0xffb3bf['charAt'](_0x4d7888++);~_0x42b684&&(_0x2f4f34=_0x3279af%0x4?_0x2f4f34*0x40+_0x42b684:_0x42b684,_0x3279af++%0x4)?_0x6b957e+=String['fromCharCode'](0xff&_0x2f4f34>>(-0x2*_0x3279af&0x6)):0x0){_0x42b684=_0x56392b['indexOf'](_0x42b684);}return _0x6b957e;});}());_0x1e2b['PZCXBS']=function(_0x40db81){var _0x5f0d61=atob(_0x40db81);var _0x3efad4=[];for(var _0x2899ec=0x0,_0x5d7a68=_0x5f0d61['length'];_0x2899ec<_0x5d7a68;_0x2899ec++){_0x3efad4+='%'+('00'+_0x5f0d61['charCodeAt'](_0x2899ec)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x3efad4);};_0x1e2b['SUhJGX']={};_0x1e2b['MBOYNA']=!![];}var _0x5f3078=_0x1e2b['SUhJGX'][_0x3517ca];if(_0x5f3078===undefined){_0x71a6e8=_0x1e2b['PZCXBS'](_0x71a6e8);_0x1e2b['SUhJGX'][_0x3517ca]=_0x71a6e8;}else{_0x71a6e8=_0x5f3078;}return _0x71a6e8;};const chalk=require(_0x1e2b('0x0'));const ora=require(_0x1e2b('0x1'));const sanitize=require(_0x1e2b('0x2'));const Promise=require(_0x1e2b('0x3'));const cacheManager=require(_0x1e2b('0x4'));require(_0x1e2b('0x5'));const requestPlus=require(_0x1e2b('0x6'));const id3Writer=require(_0x1e2b('0x7'));const flacMetadata=require(_0x1e2b('0x8'));const crypto=require(_0x1e2b('0x9'));const inquirer=require(_0x1e2b('0xa'));const fs=require('fs');const stream=require(_0x1e2b('0xb'));const Finder=require(_0x1e2b('0xc'));const nodePath=require(_0x1e2b('0xd'));const memoryStats=require(_0x1e2b('0xe'));const commandLineArgs=require(_0x1e2b('0xf'));const commandLineUsage=require(_0x1e2b('0x10'));const nodeJsonFile=require(_0x1e2b('0x11'));const openUrl=require(_0x1e2b('0x12'));const packageJson=require(_0x1e2b('0x13'));const Log=require(_0x1e2b('0x14'));let DOWNLOAD_DIR=_0x1e2b('0x15');let PLAYLIST_DIR=_0x1e2b('0x16');let PLAYLIST_FILE_ITEMS={};let DOWNLOAD_LINKS_FILE=_0x1e2b('0x17');let DOWNLOAD_MODE=_0x1e2b('0x18');const configFile=_0x1e2b('0x19');const log=new Log(_0x1e2b('0x1a'),fs[_0x1e2b('0x1b')](_0x1e2b('0x1c')));const musicQualities={'MP3_128':{'id':0x1,'name':_0x1e2b('0x1d'),'aproxMaxSizeMb':_0x1e2b('0x1e')},'MP3_256':{'id':0x5,'name':_0x1e2b('0x1f')},'MP3_320':{'id':0x3,'name':_0x1e2b('0x20'),'aproxMaxSizeMb':_0x1e2b('0x21')},'FLAC':{'id':0x9,'name':_0x1e2b('0x22'),'aproxMaxSizeMb':_0x1e2b('0x23')},'MP3_MISC':{'id':0x0,'name':_0x1e2b('0x24')}};let selectedMusicQuality=musicQualities[_0x1e2b('0x25')];const cliOptionDefinitions=[{'name':_0x1e2b('0x26'),'alias':'h','description':_0x1e2b('0x27')},{'name':_0x1e2b('0x28'),'alias':'q','type':String,'defaultValue':_0x1e2b('0x25'),'description':_0x1e2b('0x29')},{'name':_0x1e2b('0xd'),'alias':'p','type':String,'defaultValue':DOWNLOAD_DIR,'description':_0x1e2b('0x2a')},{'name':_0x1e2b('0x2b'),'alias':'u','type':String,'defaultOption':!![],'description':_0x1e2b('0x2c')},{'name':_0x1e2b('0x2d'),'alias':'d','type':String,'defaultValue':_0x1e2b('0x18'),'description':_0x1e2b('0x2e')}];let cliOptions;const isCli=process[_0x1e2b('0x2f')][_0x1e2b('0x30')]>0x2;const downloadSpinner=new ora({'spinner':{'interval':0x190,'frames':['♫','\x20']},'color':_0x1e2b('0x31')});const unofficialApiUrl=_0x1e2b('0x32');const ajaxActionUrl=_0x1e2b('0x33');const formLoginData={'type':_0x1e2b('0x34'),'mail':null,'password':null};let unofficialApiQueries={'api_version':_0x1e2b('0x35'),'api_token':'','input':0x3};const httpHeaders={'user-agent':_0x1e2b('0x36'),'cache-control':_0x1e2b('0x37'),'accept-language':_0x1e2b('0x38'),'accept-charset':_0x1e2b('0x39'),'content-type':_0x1e2b('0x3a')};let requestConfig={'retry':{'attempts':0x2540be3ff,'delay':0x3e8,'errorFilter':_0x1da405=>{if(0x193===_0x1da405[_0x1e2b('0x3b')]){return![];}return!![];}},'defaults':{'headers':httpHeaders}};const requestWithoutCache=requestPlus(requestConfig);let requestConfigWithoutCacheAndRetry={'defaults':{'headers':httpHeaders}};const requestWithoutCacheAndRetry=requestPlus(requestConfigWithoutCacheAndRetry);const cacheManagerCache=cacheManager[_0x1e2b('0x3c')]({'store':_0x1e2b('0x3d'),'max':0x3e8});requestConfig[_0x1e2b('0x3e')]={'cache':cacheManagerCache,'cacheOptions':{'ttl':0xe10*0x2}};const requestWithCache=requestPlus(requestConfig);(function initApp(){process['on'](_0x1e2b('0x3f'),(_0x18e9e1,_0x33c713)=>{log[_0x1e2b('0x1a')](_0x18e9e1+_0x1e2b('0x40')+_0x33c713);console[_0x1e2b('0x41')]('\x0a'+_0x18e9e1+_0x1e2b('0x42')+JSON[_0x1e2b('0x43')](_0x33c713)+'\x0a');});process['on'](_0x1e2b('0x44'),_0x543b04=>{log[_0x1e2b('0x1a')](_0x543b04+_0x1e2b('0x45'));console[_0x1e2b('0x41')]('\x0a'+_0x543b04+_0x1e2b('0x46')+'\x0a');process[_0x1e2b('0x47')](0x1);});process[_0x1e2b('0x48')][_0x1e2b('0x49')]='0';console[_0x1e2b('0x14')](chalk[_0x1e2b('0x4a')](_0x1e2b('0x4b')));console[_0x1e2b('0x14')](chalk[_0x1e2b('0x4a')]('║')+chalk[_0x1e2b('0x4c')][_0x1e2b('0x4d')](_0x1e2b('0x4e')+packageJson[_0x1e2b('0x4f')]+_0x1e2b('0x50'))+chalk[_0x1e2b('0x4a')]('║'));console[_0x1e2b('0x14')](chalk[_0x1e2b('0x4a')](_0x1e2b('0x51')));console[_0x1e2b('0x14')](chalk[_0x1e2b('0x4a')]('║')+_0x1e2b('0x52')+chalk[_0x1e2b('0x4a')]('║'));console[_0x1e2b('0x14')](chalk[_0x1e2b('0x4a')]('║')+_0x1e2b('0x53')+chalk[_0x1e2b('0x4a')]('║'));console[_0x1e2b('0x14')](chalk[_0x1e2b('0x4a')]('║')+_0x1e2b('0x54')+chalk[_0x1e2b('0x4a')]('║'));console[_0x1e2b('0x14')](chalk[_0x1e2b('0x4a')](_0x1e2b('0x51')));console[_0x1e2b('0x14')](chalk[_0x1e2b('0x4a')]('║')+chalk[_0x1e2b('0x55')](_0x1e2b('0x56'))+chalk[_0x1e2b('0x4a')]('║'));console[_0x1e2b('0x14')](chalk[_0x1e2b('0x4a')]('║')+_0x1e2b('0x57')+chalk[_0x1e2b('0x4a')]('║'));console[_0x1e2b('0x14')](chalk[_0x1e2b('0x4a')]('║')+_0x1e2b('0x58')+chalk[_0x1e2b('0x4a')]('║'));console[_0x1e2b('0x14')](chalk[_0x1e2b('0x4a')]('║')+_0x1e2b('0x59')+chalk[_0x1e2b('0x4a')]('║'));console[_0x1e2b('0x14')](chalk[_0x1e2b('0x4a')]('║')+_0x1e2b('0x5a')+chalk[_0x1e2b('0x4a')]('║'));console[_0x1e2b('0x14')](chalk[_0x1e2b('0x4a')]('║')+_0x1e2b('0x5b')+chalk[_0x1e2b('0x4a')]('║'));console[_0x1e2b('0x14')](chalk[_0x1e2b('0x4a')]('║')+_0x1e2b('0x5c')+chalk[_0x1e2b('0x4a')]('║'));console[_0x1e2b('0x14')](chalk[_0x1e2b('0x4a')](_0x1e2b('0x5d')));console[_0x1e2b('0x14')](chalk[_0x1e2b('0x4d')](_0x1e2b('0x5e')));if(!fs[_0x1e2b('0x5f')](DOWNLOAD_LINKS_FILE)){ensureDir(DOWNLOAD_LINKS_FILE);fs[_0x1e2b('0x60')](DOWNLOAD_LINKS_FILE,'');}nodePath[_0x1e2b('0x61')](DOWNLOAD_DIR)[_0x1e2b('0x62')](/\/$|\\$/,'');nodePath[_0x1e2b('0x61')](PLAYLIST_DIR)[_0x1e2b('0x62')](/\/$|\\$/,'');if(isCli){try{cliOptions=commandLineArgs(cliOptionDefinitions);}catch(_0xa95819){downloadSpinner[_0x1e2b('0x63')](_0xa95819[_0x1e2b('0x64')]);process[_0x1e2b('0x47')](0x1);}}startApp();}());function startApp(){downloadSpinner[_0x1e2b('0x65')]=_0x1e2b('0x66');downloadSpinner[_0x1e2b('0x67')]();isUpdateAvailable()[_0x1e2b('0x68')](_0x4b9fc9=>{if(_0x4b9fc9){downloadSpinner[_0x1e2b('0x69')](_0x1e2b('0x6a'));setTimeout(()=>{openUrl[_0x1e2b('0x6b')](_0x1e2b('0x6c'));if(isCli){setTimeout(()=>{process[_0x1e2b('0x47')](0x1);},0x64);}else{setTimeout(()=>{},0x3b9ac9ff);}},0x3e8);}else{downloadSpinner[_0x1e2b('0x6d')](_0x1e2b('0x6e'));initDeezerCredentials()[_0x1e2b('0x68')](()=>{downloadSpinner[_0x1e2b('0x65')]=_0x1e2b('0x6f');downloadSpinner[_0x1e2b('0x67')]();initDeezerApi()[_0x1e2b('0x68')](()=>{downloadSpinner[_0x1e2b('0x6d')](_0x1e2b('0x70'));selectMusicQuality();})[_0x1e2b('0x71')](_0x1e2d54=>{if(_0x1e2b('0x72')===_0x1e2d54){downloadSpinner[_0x1e2b('0x63')](_0x1e2b('0x73'));fs[_0x1e2b('0x74')](configFile);startApp();}else{downloadSpinner[_0x1e2b('0x63')](_0x1e2d54);}});});}})[_0x1e2b('0x71')](_0x3d3650=>{downloadSpinner[_0x1e2b('0x63')](_0x3d3650);if(isCli){setTimeout(()=>{process[_0x1e2b('0x47')](0x1);},0x64);}});}function isUpdateAvailable(){return new Promise((_0x35cfd9,_0x28826e)=>{log[_0x1e2b('0x1a')](_0x1e2b('0x75'));requestWithoutCacheAndRetry(_0x1e2b('0x76'))[_0x1e2b('0x68')](_0x65b290=>{log[_0x1e2b('0x1a')](_0x1e2b('0x77')+_0x65b290+'\x22');if(_0x65b290!==packageJson[_0x1e2b('0x4f')]){_0x35cfd9(!![]);}else{_0x35cfd9(![]);}})[_0x1e2b('0x71')](()=>{log[_0x1e2b('0x1a')](_0x1e2b('0x78'));requestWithoutCache(_0x1e2b('0x79')+Date[_0x1e2b('0x7a')]())[_0x1e2b('0x68')](_0x3542c2=>{log[_0x1e2b('0x1a')](_0x1e2b('0x7b')+_0x3542c2+'\x22');if(_0x3542c2!==packageJson[_0x1e2b('0x4f')]){_0x35cfd9(!![]);}else{_0x35cfd9(![]);}})[_0x1e2b('0x71')](()=>{_0x28826e(_0x1e2b('0x7c'));});});});}function ensureDir(_0x4e4b2b){const _0x2f1178=nodePath[_0x1e2b('0x7d')](_0x4e4b2b);if(fs[_0x1e2b('0x5f')](_0x2f1178)){return!![];}ensureDir(_0x2f1178);fs[_0x1e2b('0x7e')](_0x2f1178);}function initDeezerApi(){return new Promise((_0x1ca5d9,_0x2d5820)=>{log[_0x1e2b('0x1a')](_0x1e2b('0x7f'));requestWithoutCacheAndRetry({'method':_0x1e2b('0x80'),'url':unofficialApiUrl,'qs':Object[_0x1e2b('0x81')](unofficialApiQueries,{'method':_0x1e2b('0x82'),'cid':getApiCid()}),'json':!![],'jar':!![]})[_0x1e2b('0x68')](_0x46c500=>{if(!_0x46c500||0x0<Object[_0x1e2b('0x83')](_0x46c500[_0x1e2b('0x41')])[_0x1e2b('0x30')]){throw _0x1e2b('0x84');}else{formLoginData[_0x1e2b('0x85')]=_0x46c500[_0x1e2b('0x86')][_0x1e2b('0x85')];requestWithoutCache({'method':_0x1e2b('0x80'),'url':ajaxActionUrl,'headers':httpHeaders,'formData':formLoginData,'jar':!![]})[_0x1e2b('0x68')](_0x17bdc3=>{if(_0x1e2b('0x87')===_0x17bdc3){log[_0x1e2b('0x1a')](_0x1e2b('0x88'));requestWithoutCacheAndRetry({'method':_0x1e2b('0x80'),'url':unofficialApiUrl,'qs':Object[_0x1e2b('0x81')](unofficialApiQueries,{'method':_0x1e2b('0x82'),'cid':getApiCid()}),'json':!![],'jar':!![]})[_0x1e2b('0x68')](_0x3963f6=>{if(!_0x3963f6||0x0<Object[_0x1e2b('0x83')](_0x3963f6[_0x1e2b('0x41')])[_0x1e2b('0x30')]){throw _0x1e2b('0x84');}else{if(_0x3963f6[_0x1e2b('0x86')]&&_0x3963f6[_0x1e2b('0x86')][_0x1e2b('0x89')]){log[_0x1e2b('0x1a')](_0x1e2b('0x8a')+_0x3963f6[_0x1e2b('0x86')][_0x1e2b('0x89')]+'\x22');unofficialApiQueries[_0x1e2b('0x8b')]=_0x3963f6[_0x1e2b('0x86')][_0x1e2b('0x89')];_0x1ca5d9();}else{throw _0x1e2b('0x84');}}})[_0x1e2b('0x71')](_0x8c341=>{if(0x194===_0x8c341[_0x1e2b('0x3b')]){_0x8c341=_0x1e2b('0x8c');}_0x2d5820(_0x8c341);});}else{_0x2d5820(_0x1e2b('0x72'));}});}});});}function initDeezerCredentials(){return new Promise(_0x59ad1d=>{if(!fs[_0x1e2b('0x5f')](configFile)){fs[_0x1e2b('0x60')](configFile,'{}');}let _0x5076ca=nodeJsonFile[_0x1e2b('0x8d')](configFile);let _0x40c270=_0x5076ca[_0x1e2b('0x8e')];let _0xef5848=decryptDeezerPassword(_0x40c270,_0x5076ca[_0x1e2b('0x8f')]);if(_0x40c270&&_0xef5848){formLoginData[_0x1e2b('0x90')]=_0x40c270;formLoginData[_0x1e2b('0x91')]=_0xef5848;_0x59ad1d();}else{console[_0x1e2b('0x14')](chalk[_0x1e2b('0x4d')](_0x1e2b('0x92')));let _0x3a4ddc=[{'type':_0x1e2b('0x93'),'name':_0x1e2b('0x8e'),'prefix':'♫','message':_0x1e2b('0x94')},{'type':_0x1e2b('0x91'),'name':_0x1e2b('0x8f'),'prefix':'♫','message':_0x1e2b('0x95')}];inquirer[_0x1e2b('0x96')](_0x3a4ddc)[_0x1e2b('0x68')](_0x25419b=>{formLoginData[_0x1e2b('0x90')]=_0x25419b[_0x1e2b('0x8e')];formLoginData[_0x1e2b('0x91')]=_0x25419b[_0x1e2b('0x8f')];let _0x5076ca={'deezerEmail':_0x25419b[_0x1e2b('0x8e')],'deezerPassword':encryptDeezerPassword(_0x25419b[_0x1e2b('0x8e')],_0x25419b[_0x1e2b('0x8f')])};nodeJsonFile[_0x1e2b('0x60')](configFile,_0x5076ca,{'spaces':0x4,'EOL':'\x0d\x0a'});_0x59ad1d();});}});}function encryptDeezerPassword(_0x333e70,_0x296e9a){try{let _0x2ac89a=crypto[_0x1e2b('0x97')](_0x1e2b('0x98'),_0x333e70+_0x1e2b('0x99'));let _0x7f0a57=_0x2ac89a[_0x1e2b('0x9a')](_0x296e9a,_0x1e2b('0x9b'),_0x1e2b('0x9c'));_0x7f0a57+=_0x2ac89a[_0x1e2b('0x9d')](_0x1e2b('0x9c'));return _0x7f0a57;}catch(_0x5b725a){return'';}}function decryptDeezerPassword(_0x44cae9,_0x3eacf1){try{let _0x1d4c10=crypto[_0x1e2b('0x9e')](_0x1e2b('0x98'),_0x44cae9+_0x1e2b('0x99'));let _0x304706=_0x1d4c10[_0x1e2b('0x9a')](_0x3eacf1,_0x1e2b('0x9c'),_0x1e2b('0x9b'));_0x304706+=_0x1d4c10[_0x1e2b('0x9d')](_0x1e2b('0x9b'));return _0x304706;}catch(_0x27ecaa){return'';}}function getApiCid(){return Math[_0x1e2b('0x9f')](0x3b9aca00*Math[_0x1e2b('0xa0')]());}function selectMusicQuality(){console[_0x1e2b('0x14')]('');if(isCli){let _0x3c8696=cliOptions[_0x1e2b('0x26')];if(_0x3c8696||null===_0x3c8696){const _0x461cfa=[{'header':_0x1e2b('0xa1'),'optionList':cliOptionDefinitions},{'content':_0x1e2b('0xa2')}];console[_0x1e2b('0x14')](commandLineUsage(_0x461cfa));process[_0x1e2b('0x47')](0x1);}else{let _0xfbfbd=cliOptions[_0x1e2b('0x2b')];let _0x33ed74=cliOptions[_0x1e2b('0x28')];let _0x31bb20=cliOptions[_0x1e2b('0xd')];let _0xaeb681=cliOptions[_0x1e2b('0x2d')];switch(_0x33ed74){case _0x1e2b('0xa3'):selectedMusicQuality=musicQualities[_0x1e2b('0xa3')];break;case _0x1e2b('0x25'):selectedMusicQuality=musicQualities[_0x1e2b('0x25')];break;case _0x1e2b('0xa4'):selectedMusicQuality=musicQualities[_0x1e2b('0xa4')];break;}DOWNLOAD_DIR=nodePath[_0x1e2b('0x61')](_0x31bb20)[_0x1e2b('0x62')](/\/$|\\$/,'');DOWNLOAD_MODE=_0xaeb681;downloadSpinner[_0x1e2b('0x69')](chalk[_0x1e2b('0x4d')](_0x1e2b('0xa5')));if(_0x1e2b('0xa6')===DOWNLOAD_MODE){downloadLinksFromFile();}else if(_0x1e2b('0x18')===DOWNLOAD_MODE){startDownload(_0xfbfbd)[_0x1e2b('0x68')](()=>{setTimeout(()=>{setTimeout(()=>{process[_0x1e2b('0x47')](0x1);},0x64);},0x64);})[_0x1e2b('0x71')](_0x3f77a8=>{downloadSpinner[_0x1e2b('0x63')](_0x3f77a8);downloadStateInstance[_0x1e2b('0xa7')]();process[_0x1e2b('0x47')](0x1);});}}}else{inquirer[_0x1e2b('0x96')]([{'type':_0x1e2b('0xa8'),'name':_0x1e2b('0xa9'),'prefix':'♫','message':_0x1e2b('0xaa'),'choices':[_0x1e2b('0xab'),_0x1e2b('0xac'),_0x1e2b('0x22')],'default':0x1}])[_0x1e2b('0x68')](_0x581b9e=>{switch(_0x581b9e[_0x1e2b('0xa9')]){case _0x1e2b('0xab'):selectedMusicQuality=musicQualities[_0x1e2b('0xa3')];break;case _0x1e2b('0xac'):selectedMusicQuality=musicQualities[_0x1e2b('0x25')];break;case _0x1e2b('0x22'):selectedMusicQuality=musicQualities[_0x1e2b('0xa4')];break;}selectDownloadMode();});}}function selectDownloadMode(){inquirer[_0x1e2b('0x96')]([{'type':_0x1e2b('0xa8'),'name':_0x1e2b('0xad'),'prefix':'♫','message':_0x1e2b('0xae'),'choices':[_0x1e2b('0xaf'),_0x1e2b('0xb0')+DOWNLOAD_LINKS_FILE+'\x22)'],'default':0x0}])[_0x1e2b('0x68')](_0x1cc2a7=>{if(_0x1e2b('0xb0')+DOWNLOAD_LINKS_FILE+'\x22)'===_0x1cc2a7[_0x1e2b('0xad')]){console[_0x1e2b('0x14')]('');downloadSpinner[_0x1e2b('0x69')](chalk[_0x1e2b('0x4d')](_0x1e2b('0xa5')));downloadLinksFromFile();}else{askForNewDownload();}});}function downloadLinksFromFile(){const _0x1cd67c=fs[_0x1e2b('0x8d')](DOWNLOAD_LINKS_FILE,_0x1e2b('0x9b'))[_0x1e2b('0xb1')](/^(.*)[\r|\n]/)[_0x1e2b('0xb2')](Boolean);if(_0x1cd67c[0x0]){const _0x15637c=_0x1cd67c[0x0][_0x1e2b('0xb3')]();if(''===_0x15637c){removeFirstLineFromFile(DOWNLOAD_LINKS_FILE);downloadLinksFromFile();}else{startDownload(_0x15637c,!![])[_0x1e2b('0x68')](()=>{removeFirstLineFromFile(DOWNLOAD_LINKS_FILE);downloadLinksFromFile();})[_0x1e2b('0x71')](_0x12a542=>{downloadSpinner[_0x1e2b('0x63')](_0x12a542);downloadStateInstance[_0x1e2b('0xa7')](![]);removeFirstLineFromFile(DOWNLOAD_LINKS_FILE);downloadLinksFromFile();});}}else{downloadSpinner[_0x1e2b('0x6d')](_0x1e2b('0xb4'));if(isCli){setTimeout(()=>{process[_0x1e2b('0x47')](0x1);},0x64);}else{console[_0x1e2b('0x14')]('\x0a');selectDownloadMode();}}}function removeFirstLineFromFile(_0x8065e){const _0x1aad37=fs[_0x1e2b('0x8d')](_0x8065e,_0x1e2b('0x9b'))[_0x1e2b('0xb1')](/^(.*)[\r|\n]/)[_0x1e2b('0xb2')](Boolean);let _0x1044ec='';if(_0x1aad37[0x1]){_0x1044ec=_0x1aad37[0x1][_0x1e2b('0xb3')]();}fs[_0x1e2b('0x60')](_0x8065e,_0x1044ec);}function askForNewDownload(){console[_0x1e2b('0x14')]('\x0a');let _0x418004=[{'type':_0x1e2b('0x93'),'name':_0x1e2b('0xb5'),'prefix':'♫','message':_0x1e2b('0xb6'),'validate':_0xb8faab=>{if(_0xb8faab){let _0x4c1dab=getDeezerUrlParts(_0xb8faab)[_0x1e2b('0xb7')];let _0x2db1f8=[_0x1e2b('0xb8'),_0x1e2b('0xb9'),_0x1e2b('0xba'),_0x1e2b('0xbb'),_0x1e2b('0xbc')];if(_0x2db1f8[_0x1e2b('0xbd')](_0x4c1dab)){return!![];}}return _0x1e2b('0xbe');}}];inquirer[_0x1e2b('0x96')](_0x418004)[_0x1e2b('0x68')](_0x4f8494=>{downloadSpinner[_0x1e2b('0x69')](chalk[_0x1e2b('0x4d')](_0x1e2b('0xa5')));startDownload(_0x4f8494[_0x1e2b('0xb5')])[_0x1e2b('0x68')](()=>{askForNewDownload();})[_0x1e2b('0x71')](_0xd7957f=>{downloadSpinner[_0x1e2b('0x63')](_0xd7957f);downloadStateInstance[_0x1e2b('0xa7')]();askForNewDownload();});});}function removeEmptyFiles(_0x471413){_0x471413[_0x1e2b('0xbf')](_0x2b83d8=>{if(fs[_0x1e2b('0x5f')](_0x2b83d8)){const _0x4e11be=fs[_0x1e2b('0x8d')](_0x2b83d8,_0x1e2b('0x9b'))[_0x1e2b('0xb3')]();if(''===_0x4e11be){fs[_0x1e2b('0x74')](_0x2b83d8);}}});}class downloadState{constructor(){this[_0x1e2b('0xc0')]={};this[_0x1e2b('0xc1')]=[];this[_0x1e2b('0xc2')]=![];this[_0x1e2b('0xc3')]=0x0;this[_0x1e2b('0xc4')]=0x0;this[_0x1e2b('0xc5')]='';this[_0x1e2b('0xc6')]=0x0;this[_0x1e2b('0xc7')]='';this[_0x1e2b('0xc8')]=null;this[_0x1e2b('0xc9')]=null;this[_0x1e2b('0xca')]=null;}[_0x1e2b('0x67')](_0x438f17,_0x3455ef){this[_0x1e2b('0xc2')]=!![];this[_0x1e2b('0xc5')]=_0x438f17;this[_0x1e2b('0xc6')]=_0x3455ef;this[_0x1e2b('0xc8')]=fs[_0x1e2b('0x1b')](_0x1e2b('0xcb'),{'flags':'a'});this[_0x1e2b('0xc9')]=fs[_0x1e2b('0x1b')](_0x1e2b('0xcc'),{'flags':'a'});this[_0x1e2b('0xca')]=fs[_0x1e2b('0x1b')](_0x1e2b('0xcd'),{'flags':'a'});this[_0x1e2b('0xce')]();}[_0x1e2b('0xcf')](_0x1b47be){this[_0x1e2b('0xc4')]=_0x1b47be;}[_0x1e2b('0xa7')](_0x334122=!![]){this[_0x1e2b('0xc2')]=![];if(_0x334122){let _0x2fd946=this[_0x1e2b('0xc5')];if(this[_0x1e2b('0xc7')]){_0x2fd946+='\x20\x22'+this[_0x1e2b('0xc7')]+'\x22';}downloadSpinner[_0x1e2b('0x6d')](_0x1e2b('0xd0')+_0x2fd946);}if('-'!==this[_0x1e2b('0xc6')][_0x1e2b('0xd1')]()[_0x1e2b('0xd2')](0x0)){this[_0x1e2b('0xc8')][_0x1e2b('0xd3')](_0x1e2b('0xd4')+this[_0x1e2b('0xc5')]+'/'+this[_0x1e2b('0xc6')]+'\x0d\x0a');}this[_0x1e2b('0xc8')][_0x1e2b('0xd5')]();this[_0x1e2b('0xc9')][_0x1e2b('0xd5')]();this[_0x1e2b('0xca')][_0x1e2b('0xd5')]();removeEmptyFiles([_0x1e2b('0xcb'),_0x1e2b('0xcc'),_0x1e2b('0xcd')]);this[_0x1e2b('0xc0')]={};this[_0x1e2b('0xc1')]=[];this[_0x1e2b('0xc3')]=0x0;this[_0x1e2b('0xc4')]=0x0;this[_0x1e2b('0xc5')]='';this[_0x1e2b('0xc6')]=0x0;this[_0x1e2b('0xc7')]='';}[_0x1e2b('0xd6')](_0x51e633){this[_0x1e2b('0xc7')]=_0x51e633;this[_0x1e2b('0xce')]();}[_0x1e2b('0xd7')](_0x209a2e,_0x34c684){this[_0x1e2b('0xc0')][_0x209a2e]=_0x34c684;this[_0x1e2b('0xce')]();}[_0x1e2b('0x9a')](_0x20f991,_0x323ce3){this[_0x1e2b('0xd7')](_0x20f991,_0x323ce3);}[_0x1e2b('0xd8')](_0x2d8397){delete this[_0x1e2b('0xc0')][_0x2d8397];this[_0x1e2b('0xce')]();}[_0x1e2b('0x87')](_0x5d9cf6,_0x30e45d){downloadSpinner[_0x1e2b('0x6d')](_0x30e45d);this[_0x1e2b('0xc3')]++;this[_0x1e2b('0xd8')](_0x5d9cf6);}[_0x1e2b('0x69')](_0x290a20,_0x8b6907){downloadSpinner[_0x1e2b('0x69')](_0x8b6907);if('-'!==_0x290a20[_0x1e2b('0xd1')]()[_0x1e2b('0xd2')](0x0)){this[_0x1e2b('0xca')][_0x1e2b('0xd3')](_0x1e2b('0xd9')+_0x290a20+'\x0d\x0a');}this[_0x1e2b('0xc3')]++;this[_0x1e2b('0xd8')](_0x290a20);}[_0x1e2b('0x63')](_0x2f64ec,_0x1b4731){downloadSpinner[_0x1e2b('0x63')](_0x1b4731);if('-'!==_0x2f64ec[_0x1e2b('0xd1')]()[_0x1e2b('0xd2')](0x0)){this[_0x1e2b('0xc9')][_0x1e2b('0xd3')](_0x1e2b('0xd9')+_0x2f64ec+'\x0d\x0a');}this[_0x1e2b('0xc3')]++;this[_0x1e2b('0xd8')](_0x2f64ec);}[_0x1e2b('0xce')](){if(this[_0x1e2b('0xc2')]){let _0x4b9145=this[_0x1e2b('0xc5')];if(this[_0x1e2b('0xc7')]){_0x4b9145+='\x20\x22'+this[_0x1e2b('0xc7')]+'\x22';}let _0x2ca93d=_0x1e2b('0xda');if(0x0!==this[_0x1e2b('0xc4')]){_0x2ca93d=(this[_0x1e2b('0xc3')]/this[_0x1e2b('0xc4')]*0x64)[_0x1e2b('0xdb')](0x2);}let _0x2f6f21=chalk[_0x1e2b('0xdc')](_0x1e2b('0xdd')+_0x4b9145+'\x20['+this[_0x1e2b('0xc3')]+'/'+this[_0x1e2b('0xc4')]+_0x1e2b('0xde')+_0x2ca93d+_0x1e2b('0xdf'));if(0x0<Object[_0x1e2b('0x83')](this[_0x1e2b('0xc0')])[_0x1e2b('0x30')]){_0x2f6f21+=_0x1e2b('0xe0')+Object[_0x1e2b('0xe1')](this[_0x1e2b('0xc0')])[_0x1e2b('0xe2')](_0x1e2b('0xe3'));}else{_0x2f6f21+=_0x1e2b('0xe4');}downloadSpinner[_0x1e2b('0x67')](_0x2f6f21);}}[_0x1e2b('0xe5')](_0x542d0e){this[_0x1e2b('0xc1')][_0x1e2b('0xe6')](_0x542d0e);}[_0x1e2b('0xe7')](_0x421a1c){const _0x4c3095=this[_0x1e2b('0xc1')][_0x1e2b('0xe8')](_0x421a1c);if(-0x1!==_0x4c3095){this[_0x1e2b('0xc1')][_0x1e2b('0xe9')](_0x4c3095,0x1);}}[_0x1e2b('0xea')](_0xa01b78){return this[_0x1e2b('0xc1')][_0x1e2b('0xe8')](_0xa01b78)>-0x1;}}let downloadStateInstance=new downloadState();function startDownload(_0x192515,_0xe06dc2=![]){log[_0x1e2b('0x1a')](_0x1e2b('0xeb'));log[_0x1e2b('0x1a')](_0x1e2b('0xec')+_0x192515+'\x22');const _0x431008=getDeezerUrlParts(_0x192515);downloadStateInstance[_0x1e2b('0x67')](_0x431008[_0x1e2b('0xb7')],_0x431008['id']);switch(_0x431008[_0x1e2b('0xb7')]){case _0x1e2b('0xb8'):case _0x1e2b('0xba'):case _0x1e2b('0xbb'):return downloadMultiple(_0x431008[_0x1e2b('0xb7')],_0x431008['id'])[_0x1e2b('0x68')](()=>{downloadStateInstance[_0x1e2b('0xa7')](!_0xe06dc2);});case _0x1e2b('0xb9'):return downloadArtist(_0x431008['id'])[_0x1e2b('0x68')](()=>{downloadStateInstance[_0x1e2b('0xa7')](!_0xe06dc2);});case _0x1e2b('0xbc'):downloadStateInstance[_0x1e2b('0xcf')](0x1);return downloadSingleTrack(_0x431008['id'])[_0x1e2b('0x68')](()=>{downloadStateInstance[_0x1e2b('0xa7')](!_0xe06dc2);});}}function getDeezerUrlParts(_0x574aa8){const _0x220b27=_0x574aa8[_0x1e2b('0xb1')](/\/(\w+)\/(\d+)/);return{'type':_0x220b27[0x1],'id':_0x220b27[0x2]};}function downloadArtist(_0x3b4a3c){return new Promise((_0x33d1c0,_0x4c33bd)=>{let _0x516287={'method':_0x1e2b('0x80'),'url':unofficialApiUrl,'qs':Object[_0x1e2b('0x81')](unofficialApiQueries,{'method':_0x1e2b('0xed'),'cid':getApiCid()}),'body':{'art_id':_0x3b4a3c,'filter_role_id':[0x0],'lang':'us','tab':0x0,'nb':-0x1,'start':0x0},'json':!![],'jar':!![]};requestWithCache(_0x516287)[_0x1e2b('0x68')](_0x532ce4=>{if(!_0x532ce4||0x0<Object[_0x1e2b('0x83')](_0x532ce4[_0x1e2b('0x41')])[_0x1e2b('0x30')]){if(_0x532ce4[_0x1e2b('0x41')][_0x1e2b('0xee')]){initDeezerApi();setTimeout(()=>{downloadArtist(_0x3b4a3c)[_0x1e2b('0x68')](()=>{_0x33d1c0();})[_0x1e2b('0x71')](_0x237794=>{_0x4c33bd(_0x237794);});},0x3e8);}else{throw _0x1e2b('0xef');}}else{log[_0x1e2b('0x1a')](_0x1e2b('0xf0')+_0x3b4a3c+'\x22');const _0x3561a7=_0x532ce4[_0x1e2b('0x86')][_0x1e2b('0xf1')];downloadStateInstance[_0x1e2b('0xd6')](_0x3561a7);_0x516287['qs'][_0x1e2b('0xf2')]=_0x1e2b('0xf3');_0x516287['qs'][_0x1e2b('0xf4')]=getApiCid();_0x516287[_0x1e2b('0xf5')]={'art_id':_0x3b4a3c,'filter_role_id':[0x0],'lang':'us','nb':-0x1,'nb_songs':-0x1,'start':0x0};requestWithoutCache(_0x516287)[_0x1e2b('0x68')](_0x2e9455=>{if(!_0x2e9455||0x0<Object[_0x1e2b('0x83')](_0x2e9455[_0x1e2b('0x41')])[_0x1e2b('0x30')]){if(_0x2e9455[_0x1e2b('0x41')][_0x1e2b('0xee')]){initDeezerApi();setTimeout(()=>{downloadArtist(_0x3b4a3c)[_0x1e2b('0x68')](()=>{_0x33d1c0();})[_0x1e2b('0x71')](_0xd2d15d=>{_0x4c33bd(_0xd2d15d);});},0x3e8);}else{throw _0x1e2b('0xf6')+_0x3561a7+_0x1e2b('0xf7');}}else{log[_0x1e2b('0x1a')](_0x1e2b('0xf8')+_0x3b4a3c+'\x22');if(0x0<_0x2e9455[_0x1e2b('0x86')][_0x1e2b('0xf9')][_0x1e2b('0x30')]){let _0x44ec50=[];let _0x40f0ad={};_0x2e9455[_0x1e2b('0x86')][_0x1e2b('0xf9')][_0x1e2b('0xbf')](_0x51a9ef=>{_0x40f0ad[_0x51a9ef[_0x1e2b('0xfa')]]=_0x51a9ef;_0x51a9ef[_0x1e2b('0xfb')][_0x1e2b('0xf9')][_0x1e2b('0xbf')](_0x21c8ad=>{_0x44ec50[_0x1e2b('0xe6')](_0x21c8ad);});});downloadStateInstance[_0x1e2b('0xcf')](_0x44ec50[_0x1e2b('0x30')]);trackListDownload(_0x44ec50,_0x40f0ad)[_0x1e2b('0x68')](()=>{_0x33d1c0();});}else{downloadSpinner[_0x1e2b('0x69')](_0x1e2b('0xfc')+_0x3561a7+'\x22');_0x33d1c0();}}})[_0x1e2b('0x71')](_0x1d2c99=>{_0x4c33bd(_0x1d2c99);});}})[_0x1e2b('0x71')](_0x59d34b=>{_0x4c33bd(_0x59d34b);});});}function downloadMultiple(_0x3882cf,_0x2fdf31){let _0xd48f08;let _0x34f066=unofficialApiQueries;switch(_0x3882cf){case _0x1e2b('0xb8'):_0x34f066[_0x1e2b('0xf2')]=_0x1e2b('0xfd');_0xd48f08={'alb_id':_0x2fdf31,'lang':'en','tab':0x0};break;case _0x1e2b('0xba'):_0x34f066[_0x1e2b('0xf2')]=_0x1e2b('0xfe');_0xd48f08={'playlist_id':_0x2fdf31,'lang':'en','nb':-0x1,'start':0x0,'tab':0x0,'tags':!![],'header':!![]};break;case _0x1e2b('0xbb'):_0x34f066[_0x1e2b('0xf2')]=_0x1e2b('0xff');_0xd48f08={'user_id':_0x2fdf31,'tab':_0x1e2b('0x100'),'nb':-0x1};break;}let _0x33dde6={'method':_0x1e2b('0x80'),'url':unofficialApiUrl,'qs':_0x34f066,'body':_0xd48f08,'json':!![],'jar':!![]};let _0x1be96c=requestWithoutCache;if(![_0x1e2b('0xba'),_0x1e2b('0xbb')][_0x1e2b('0xbd')](_0x3882cf)){_0x1be96c=requestWithCache;}return new Promise((_0x53603b,_0x3cb689)=>{_0x1be96c(_0x33dde6)[_0x1e2b('0x68')](_0x311635=>{if(!_0x311635||0x0<Object[_0x1e2b('0x83')](_0x311635[_0x1e2b('0x41')])[_0x1e2b('0x30')]||_0x1e2b('0xba')===_0x3882cf&&0x1===Number(_0x311635[_0x1e2b('0x86')][_0x1e2b('0x101')][_0x1e2b('0x102')])&&0x0<_0x311635[_0x1e2b('0x86')][_0x1e2b('0x101')][_0x1e2b('0x103')]&&0x0===_0x311635[_0x1e2b('0x86')][_0x1e2b('0xfb')][_0x1e2b('0xf9')][_0x1e2b('0x30')]){if(_0x311635[_0x1e2b('0x41')][_0x1e2b('0xee')]){initDeezerApi();setTimeout(()=>{downloadMultiple(_0x3882cf,_0x2fdf31)[_0x1e2b('0x68')](()=>{_0x53603b();})[_0x1e2b('0x71')](_0x39e92b=>{_0x3cb689(_0x39e92b);});},0x3e8);}else if(_0x1e2b('0xba')===_0x3882cf&&_0x311635[_0x1e2b('0x86')]&&_0x311635[_0x1e2b('0x86')][_0x1e2b('0x101')]&&0x1===Number(_0x311635[_0x1e2b('0x86')][_0x1e2b('0x101')][_0x1e2b('0x102')]&&0x0<_0x311635[_0x1e2b('0x86')][_0x1e2b('0x101')][_0x1e2b('0x103')]&&0x0===_0x311635[_0x1e2b('0x86')][_0x1e2b('0xfb')][_0x1e2b('0xf9')][_0x1e2b('0x30')])){throw _0x1e2b('0x104');}else{throw _0x1e2b('0x105')+_0x3882cf+'!';}}else{log[_0x1e2b('0x1a')](_0x1e2b('0x106')+_0x3882cf+'/'+_0x2fdf31+'\x22');let _0x5825aa=[];let _0x2a0b6c={};let _0x1c29ff='';switch(_0x3882cf){case _0x1e2b('0xb8'):_0x5825aa=_0x311635[_0x1e2b('0x86')][_0x1e2b('0xfb')][_0x1e2b('0xf9')];_0x311635[_0x1e2b('0x86')][_0x1e2b('0x101')][_0x1e2b('0xfb')]=_0x311635[_0x1e2b('0x86')][_0x1e2b('0xfb')];_0x2a0b6c[_0x311635[_0x1e2b('0x86')][_0x1e2b('0x101')][_0x1e2b('0xfa')]]=_0x311635[_0x1e2b('0x86')][_0x1e2b('0x101')];_0x1c29ff=_0x311635[_0x1e2b('0x86')][_0x1e2b('0x101')][_0x1e2b('0x107')];break;case _0x1e2b('0xba'):_0x5825aa=_0x311635[_0x1e2b('0x86')][_0x1e2b('0xfb')][_0x1e2b('0xf9')];_0x1c29ff=_0x311635[_0x1e2b('0x86')][_0x1e2b('0x101')][_0x1e2b('0x108')];break;case _0x1e2b('0xbb'):_0x5825aa=_0x311635[_0x1e2b('0x86')][_0x1e2b('0x109')][_0x1e2b('0x100')][_0x1e2b('0xf9')];_0x1c29ff=_0x311635[_0x1e2b('0x86')][_0x1e2b('0x101')][_0x1e2b('0x10a')][_0x1e2b('0x10b')];break;}downloadStateInstance[_0x1e2b('0xd6')](_0x1c29ff);if(0x0<_0x5825aa[_0x1e2b('0x30')]){if([_0x1e2b('0xbb'),_0x1e2b('0xb8')][_0x1e2b('0xbd')](_0x3882cf)){PLAYLIST_FILE_ITEMS=null;}else{PLAYLIST_FILE_ITEMS={};}downloadStateInstance[_0x1e2b('0xcf')](_0x5825aa[_0x1e2b('0x30')]);trackListDownload(_0x5825aa,_0x2a0b6c)[_0x1e2b('0x68')](()=>{if(PLAYLIST_FILE_ITEMS!=null){const _0x95f5f1=multipleWhitespacesToSingle(sanitizeFilename(_0x311635[_0x1e2b('0x86')][_0x1e2b('0x101')][_0x1e2b('0x108')]));const _0x104f2e=nodePath[_0x1e2b('0xe2')](PLAYLIST_DIR,_0x95f5f1+_0x1e2b('0x10c'));let _0xc3d9a1='';for(let _0x5618b8=0x0;_0x5618b8<PLAYLIST_FILE_ITEMS[_0x1e2b('0x30')];_0x5618b8++){_0xc3d9a1+=PLAYLIST_FILE_ITEMS[_0x5618b8]+'\x0d\x0a';}_0x5825aa[_0x1e2b('0xbf')](_0x3fe38a=>{if(PLAYLIST_FILE_ITEMS[_0x3fe38a[_0x1e2b('0x10d')]]){const _0x150e90=PLAYLIST_FILE_ITEMS[_0x3fe38a[_0x1e2b('0x10d')]];_0xc3d9a1+=_0x1e2b('0x10e')+_0x150e90[_0x1e2b('0x10f')]+','+_0x150e90[_0x1e2b('0x110')]+_0x1e2b('0xde')+_0x150e90[_0x1e2b('0x111')]+'\x0d\x0a';_0xc3d9a1+=_0x1e2b('0x112')+_0x150e90[_0x1e2b('0x113')]+'\x0d\x0a';}});ensureDir(_0x104f2e);fs[_0x1e2b('0x60')](_0x104f2e,_0xc3d9a1);}_0x53603b();});}else{downloadSpinner[_0x1e2b('0x69')](_0x1e2b('0x114')+_0x3882cf+'\x20\x22'+_0x1c29ff+'\x22');_0x53603b();}}})[_0x1e2b('0x71')](_0x1474d1=>{_0x3cb689(_0x1474d1);});});}function getNumberOfParallelDownloads(){let _0x51c2b8;const _0x471643=selectedMusicQuality[_0x1e2b('0x115')];try{_0x51c2b8=memoryStats[_0x1e2b('0x116')]()/0x400/0x400;}catch(_0x1ea49e){_0x51c2b8=0x0;}let _0x201f40=parseInt(((_0x51c2b8-0x12c)/_0x471643)[_0x1e2b('0xd1')]());if(0x14<_0x201f40){_0x201f40=0x14;}else if(0x1>_0x201f40){_0x201f40=0x1;}return _0x201f40;}function trackListDownload(_0x580030,_0x587e8e={}){const _0x5370cf=getNumberOfParallelDownloads();return Promise[_0x1e2b('0x117')](_0x580030,_0x3bc41=>{let _0x398834;if(_0x587e8e[_0x3bc41[_0x1e2b('0xfa')]]){_0x398834=_0x587e8e[_0x3bc41[_0x1e2b('0xfa')]];}_0x3bc41[_0x1e2b('0x118')]=_0x3bc41[_0x1e2b('0x119')];if(_0x3bc41[_0x1e2b('0x11a')]){_0x3bc41[_0x1e2b('0x118')]=(_0x3bc41[_0x1e2b('0x119')]+'\x20'+_0x3bc41[_0x1e2b('0x11a')])[_0x1e2b('0xb3')]();}let _0xf6909c=_0x3bc41[_0x1e2b('0xf1')];if(_0x398834&&''!==_0x398834[_0x1e2b('0xf1')]){_0xf6909c=_0x398834[_0x1e2b('0xf1')];}_0xf6909c=multipleWhitespacesToSingle(sanitizeFilename(_0xf6909c));if(''===_0xf6909c[_0x1e2b('0xb3')]()){_0xf6909c=_0x1e2b('0x11b');}if(_0x1e2b('0x11c')===_0xf6909c[_0x1e2b('0xb3')]()[_0x1e2b('0x11d')]()){_0xf6909c=_0x1e2b('0x11e');}let _0x4610b1=multipleWhitespacesToSingle(sanitizeFilename(_0x3bc41[_0x1e2b('0x107')]));if(''===_0x4610b1[_0x1e2b('0xb3')]()){_0x4610b1=_0x1e2b('0x11f');}_0x4610b1+=_0x1e2b('0x120');let _0x172f7b=nodePath[_0x1e2b('0xe2')](DOWNLOAD_DIR,_0xf6909c,_0x4610b1);if(_0x398834&&_0x398834[_0x1e2b('0xfb')]&&_0x398834[_0x1e2b('0xfb')][_0x1e2b('0xf9')]&&0x0<_0x398834[_0x1e2b('0xfb')][_0x1e2b('0xf9')][_0x1e2b('0x30')]&&''!==_0x398834[_0x1e2b('0xfb')][_0x1e2b('0xf9')][_0x398834[_0x1e2b('0xfb')][_0x1e2b('0xf9')][_0x1e2b('0x30')]-0x1][_0x1e2b('0x121')]){const _0x24e863=_0x398834[_0x1e2b('0xfb')][_0x1e2b('0xf9')][_0x398834[_0x1e2b('0xfb')][_0x1e2b('0xf9')][_0x1e2b('0x30')]-0x1][_0x1e2b('0x121')];if(_0x24e863>0x1){_0x172f7b+=nodePath[_0x1e2b('0xe2')](_0x172f7b,_0x1e2b('0x122')+toTwoDigits(_0x3bc41[_0x1e2b('0x121')]));}}let _0x23fa1d=multipleWhitespacesToSingle(sanitizeFilename(toTwoDigits(_0x3bc41[_0x1e2b('0x123')])+'\x20'+_0x3bc41[_0x1e2b('0x118')]));let _0x29f9eb=_0x1e2b('0x124');if(musicQualities[_0x1e2b('0xa4')]['id']===selectedMusicQuality['id']){_0x29f9eb=_0x1e2b('0x125');}const _0x2a3622=_0xf6909c+_0x1e2b('0xde')+_0x3bc41[_0x1e2b('0x118')];downloadStateInstance[_0x1e2b('0xd7')](_0x3bc41[_0x1e2b('0x10d')],_0x2a3622);if(fs[_0x1e2b('0x5f')](_0x172f7b)){let _0x2cee83=Finder[_0x1e2b('0x126')](_0x172f7b)[_0x1e2b('0x127')](_0x23fa1d+'.'+_0x29f9eb);if(0x0<_0x2cee83[_0x1e2b('0x30')]){addTrackToPlaylist(_0x2cee83[0x0],_0x3bc41);const _0x4ba0cd=_0xf6909c+_0x1e2b('0xde')+_0x3bc41[_0x1e2b('0x118')]+_0x1e2b('0x128');downloadStateInstance[_0x1e2b('0x87')](_0x3bc41[_0x1e2b('0x10d')],_0x4ba0cd);return!![];}}return downloadSingleTrack(_0x3bc41[_0x1e2b('0x10d')],_0x3bc41,_0x398834);},{'concurrency':_0x5370cf});}function downloadSingleTrack(_0x5439db,_0x3147e0={},_0x50382e={},_0x6acc6e=![],_0x121dbb=0x0){let _0x1bd206;let _0x3949d6;let _0x373a8a;let _0x2c42e9=_0x1e2b('0x124');let _0x1df072;log[_0x1e2b('0x1a')](_0x1e2b('0x129')+_0x5439db+'\x22');return new Promise(_0x3bff50=>{if('-'===_0x5439db[_0x1e2b('0xd1')]()[_0x1e2b('0xd2')](0x0)&&0x0<Object[_0x1e2b('0x83')](_0x3147e0)[_0x1e2b('0x30')]){getTrackAlternative(_0x3147e0)[_0x1e2b('0x68')](_0x2139b1=>{downloadStateInstance[_0x1e2b('0xd8')](_0x5439db);log[_0x1e2b('0x1a')](_0x1e2b('0x12a')+_0x2139b1[_0x1e2b('0x10d')]+_0x1e2b('0x12b')+_0x3147e0[_0x1e2b('0x10d')]+'\x22');downloadSingleTrack(_0x2139b1[_0x1e2b('0x10d')],{},{},!![])[_0x1e2b('0x68')](()=>{_0x3bff50();});})[_0x1e2b('0x71')](()=>{_0x3f91a2();});}else{_0x3f91a2();}function _0x3f91a2(){if(!_0x6acc6e&&0x0<Object[_0x1e2b('0x83')](_0x3147e0)[_0x1e2b('0x30')]){_0x373a8a=_0x3147e0;_0x266b6d();}else{getTrackInfos(_0x5439db)[_0x1e2b('0x68')](_0x5ae985=>{_0x373a8a=_0x5ae985;_0x266b6d();})[_0x1e2b('0x71')](_0x8c8124=>{_0x5f02cb(_0x8c8124);});}}function _0x266b6d(){if(!_0x6acc6e||0x0===Object[_0x1e2b('0x83')](_0x3147e0)[_0x1e2b('0x30')]){_0x3147e0=_0x373a8a;}_0x1df072=getValidTrackQuality(_0x373a8a);_0x373a8a[_0x1e2b('0x118')]=_0x373a8a[_0x1e2b('0x119')];if(_0x373a8a[_0x1e2b('0x11a')]){_0x373a8a[_0x1e2b('0x118')]=(_0x373a8a[_0x1e2b('0x119')]+'\x20'+_0x373a8a[_0x1e2b('0x11a')])[_0x1e2b('0xb3')]();}if(0x0<Object[_0x1e2b('0x83')](_0x50382e)[_0x1e2b('0x30')]||0x0===_0x3147e0[_0x1e2b('0xfa')]){_0x518aa3();}else{const _0x4228ef=_0x3147e0[_0x1e2b('0xf1')]+_0x1e2b('0xde')+_0x3147e0[_0x1e2b('0x118')];downloadStateInstance[_0x1e2b('0x9a')](_0x373a8a[_0x1e2b('0x10d')],_0x4228ef);getAlbumInfos(_0x3147e0[_0x1e2b('0xfa')])[_0x1e2b('0x68')](_0x50eed8=>{_0x50382e=_0x50eed8;_0x50382e[_0x1e2b('0x12c')]=_0x1e2b('0xb8');_0x50382e[_0x1e2b('0x12d')]=[];_0x518aa3();})[_0x1e2b('0x71')](()=>{_0x518aa3();});}}function _0x518aa3(){_0x373a8a[_0x1e2b('0x12e')]='';_0x373a8a[_0x1e2b('0x12f')]='';_0x373a8a[_0x1e2b('0x130')]='';_0x373a8a[_0x1e2b('0x131')]='';if(_0x50382e[_0x1e2b('0x132')]){_0x373a8a[_0x1e2b('0x12e')]=_0x50382e[_0x1e2b('0x132')];}if(_0x50382e[_0x1e2b('0x133')]&&!_0x3147e0[_0x1e2b('0x134')]){_0x373a8a[_0x1e2b('0x134')]=_0x50382e[_0x1e2b('0x133')];}if(_0x50382e[_0x1e2b('0xfb')]&&0x0<_0x50382e[_0x1e2b('0xfb')][_0x1e2b('0xf9')][_0x1e2b('0x30')]&&_0x50382e[_0x1e2b('0xfb')][_0x1e2b('0xf9')][_0x50382e[_0x1e2b('0xfb')][_0x1e2b('0xf9')][_0x1e2b('0x30')]-0x1][_0x1e2b('0x121')]){_0x373a8a[_0x1e2b('0x131')]=_0x50382e[_0x1e2b('0xfb')][_0x1e2b('0xf9')][_0x50382e[_0x1e2b('0xfb')][_0x1e2b('0xf9')][_0x1e2b('0x30')]-0x1][_0x1e2b('0x121')];}_0x373a8a[_0x1e2b('0x135')]=_0x373a8a[_0x1e2b('0xf1')];if(_0x50382e[_0x1e2b('0xf1')]){_0x373a8a[_0x1e2b('0x135')]=_0x50382e[_0x1e2b('0xf1')];}if(!_0x373a8a[_0x1e2b('0x136')]||0x0===_0x373a8a[_0x1e2b('0x136')][_0x1e2b('0x30')]){_0x373a8a[_0x1e2b('0x136')]=[{'ART_ID':_0x373a8a[_0x1e2b('0x137')],'ART_NAME':_0x373a8a[_0x1e2b('0x135')],'ART_PICTURE':_0x373a8a[_0x1e2b('0x138')]}];}if(_0x1e2b('0x11c')===_0x373a8a[_0x1e2b('0x135')][_0x1e2b('0xb3')]()[_0x1e2b('0x11d')]()){_0x373a8a[_0x1e2b('0x135')]=_0x1e2b('0x11e');}if(_0x50382e[_0x1e2b('0x139')]){_0x373a8a[_0x1e2b('0x12f')]=_0x50382e[_0x1e2b('0x139')];}if(_0x50382e[_0x1e2b('0xfb')]&&_0x50382e[_0x1e2b('0xfb')][_0x1e2b('0xf9')][_0x1e2b('0x30')]){_0x373a8a[_0x1e2b('0x130')]=_0x50382e[_0x1e2b('0xfb')][_0x1e2b('0xf9')][_0x1e2b('0x30')];}const _0x98402e=_0x3147e0[_0x1e2b('0x135')]+_0x1e2b('0xde')+_0x3147e0[_0x1e2b('0x118')];downloadStateInstance[_0x1e2b('0x9a')](_0x373a8a[_0x1e2b('0x10d')],_0x98402e);if(0x0===_0x3147e0[_0x1e2b('0xfa')]){_0x1956e3();}else{getAlbumInfosOfficialApi(_0x3147e0[_0x1e2b('0xfa')])[_0x1e2b('0x68')](_0x49e69b=>{_0x50382e[_0x1e2b('0x12c')]=_0x49e69b[_0x1e2b('0x13a')];_0x50382e[_0x1e2b('0x12d')]=[];_0x49e69b[_0x1e2b('0x13b')][_0x1e2b('0xf9')][_0x1e2b('0xbf')](_0x230a14=>{_0x50382e[_0x1e2b('0x12d')][_0x1e2b('0xe6')](_0x230a14[_0x1e2b('0x13c')]);});_0x1956e3();})[_0x1e2b('0x71')](()=>{_0x1956e3();});}}function _0x1956e3(){_0x373a8a[_0x1e2b('0x13d')]=_0x50382e[_0x1e2b('0x12d')];if(_0x50382e[_0x1e2b('0x12c')]){_0x373a8a[_0x1e2b('0x13e')]=_0x50382e[_0x1e2b('0x12c')];}if(_0x6acc6e){_0x3147e0[_0x1e2b('0x103')]=_0x373a8a[_0x1e2b('0x103')];_0x3147e0[_0x1e2b('0x13f')]=_0x373a8a[_0x1e2b('0x13f')];_0x3147e0[_0x1e2b('0x140')]=_0x373a8a[_0x1e2b('0x140')];_0x3147e0[_0x1e2b('0x141')]=_0x373a8a[_0x1e2b('0x141')];}else{_0x3147e0=_0x373a8a;}if(_0x1df072){let _0x304ad0=multipleWhitespacesToSingle(sanitizeFilename(_0x3147e0[_0x1e2b('0x135')]));if(''===_0x304ad0[_0x1e2b('0xb3')]()){_0x304ad0=_0x1e2b('0x11b');}let _0x50bb3e=_0x1e2b('0x142');if(_0x50382e[_0x1e2b('0x12c')]){_0x50bb3e=_0x50382e[_0x1e2b('0x12c')][_0x1e2b('0x11d')]();if('ep'===_0x50bb3e){_0x50bb3e='EP';}else{_0x50bb3e=capitalizeFirstLetter(_0x50bb3e);}}let _0x1ee5af=multipleWhitespacesToSingle(sanitizeFilename(_0x3147e0[_0x1e2b('0x107')]));if(''===_0x1ee5af[_0x1e2b('0xb3')]()){_0x1ee5af=_0x1e2b('0x11f');}_0x1ee5af+='\x20('+_0x50bb3e+')';if(_0x3147e0[_0x1e2b('0x131')]>0x1){_0x1bd206=nodePath[_0x1e2b('0xe2')](DOWNLOAD_DIR,_0x304ad0,_0x1ee5af,_0x1e2b('0x122')+toTwoDigits(_0x3147e0[_0x1e2b('0x121')]));}else{_0x1bd206=nodePath[_0x1e2b('0xe2')](DOWNLOAD_DIR,_0x304ad0,_0x1ee5af);}if(musicQualities[_0x1e2b('0xa4')]['id']===_0x1df072['id']){_0x2c42e9=_0x1e2b('0x125');}_0x3949d6=_0x1bd206+nodePath[_0x1e2b('0x143')];if(_0x3147e0[_0x1e2b('0x123')]){_0x3949d6+=toTwoDigits(_0x3147e0[_0x1e2b('0x123')])+'\x20';}_0x3949d6+=multipleWhitespacesToSingle(sanitizeFilename(_0x3147e0[_0x1e2b('0x118')]));_0x3949d6+='.'+_0x2c42e9;if(!fs[_0x1e2b('0x5f')](_0x3949d6)&&!downloadStateInstance[_0x1e2b('0xea')](_0x3949d6)){downloadStateInstance[_0x1e2b('0xe5')](_0x3949d6);return downloadTrack(_0x373a8a,_0x1df072['id'],_0x3949d6)[_0x1e2b('0x68')](_0x3683ee=>{_0x14e335(_0x3683ee);})[_0x1e2b('0x71')](_0xc0d169=>{log[_0x1e2b('0x1a')](_0x1e2b('0x144')+_0x3147e0[_0x1e2b('0x10d')]+_0x1e2b('0x145')+_0xc0d169+'\x22');if(_0x373a8a[_0x1e2b('0x146')]&&_0x373a8a[_0x1e2b('0x146')][_0x1e2b('0x10d')]&&_0x3147e0[_0x1e2b('0x10d')]!==_0x373a8a[_0x1e2b('0x146')][_0x1e2b('0x10d')]&&_0x373a8a[_0x1e2b('0x10d')]!==_0x373a8a[_0x1e2b('0x146')][_0x1e2b('0x10d')]){downloadStateInstance[_0x1e2b('0xe7')](_0x3949d6);downloadStateInstance[_0x1e2b('0xd8')](_0x373a8a[_0x1e2b('0x10d')]);log[_0x1e2b('0x1a')](_0x1e2b('0x12a')+_0x373a8a[_0x1e2b('0x146')][_0x1e2b('0x10d')]+_0x1e2b('0x12b')+_0x3147e0[_0x1e2b('0x10d')]+'\x22');downloadSingleTrack(_0x373a8a[_0x1e2b('0x146')][_0x1e2b('0x10d')],_0x3147e0,_0x50382e,!![])[_0x1e2b('0x68')](()=>{_0x3bff50();});const _0xc0d169={'message':'-','name':_0x1e2b('0x147')};_0x5f02cb(_0xc0d169);}else{getTrackAlternative(_0x3147e0)[_0x1e2b('0x68')](_0x3c132b=>{downloadStateInstance[_0x1e2b('0xe7')](_0x3949d6);downloadStateInstance[_0x1e2b('0xd8')](_0x373a8a[_0x1e2b('0x10d')]);log[_0x1e2b('0x1a')](_0x1e2b('0x12a')+_0x3c132b[_0x1e2b('0x10d')]+_0x1e2b('0x12b')+_0x3147e0[_0x1e2b('0x10d')]+'\x22');if(_0x50382e[_0x1e2b('0x107')]){_0x50382e={};}downloadSingleTrack(_0x3c132b[_0x1e2b('0x10d')],_0x3147e0,_0x50382e,!![])[_0x1e2b('0x68')](()=>{_0x3bff50();});})[_0x1e2b('0x71')](()=>{const _0x307f9a=_0x3147e0[_0x1e2b('0x135')]+_0x1e2b('0xde')+_0x3147e0[_0x1e2b('0x118')]+_0x1e2b('0x148');_0x5f02cb(_0x307f9a);});}});}else{addTrackToPlaylist(_0x3949d6,_0x3147e0);const _0x5662bb={'message':_0x3147e0[_0x1e2b('0x135')]+_0x1e2b('0xde')+_0x3147e0[_0x1e2b('0x118')]+_0x1e2b('0x128'),'name':_0x1e2b('0x149')};_0x5f02cb(_0x5662bb);}}else{_0x5f02cb(_0x3147e0[_0x1e2b('0x135')]+_0x1e2b('0xde')+_0x3147e0[_0x1e2b('0x118')]+_0x1e2b('0x148'));}}function _0x14e335(_0x47af62){let _0x11c4b5='';if(_0x6acc6e&&_0x373a8a[_0x1e2b('0x118')][_0x1e2b('0xb3')]()[_0x1e2b('0x11d')]()!==_0x3147e0[_0x1e2b('0x118')][_0x1e2b('0xb3')]()[_0x1e2b('0x11d')]()){_0x11c4b5=_0x1e2b('0x14a')+_0x373a8a[_0x1e2b('0x135')]+_0x1e2b('0xde')+_0x373a8a[_0x1e2b('0x118')]+_0x1e2b('0x14b');}if(_0x1df072!==selectedMusicQuality){let _0x4c9992=musicQualities[Object[_0x1e2b('0x83')](musicQualities)[_0x1e2b('0x14c')](_0xee0d97=>musicQualities[_0xee0d97]===selectedMusicQuality)][_0x1e2b('0x13c')];let _0xe50bab=musicQualities[Object[_0x1e2b('0x83')](musicQualities)[_0x1e2b('0x14c')](_0xd3044e=>musicQualities[_0xd3044e]===_0x1df072)][_0x1e2b('0x13c')];_0x11c4b5+=_0x1e2b('0x14a')+_0xe50bab+_0x1e2b('0x14d')+_0x4c9992+_0x1e2b('0x14e');}const _0x433866=''+_0x3147e0[_0x1e2b('0x135')]+_0x1e2b('0xde')+_0x3147e0[_0x1e2b('0x118')]+''+_0x11c4b5;addTrackTags(_0x47af62,_0x3147e0,_0x3949d6)[_0x1e2b('0x68')](()=>{downloadStateInstance[_0x1e2b('0x87')](_0x373a8a[_0x1e2b('0x10d')],_0x433866);downloadStateInstance[_0x1e2b('0xe7')](_0x3949d6);addTrackToPlaylist(_0x3949d6,_0x3147e0);_0x3bff50();})[_0x1e2b('0x71')](()=>{const _0x10556c=_0x433866+_0x1e2b('0x14f');downloadStateInstance[_0x1e2b('0x69')](_0x373a8a[_0x1e2b('0x10d')],_0x10556c);downloadStateInstance[_0x1e2b('0xe7')](_0x3949d6);addTrackToPlaylist(_0x3949d6,_0x3147e0);_0x3bff50();});}function _0x5f02cb(_0x48953d){if(0x194===_0x48953d[_0x1e2b('0x3b')]){_0x48953d=_0x1e2b('0x150')+_0x5439db+_0x1e2b('0x151');}if(_0x48953d[_0x1e2b('0x13c')]&&_0x48953d[_0x1e2b('0x64')]){if('-'!==_0x48953d[_0x1e2b('0x64')]){if(_0x1e2b('0x149')===_0x48953d[_0x1e2b('0x13c')]){downloadStateInstance[_0x1e2b('0x87')](_0x373a8a[_0x1e2b('0x10d')],_0x48953d[_0x1e2b('0x64')]);}else{downloadStateInstance[_0x1e2b('0x63')](_0x373a8a[_0x1e2b('0x10d')],_0x48953d[_0x1e2b('0x64')]);}}}else{downloadStateInstance[_0x1e2b('0x63')](_0x5439db,_0x48953d);}if(_0x1e2b('0x147')!==_0x48953d[_0x1e2b('0x13c')]&&_0x1e2b('0x152')!==_0x48953d[_0x1e2b('0x13c')]){_0x3bff50();}}});}function getTrackInfos(_0x31ddeb){return new Promise((_0x9bca43,_0x3b7cab)=>{return requestWithCache({'method':_0x1e2b('0x80'),'url':unofficialApiUrl,'qs':Object[_0x1e2b('0x81')](unofficialApiQueries,{'method':_0x1e2b('0x153'),'cid':getApiCid()}),'body':{'sng_id':_0x31ddeb},'json':!![],'jar':!![]})[_0x1e2b('0x68')](_0x57f583=>{log[_0x1e2b('0x1a')](_0x1e2b('0x154')+_0x31ddeb+'\x22');if(_0x57f583&&0x0===Object[_0x1e2b('0x83')](_0x57f583[_0x1e2b('0x41')])[_0x1e2b('0x30')]&&_0x57f583[_0x1e2b('0x86')]&&_0x57f583[_0x1e2b('0x86')][_0x1e2b('0x101')]){let _0x90b259=_0x57f583[_0x1e2b('0x86')][_0x1e2b('0x101')];if(_0x57f583[_0x1e2b('0x86')][_0x1e2b('0x141')]){_0x90b259[_0x1e2b('0x141')]=_0x57f583[_0x1e2b('0x86')][_0x1e2b('0x141')];}_0x9bca43(_0x90b259);}else if(_0x57f583[_0x1e2b('0x41')][_0x1e2b('0xee')]){initDeezerApi();setTimeout(()=>{getTrackInfos(_0x31ddeb)[_0x1e2b('0x68')](_0x13c52d=>{_0x9bca43(_0x13c52d);})[_0x1e2b('0x71')](_0x69d7f9=>{_0x3b7cab(_0x69d7f9);});},0x3e8);}else{_0x3b7cab({'statusCode':0x194});}})[_0x1e2b('0x71')](()=>{_0x3b7cab({'statusCode':0x194});});});}function getTrackAlternative(_0x593dec){return new Promise((_0x28d56d,_0x480738)=>{return requestWithCache({'method':_0x1e2b('0x80'),'url':unofficialApiUrl,'qs':Object[_0x1e2b('0x81')](unofficialApiQueries,{'method':_0x1e2b('0x155'),'cid':getApiCid()}),'body':{'QUERY':_0x1e2b('0x156')+_0x593dec[_0x1e2b('0xf1')]+_0x1e2b('0x157')+_0x593dec[_0x1e2b('0x119')]+'\x27','OUTPUT':_0x1e2b('0x158'),'NB':0x32,'FILTER':0x0},'json':!![],'jar':!![]})[_0x1e2b('0x68')](_0x25802e=>{log[_0x1e2b('0x1a')](_0x1e2b('0x159')+_0x593dec[_0x1e2b('0x10d')]+'\x22');if(_0x25802e&&0x0===Object[_0x1e2b('0x83')](_0x25802e[_0x1e2b('0x41')])[_0x1e2b('0x30')]&&_0x25802e[_0x1e2b('0x86')]&&_0x25802e[_0x1e2b('0x86')][_0x1e2b('0xf9')]&&0x0<_0x25802e[_0x1e2b('0x86')][_0x1e2b('0xf9')][_0x1e2b('0x30')]){const _0x5df403=_0x25802e[_0x1e2b('0x86')][_0x1e2b('0xf9')];let _0x3add89=[];if(0x0<_0x5df403[_0x1e2b('0x30')]){_0x5df403[_0x1e2b('0xbf')](_0x23003a=>{if(_0x593dec[_0x1e2b('0x15a')]!==_0x23003a[_0x1e2b('0x15a')]&&_0x593dec[_0x1e2b('0x103')]-0x5<=_0x23003a[_0x1e2b('0x103')]&&_0x593dec[_0x1e2b('0x103')]+0xa>=_0x23003a[_0x1e2b('0x103')]){_0x3add89[_0x1e2b('0xe6')](_0x23003a);}});if(0x1===_0x3add89[_0x1e2b('0x30')]){_0x28d56d(_0x3add89[0x0]);}else{let _0xa59ae6=![];if(0x0===_0x3add89[_0x1e2b('0x30')]){_0x5df403[_0x1e2b('0xbf')](_0x5275b0=>{if(_0x593dec[_0x1e2b('0x15a')]!==_0x5275b0[_0x1e2b('0x15a')]){_0x3add89[_0x1e2b('0xe6')](_0x5275b0);}});}_0x3add89[_0x1e2b('0xbf')](_0x68e52b=>{_0x68e52b[_0x1e2b('0x118')]=_0x68e52b[_0x1e2b('0x119')];if(_0x68e52b[_0x1e2b('0x11a')]){_0x68e52b[_0x1e2b('0x118')]=(_0x68e52b[_0x1e2b('0x119')]+'\x20'+_0x68e52b[_0x1e2b('0x11a')])[_0x1e2b('0xb3')]();}if(removeWhitespacesAndSpecialChars(_0x593dec[_0x1e2b('0x118')])[_0x1e2b('0x11d')]()===removeWhitespacesAndSpecialChars(_0x68e52b[_0x1e2b('0x118')])[_0x1e2b('0x11d')]()){_0xa59ae6=!![];_0x28d56d(_0x68e52b);}});if(!_0xa59ae6){_0x480738();}}}else{_0x480738();}}else if(_0x25802e[_0x1e2b('0x41')][_0x1e2b('0xee')]){initDeezerApi();setTimeout(()=>{getTrackAlternative(_0x593dec)[_0x1e2b('0x68')](_0x4418b3=>{_0x28d56d(_0x4418b3);})[_0x1e2b('0x71')](()=>{_0x480738();});},0x3e8);}else{_0x480738();}})[_0x1e2b('0x71')](()=>{_0x480738();});});}function removeWhitespacesAndSpecialChars(_0x4a2db5){return _0x4a2db5[_0x1e2b('0x62')](/[^A-Z0-9]/gi,'');}function getAlbumInfos(_0x126954){return new Promise((_0x5a3abb,_0x3370f3)=>{return requestWithCache({'method':_0x1e2b('0x80'),'url':unofficialApiUrl,'qs':Object[_0x1e2b('0x81')](unofficialApiQueries,{'method':_0x1e2b('0xfd'),'cid':getApiCid()}),'body':{'alb_id':_0x126954,'lang':'us','tab':0x0},'json':!![],'jar':!![]})[_0x1e2b('0x68')](_0x503b03=>{log[_0x1e2b('0x1a')](_0x1e2b('0x15b')+_0x126954+'\x22');if(_0x503b03&&0x0===Object[_0x1e2b('0x83')](_0x503b03[_0x1e2b('0x41')])[_0x1e2b('0x30')]&&_0x503b03[_0x1e2b('0x86')]&&_0x503b03[_0x1e2b('0x86')][_0x1e2b('0x101')]&&_0x503b03[_0x1e2b('0x86')][_0x1e2b('0xfb')]){let _0x5a5173=_0x503b03[_0x1e2b('0x86')][_0x1e2b('0x101')];_0x5a5173[_0x1e2b('0xfb')]=_0x503b03[_0x1e2b('0x86')][_0x1e2b('0xfb')];_0x5a3abb(_0x5a5173);}else if(_0x503b03[_0x1e2b('0x41')][_0x1e2b('0xee')]){initDeezerApi();setTimeout(()=>{getAlbumInfos(_0x126954)[_0x1e2b('0x68')](_0x55ded6=>{_0x5a3abb(_0x55ded6);})[_0x1e2b('0x71')](_0x8407ac=>{_0x3370f3(_0x8407ac);});},0x3e8);}else{_0x3370f3({'statusCode':0x194});}})[_0x1e2b('0x71')](()=>{_0x3370f3({'statusCode':0x194});});});}function getAlbumInfosOfficialApi(_0x2a75f5){return new Promise((_0x4cdbcf,_0x40c907)=>{return requestWithCache({'url':_0x1e2b('0x15c')+_0x2a75f5,'json':!![]})[_0x1e2b('0x68')](_0x54eace=>{log[_0x1e2b('0x1a')](_0x1e2b('0x15d')+_0x2a75f5+'\x22');if(_0x54eace&&!_0x54eace[_0x1e2b('0x41')]){_0x4cdbcf(_0x54eace);}else{_0x40c907({'statusCode':0x194});}})[_0x1e2b('0x71')](()=>{_0x40c907({'statusCode':0x194});});});}function getTrackLyrics(_0x55fa84){return new Promise((_0x4559b,_0x4be6c7)=>{return requestWithCache({'method':_0x1e2b('0x80'),'url':unofficialApiUrl,'qs':Object[_0x1e2b('0x81')](unofficialApiQueries,{'method':_0x1e2b('0x15e'),'cid':getApiCid()}),'body':{'sng_id':_0x55fa84},'json':!![],'jar':!![]})[_0x1e2b('0x68')](_0x53b41b=>{log[_0x1e2b('0x1a')](_0x1e2b('0x15f')+_0x55fa84+'\x22');if(_0x53b41b&&0x0===Object[_0x1e2b('0x83')](_0x53b41b[_0x1e2b('0x41')])[_0x1e2b('0x30')]&&_0x53b41b[_0x1e2b('0x86')]&&_0x53b41b[_0x1e2b('0x86')][_0x1e2b('0x140')]){let _0x217dd9=_0x53b41b[_0x1e2b('0x86')];_0x4559b(_0x217dd9);}else if(_0x53b41b[_0x1e2b('0x41')][_0x1e2b('0xee')]){initDeezerApi();setTimeout(()=>{getTrackLyrics(_0x55fa84)[_0x1e2b('0x68')](_0x197cea=>{_0x4559b(_0x197cea);})[_0x1e2b('0x71')](_0x599c65=>{_0x4be6c7(_0x599c65);});},0x3e8);}else{_0x4be6c7({'statusCode':0x194});}})[_0x1e2b('0x71')](()=>{_0x4be6c7({'statusCode':0x194});});});}function addTrackToPlaylist(_0x25760f,_0x575230){if(PLAYLIST_FILE_ITEMS!=null){let _0x5767aa=_0x25760f[_0x1e2b('0x62')](/\\+/g,'/');if(!_0x575230[_0x1e2b('0x135')]){_0x575230[_0x1e2b('0x135')]=_0x575230[_0x1e2b('0xf1')];}let _0x124bb7=multipleWhitespacesToSingle(sanitizeFilename(_0x575230[_0x1e2b('0x135')]));if(''===_0x124bb7[_0x1e2b('0xb3')]()){_0x124bb7=_0x1e2b('0x11b');}PLAYLIST_FILE_ITEMS[_0x575230[_0x1e2b('0x10d')]]={'trackTitle':_0x575230[_0x1e2b('0x118')],'trackArtist':_0x124bb7,'trackDuration':_0x575230[_0x1e2b('0x103')],'trackSavePath':_0x5767aa};}}function capitalizeFirstLetter(_0x59b107){return _0x59b107[_0x1e2b('0xd2')](0x0)[_0x1e2b('0x160')]()+_0x59b107[_0x1e2b('0x161')](0x1);}function toTwoDigits(_0x5eebed){return(_0x5eebed<0xa?'0':'')+_0x5eebed;}function multipleWhitespacesToSingle(_0x2bf83f){return _0x2bf83f[_0x1e2b('0x62')](/[ _,]+/g,'\x20');}function sanitizeFilename(_0x281e25){_0x281e25=_0x281e25[_0x1e2b('0x62')]('/','-');return sanitize(_0x281e25);}function getTrackDownloadUrl(_0x46242f,_0x492de1){const _0xfbabd=[_0x46242f[_0x1e2b('0x15a')],_0x492de1,_0x46242f[_0x1e2b('0x10d')],_0x46242f[_0x1e2b('0x162')]][_0x1e2b('0xe2')]('¤');let _0x2cd073=crypto[_0x1e2b('0x163')](_0x1e2b('0x164'))[_0x1e2b('0x9a')](_0xfbabd,_0x1e2b('0x165'))[_0x1e2b('0x166')](_0x1e2b('0x9c'))+'¤'+_0xfbabd+'¤';while(_0x2cd073[_0x1e2b('0x30')]%0x10>0x0)_0x2cd073+='\x20';const _0x5ca286=crypto[_0x1e2b('0x167')](_0x1e2b('0x168'),_0x1e2b('0x169'),'')[_0x1e2b('0x9a')](_0x2cd073,_0x1e2b('0x165'),_0x1e2b('0x9c'));const _0x35fef2=generateRandomHexString(0x1);return _0x1e2b('0x16a')+_0x35fef2+_0x1e2b('0x16b')+_0x5ca286;}function generateRandomHexString(_0x27f4c0){let _0x2d17e8='';let _0x34955d=_0x1e2b('0x16c');for(let _0x490d5d=0x0;_0x490d5d<_0x27f4c0;_0x490d5d++){_0x2d17e8+=_0x34955d[_0x1e2b('0xd2')](Math[_0x1e2b('0x9f')](Math[_0x1e2b('0xa0')]()*_0x34955d[_0x1e2b('0x30')]));}return _0x2d17e8;}function fileSizeIsDefined(_0x3131e5){return!(_0x1e2b('0x16d')===typeof _0x3131e5||0x0===parseInt(_0x3131e5));}function getValidTrackQuality(_0x325bbf){if(fileSizeIsDefined(_0x325bbf[_0x1e2b('0x16e')])){return musicQualities[_0x1e2b('0x16f')];}if(musicQualities[_0x1e2b('0xa4')]===selectedMusicQuality){if(!fileSizeIsDefined(_0x325bbf[_0x1e2b('0x170')])){if(!fileSizeIsDefined(_0x325bbf[_0x1e2b('0x171')])){if(!fileSizeIsDefined(_0x325bbf[_0x1e2b('0x172')])){if(!fileSizeIsDefined(_0x325bbf[_0x1e2b('0x173')])){return![];}return musicQualities[_0x1e2b('0xa3')];}return musicQualities[_0x1e2b('0x174')];}return musicQualities[_0x1e2b('0x25')];}return musicQualities[_0x1e2b('0xa4')];}if(musicQualities[_0x1e2b('0x25')]===selectedMusicQuality){if(!fileSizeIsDefined(_0x325bbf[_0x1e2b('0x171')])){if(!fileSizeIsDefined(_0x325bbf[_0x1e2b('0x170')])){if(!fileSizeIsDefined(_0x325bbf[_0x1e2b('0x172')])){if(!fileSizeIsDefined(_0x325bbf[_0x1e2b('0x173')])){return![];}return musicQualities[_0x1e2b('0xa3')];}return musicQualities[_0x1e2b('0x174')];}return musicQualities[_0x1e2b('0xa4')];}return musicQualities[_0x1e2b('0x25')];}if(musicQualities[_0x1e2b('0xa3')]===selectedMusicQuality){if(!fileSizeIsDefined(_0x325bbf[_0x1e2b('0x173')])){if(!fileSizeIsDefined(_0x325bbf[_0x1e2b('0x172')])){if(!fileSizeIsDefined(_0x325bbf[_0x1e2b('0x171')])){if(!fileSizeIsDefined(_0x325bbf[_0x1e2b('0x170')])){return![];}return musicQualities[_0x1e2b('0xa4')];}return musicQualities[_0x1e2b('0x25')];}return musicQualities[_0x1e2b('0x174')];}return musicQualities[_0x1e2b('0xa3')];}return![];}function getBlowfishKey(_0x170bfc){const _0x3a6497=_0x1e2b('0x175');const _0x5f21cf=crypto[_0x1e2b('0x163')](_0x1e2b('0x164'))[_0x1e2b('0x9a')](_0x170bfc[_0x1e2b('0x10d')][_0x1e2b('0xd1')](),_0x1e2b('0x165'))[_0x1e2b('0x166')](_0x1e2b('0x9c'));let _0xf33b6f='';for(let _0x3a877b=0x0;_0x3a877b<0x10;_0x3a877b++){_0xf33b6f+=String[_0x1e2b('0x176')](_0x5f21cf[_0x1e2b('0x177')](_0x3a877b)^_0x5f21cf[_0x1e2b('0x177')](_0x3a877b+0x10)^_0x3a6497[_0x1e2b('0x177')](_0x3a877b));}return _0xf33b6f;}function decryptTrack(_0x5cfce0,_0x2ad2ac){const _0x44d3d3=getBlowfishKey(_0x2ad2ac);let _0x337e7b=0x0;let _0x4e5836=0x0;let _0x577272=new Buffer(_0x5cfce0[_0x1e2b('0x30')]);_0x577272[_0x1e2b('0x178')](0x0);while(_0x4e5836<_0x5cfce0[_0x1e2b('0x30')]){let _0x16b36d=0x800;if(_0x5cfce0[_0x1e2b('0x30')]-_0x4e5836<0x800){_0x16b36d=_0x5cfce0[_0x1e2b('0x30')]-_0x4e5836;}let _0x2ae429=new Buffer(_0x16b36d);_0x2ae429[_0x1e2b('0x178')](0x0);_0x5cfce0[_0x1e2b('0x179')](_0x2ae429,0x0,_0x4e5836,_0x4e5836+_0x16b36d);if(_0x337e7b%0x3>0x0||_0x16b36d<0x800){}else{let _0x502a27=crypto[_0x1e2b('0x17a')](_0x1e2b('0x17b'),_0x44d3d3,new Buffer([0x0,0x1,0x2,0x3,0x4,0x5,0x6,0x7]));_0x502a27[_0x1e2b('0x17c')](![]);_0x2ae429=_0x502a27[_0x1e2b('0x9a')](_0x2ae429,_0x1e2b('0x17d'),_0x1e2b('0x17d'))+_0x502a27[_0x1e2b('0x9d')]();}_0x577272[_0x1e2b('0xd3')](_0x2ae429[_0x1e2b('0xd1')](_0x1e2b('0x17d')),_0x4e5836,_0x1e2b('0x17d'));_0x4e5836+=_0x16b36d;_0x337e7b++;}return _0x577272;}function downloadTrack(_0x3d7c7e,_0x1807c5,_0x5470ab,_0x20a6f4=0x0){return new Promise((_0x1d4914,_0x3ad43d)=>{const _0x39995b=getTrackDownloadUrl(_0x3d7c7e,_0x1807c5);log[_0x1e2b('0x1a')](_0x1e2b('0x17e')+_0x3d7c7e[_0x1e2b('0x10d')]+_0x1e2b('0x17f')+_0x1807c5+_0x1e2b('0x180')+_0x39995b+'\x22');requestWithoutCache({'url':_0x39995b,'headers':httpHeaders,'jar':!![],'encoding':null})[_0x1e2b('0x68')](_0x3484ae=>{log[_0x1e2b('0x1a')](_0x1e2b('0x181')+_0x3d7c7e[_0x1e2b('0x10d')]+'\x22');const _0x15c59d=decryptTrack(_0x3484ae,_0x3d7c7e);_0x1d4914(_0x15c59d);})[_0x1e2b('0x71')](_0x5b65c5=>{if(0x193===_0x5b65c5[_0x1e2b('0x3b')]){let _0x15c788=0x1;if(_0x3d7c7e[_0x1e2b('0x182')]&&0x0!==Object[_0x1e2b('0x83')](_0x3d7c7e[_0x1e2b('0x182')])[_0x1e2b('0x30')]||_0x3d7c7e[_0x1e2b('0x183')]&&_0x3d7c7e[_0x1e2b('0x183')][_0x1e2b('0x184')]&&0x0<_0x3d7c7e[_0x1e2b('0x183')][_0x1e2b('0x184')][_0x1e2b('0x30')]){_0x15c788=0x14;}if(_0x15c788>=_0x20a6f4){_0x20a6f4+=0x1;setTimeout(()=>{downloadTrack(_0x3d7c7e,_0x1807c5,_0x5470ab,_0x20a6f4)[_0x1e2b('0x68')](_0x555a84=>{_0x1d4914(_0x555a84);})[_0x1e2b('0x71')](_0x3b386e=>{_0x3ad43d(_0x3b386e);});},0x3e8);}else{_0x3ad43d();}}else{_0x3ad43d();}});});}function downloadAlbumCover(_0x18cb5d,_0x2751bf,_0x18aa82=0x0){const _0x2b0e55=_0x1e2b('0x185')+_0x18cb5d[_0x1e2b('0x186')]+_0x1e2b('0x187');const _0x804bfd=nodePath[_0x1e2b('0x7d')](_0x2751bf)+_0x1e2b('0x188');const _0x5ec692=_0x804bfd+_0x1e2b('0x189');return new Promise((_0x2d7fbd,_0x21ca74)=>{if(!fs[_0x1e2b('0x5f')](_0x804bfd)){if(!fs[_0x1e2b('0x5f')](_0x5ec692)){log[_0x1e2b('0x1a')](_0x1e2b('0x18a')+_0x18cb5d[_0x1e2b('0x10d')]+_0x1e2b('0x18b')+_0x2b0e55+'\x22');ensureDir(_0x5ec692);fs[_0x1e2b('0x60')](_0x5ec692,'');requestWithoutCache({'url':_0x2b0e55,'headers':httpHeaders,'jar':!![],'encoding':null})[_0x1e2b('0x68')](_0x56c611=>{log[_0x1e2b('0x1a')](_0x1e2b('0x18c')+_0x18cb5d[_0x1e2b('0x10d')]+'\x22');ensureDir(_0x5ec692);fs[_0x1e2b('0x18d')](_0x5ec692,_0x56c611,_0x1e3268=>{if(_0x1e3268){_0x3958dc();_0x21ca74();}else{log[_0x1e2b('0x1a')](_0x1e2b('0x18e')+_0x18cb5d[_0x1e2b('0x10d')]+'\x22');if(fs[_0x1e2b('0x5f')](_0x5ec692)){fs[_0x1e2b('0x18f')](_0x5ec692,_0x804bfd);}_0x2d7fbd(_0x804bfd);}});})[_0x1e2b('0x71')](_0x5a0f7a=>{if(0x193===_0x5a0f7a[_0x1e2b('0x3b')]){if(0x4>=_0x18aa82){_0x18aa82+=0x1;setTimeout(()=>{_0x3958dc();downloadAlbumCover(_0x18cb5d,_0x2751bf,_0x18aa82)[_0x1e2b('0x68')](_0x3f7741=>{_0x2d7fbd(_0x3f7741);})[_0x1e2b('0x71')](()=>{_0x21ca74();});},0x1f4);}else{_0x3958dc();_0x21ca74();}}else{_0x3958dc();_0x21ca74();}});}else{setTimeout(()=>{downloadAlbumCover(_0x18cb5d,_0x2751bf,_0x18aa82)[_0x1e2b('0x68')](_0x1e329b=>{_0x2d7fbd(_0x1e329b);})[_0x1e2b('0x71')](()=>{_0x21ca74();});},0x1f4);}}else{log[_0x1e2b('0x1a')](_0x1e2b('0x190')+_0x18cb5d[_0x1e2b('0x10d')]+_0x1e2b('0x191'));_0x2d7fbd(_0x804bfd);}});function _0x3958dc(){if(fs[_0x1e2b('0x5f')](_0x5ec692)){fs[_0x1e2b('0x74')](_0x5ec692);}}}function addTrackTags(_0x516b96,_0x2f10f9,_0x3feeb1,_0x4dd3ce=0x0){return new Promise((_0x59f8c1,_0x1879d1)=>{log[_0x1e2b('0x1a')](_0x1e2b('0x192')+_0x2f10f9[_0x1e2b('0x10d')]+'\x22');downloadAlbumCover(_0x2f10f9,_0x3feeb1)[_0x1e2b('0x68')](_0x5c95c9=>{log[_0x1e2b('0x1a')](_0x1e2b('0x193')+_0x2f10f9[_0x1e2b('0x10d')]+'\x22');_0x4a1bb8(_0x5c95c9);})[_0x1e2b('0x71')](()=>{_0x4a1bb8();});function _0x4a1bb8(_0x41b667=null){try{if(_0x2f10f9[_0x1e2b('0x141')]||!_0x2f10f9[_0x1e2b('0x140')]||0x0===_0x2f10f9[_0x1e2b('0x140')]){_0x3aa466();}else{getTrackLyrics(_0x2f10f9[_0x1e2b('0x10d')])[_0x1e2b('0x68')](_0x2afa08=>{_0x2f10f9[_0x1e2b('0x141')]=_0x2afa08;_0x3aa466();})[_0x1e2b('0x71')](()=>{_0x3aa466();});}function _0x3aa466(){let _0x3a0040={'title':'','album':'','releaseType':'','genre':'','artists':[],'albumArtist':'','trackNumber':'','trackNumberCombined':'','partOfSet':'','partOfSetCombined':'','label':'','copyright':'','composer':[],'publisher':[],'producer':[],'engineer':[],'writer':[],'author':[],'mixer':[],'ISRC':'','duration':'','bpm':'','upc':'','explicit':'','tracktotal':'','disctotal':'','compilation':'','unsynchronisedLyrics':'','synchronisedLyrics':'','media':_0x1e2b('0x194')};if(_0x2f10f9[_0x1e2b('0x118')]){_0x3a0040[_0x1e2b('0x195')]=_0x2f10f9[_0x1e2b('0x118')];}if(_0x2f10f9[_0x1e2b('0x107')]){_0x3a0040[_0x1e2b('0xb8')]=_0x2f10f9[_0x1e2b('0x107')];}if(_0x2f10f9[_0x1e2b('0x135')]){_0x3a0040[_0x1e2b('0x196')]=_0x2f10f9[_0x1e2b('0x135')];}if(_0x2f10f9[_0x1e2b('0x103')]){_0x3a0040[_0x1e2b('0x197')]=_0x2f10f9[_0x1e2b('0x103')];}if(_0x2f10f9[_0x1e2b('0x12e')]){_0x3a0040[_0x1e2b('0x198')]=_0x2f10f9[_0x1e2b('0x12e')];}if(_0x2f10f9[_0x1e2b('0x13e')]){let _0x515f6c=_0x2f10f9[_0x1e2b('0x13e')];if('ep'===_0x515f6c){_0x515f6c='EP';}else{_0x515f6c=capitalizeFirstLetter(_0x515f6c);}_0x3a0040[_0x1e2b('0x199')]=_0x515f6c;}if(_0x2f10f9[_0x1e2b('0x13d')]&&_0x2f10f9[_0x1e2b('0x13d')][0x0]){_0x3a0040[_0x1e2b('0x19a')]=_0x2f10f9[_0x1e2b('0x13d')][0x0];}if(_0x2f10f9[_0x1e2b('0x123')]){_0x3a0040[_0x1e2b('0x19b')]=_0x2f10f9[_0x1e2b('0x123')];_0x3a0040[_0x1e2b('0x19c')]=_0x2f10f9[_0x1e2b('0x123')];}if(_0x2f10f9[_0x1e2b('0x130')]){_0x3a0040[_0x1e2b('0x19d')]=_0x2f10f9[_0x1e2b('0x130')];_0x3a0040[_0x1e2b('0x19c')]+='/'+_0x2f10f9[_0x1e2b('0x130')];}if(_0x2f10f9[_0x1e2b('0x121')]){_0x3a0040[_0x1e2b('0x19e')]=_0x2f10f9[_0x1e2b('0x121')];_0x3a0040[_0x1e2b('0x19f')]=_0x2f10f9[_0x1e2b('0x121')];}if(_0x2f10f9[_0x1e2b('0x131')]){_0x3a0040[_0x1e2b('0x1a0')]=_0x2f10f9[_0x1e2b('0x131')];_0x3a0040[_0x1e2b('0x19f')]+='/'+_0x2f10f9[_0x1e2b('0x131')];}if(_0x2f10f9[_0x1e2b('0x134')]||_0x2f10f9[_0x1e2b('0x133')]){let _0x1b2ff1=_0x2f10f9[_0x1e2b('0x134')];if(!_0x2f10f9[_0x1e2b('0x134')]){_0x1b2ff1=_0x2f10f9[_0x1e2b('0x133')];}_0x3a0040[_0x1e2b('0x1a1')]=_0x1b2ff1[_0x1e2b('0x161')](0x0,0x4);_0x3a0040[_0x1e2b('0x1a2')]=_0x1b2ff1[_0x1e2b('0x161')](0x0,0xa);}if(_0x2f10f9[_0x1e2b('0x12f')]){_0x3a0040[_0x1e2b('0x1a3')]=_0x2f10f9[_0x1e2b('0x12f')];}if(_0x2f10f9[_0x1e2b('0x1a4')]){_0x3a0040[_0x1e2b('0x1a5')]=_0x2f10f9[_0x1e2b('0x1a4')];}if(_0x2f10f9[_0x1e2b('0x1a6')]){_0x3a0040[_0x1e2b('0x1a6')]=_0x2f10f9[_0x1e2b('0x1a6')];}if(_0x2f10f9[_0x1e2b('0x1a7')]){_0x3a0040[_0x1e2b('0x1a8')]=_0x2f10f9[_0x1e2b('0x1a7')];}if(_0x2f10f9[_0x1e2b('0x1a9')]){_0x3a0040[_0x1e2b('0x1aa')]=_0x2f10f9[_0x1e2b('0x1a9')];}if(_0x2f10f9[_0x1e2b('0x136')]){let _0x5b5b41=[];_0x2f10f9[_0x1e2b('0x136')][_0x1e2b('0xbf')](_0x47c94d=>{if(_0x47c94d[_0x1e2b('0xf1')]){_0x47c94d=_0x47c94d[_0x1e2b('0xf1')][_0x1e2b('0xb1')](new RegExp(_0x1e2b('0x1ab'),'g'));_0x47c94d=_0x47c94d[_0x1e2b('0x117')](Function[_0x1e2b('0x1ac')][_0x1e2b('0x1ad')],String[_0x1e2b('0x1ac')][_0x1e2b('0xb3')]);_0x5b5b41=_0x5b5b41[_0x1e2b('0x1ae')](_0x47c94d);}});_0x5b5b41=[...new Set(_0x5b5b41)];_0x3a0040[_0x1e2b('0x1af')]=_0x5b5b41;}if(_0x2f10f9[_0x1e2b('0x1b0')]){if(_0x2f10f9[_0x1e2b('0x1b0')][_0x1e2b('0x1b1')]){_0x3a0040[_0x1e2b('0x1b1')]=_0x2f10f9[_0x1e2b('0x1b0')][_0x1e2b('0x1b1')];}if(_0x2f10f9[_0x1e2b('0x1b0')][_0x1e2b('0x1b2')]){_0x3a0040[_0x1e2b('0x1b3')]=_0x2f10f9[_0x1e2b('0x1b0')][_0x1e2b('0x1b2')];}if(_0x2f10f9[_0x1e2b('0x1b0')][_0x1e2b('0x1b4')]){_0x3a0040[_0x1e2b('0x1b4')]=_0x2f10f9[_0x1e2b('0x1b0')][_0x1e2b('0x1b4')];}if(_0x2f10f9[_0x1e2b('0x1b0')][_0x1e2b('0x1b5')]){_0x3a0040[_0x1e2b('0x1b5')]=_0x2f10f9[_0x1e2b('0x1b0')][_0x1e2b('0x1b5')];}if(_0x2f10f9[_0x1e2b('0x1b0')][_0x1e2b('0x1b6')]){_0x3a0040[_0x1e2b('0x1b6')]=_0x2f10f9[_0x1e2b('0x1b0')][_0x1e2b('0x1b6')];}if(_0x2f10f9[_0x1e2b('0x1b0')][_0x1e2b('0x1b7')]){_0x3a0040[_0x1e2b('0x1b7')]=_0x2f10f9[_0x1e2b('0x1b0')][_0x1e2b('0x1b7')];}if(_0x2f10f9[_0x1e2b('0x1b0')][_0x1e2b('0x1b8')]){_0x3a0040[_0x1e2b('0x1b8')]=_0x2f10f9[_0x1e2b('0x1b0')][_0x1e2b('0x1b8')];}}if(_0x1e2b('0x11e')===_0x3a0040[_0x1e2b('0x1b9')]){_0x3a0040[_0x1e2b('0x1ba')]=0x1;}else{_0x3a0040[_0x1e2b('0x1ba')]=0x0;}if(_0x2f10f9[_0x1e2b('0x141')]){if(_0x2f10f9[_0x1e2b('0x141')][_0x1e2b('0x1bb')]){_0x3a0040[_0x1e2b('0x1bc')]=_0x2f10f9[_0x1e2b('0x141')][_0x1e2b('0x1bb')];}if(_0x2f10f9[_0x1e2b('0x141')][_0x1e2b('0x1bd')]){const _0x7b055e=_0x2f10f9[_0x1e2b('0x141')][_0x1e2b('0x1bd')];for(let _0x1e5246=0x0;_0x1e5246<_0x7b055e[_0x1e2b('0x30')];_0x1e5246++){if(_0x7b055e[_0x1e5246][_0x1e2b('0x1be')]){_0x3a0040[_0x1e2b('0x1bf')]+=_0x7b055e[_0x1e5246][_0x1e2b('0x1be')]+_0x7b055e[_0x1e5246][_0x1e2b('0x1c0')]+'\x0d\x0a';}else if(_0x1e5246+0x1<_0x7b055e[_0x1e2b('0x30')]){_0x3a0040[_0x1e2b('0x1bf')]+=_0x7b055e[_0x1e5246+0x1][_0x1e2b('0x1be')]+_0x7b055e[_0x1e5246][_0x1e2b('0x1c0')]+'\x0d\x0a';}}}}let _0x3a120f=nodePath[_0x1e2b('0x1c1')](_0x3feeb1);if(_0x1e2b('0x1c2')===_0x3a120f){if(''!==_0x3a0040[_0x1e2b('0x1bf')][_0x1e2b('0xb3')]()){const _0x3e97dd=_0x3feeb1[_0x1e2b('0x161')](0x0,-0x4)+_0x1e2b('0x1c3');ensureDir(_0x3e97dd);fs[_0x1e2b('0x60')](_0x3e97dd,_0x3a0040[_0x1e2b('0x1bf')]);}log[_0x1e2b('0x1a')](_0x1e2b('0x1c4')+_0x2f10f9[_0x1e2b('0x10d')]+'\x22');const _0x1ef2f9=new id3Writer(_0x516b96);let _0x4e87da;if(_0x41b667&&fs[_0x1e2b('0x5f')](_0x41b667)){_0x4e87da=fs[_0x1e2b('0x8d')](_0x41b667);}_0x1ef2f9[_0x1e2b('0x1c5')](_0x1e2b('0x1c6'),_0x3a0040[_0x1e2b('0x195')])[_0x1e2b('0x1c5')](_0x1e2b('0x1c7'),_0x3a0040[_0x1e2b('0xb8')])[_0x1e2b('0x1c5')](_0x1e2b('0x1c8'),[_0x3a0040[_0x1e2b('0x19a')]])[_0x1e2b('0x1c5')](_0x1e2b('0x1c9'),_0x3a0040[_0x1e2b('0x196')])[_0x1e2b('0x1c5')](_0x1e2b('0x1ca'),[_0x3a0040[_0x1e2b('0x1af')][_0x1e2b('0xe2')](',\x20')])[_0x1e2b('0x1c5')](_0x1e2b('0x1cb'),_0x3a0040[_0x1e2b('0x19c')])[_0x1e2b('0x1c5')](_0x1e2b('0x1cc'),_0x3a0040[_0x1e2b('0x19f')])[_0x1e2b('0x1c5')](_0x1e2b('0x1cd'),_0x3a0040[_0x1e2b('0x1a5')])[_0x1e2b('0x1c5')](_0x1e2b('0x1ce'),_0x3a0040[_0x1e2b('0x1b3')][_0x1e2b('0xe2')]('/'))[_0x1e2b('0x1c5')](_0x1e2b('0x1cf'),_0x3a0040[_0x1e2b('0x197')])[_0x1e2b('0x1c5')](_0x1e2b('0x1d0'),_0x3a0040[_0x1e2b('0x1d1')])[_0x1e2b('0x1c5')](_0x1e2b('0x1d2'),_0x3a0040[_0x1e2b('0x1b1')])[_0x1e2b('0x1c5')](_0x1e2b('0x1d3'),{'description':_0x1e2b('0x1d4'),'value':_0x3a0040[_0x1e2b('0x1af')][_0x1e2b('0xe2')]('/')})[_0x1e2b('0x1c5')](_0x1e2b('0x1d3'),{'description':_0x1e2b('0x1d5'),'value':_0x3a0040[_0x1e2b('0x199')]})[_0x1e2b('0x1c5')](_0x1e2b('0x1d3'),{'description':_0x1e2b('0x1a6'),'value':_0x3a0040[_0x1e2b('0x1a6')]})[_0x1e2b('0x1c5')](_0x1e2b('0x1d3'),{'description':_0x1e2b('0x1d6'),'value':_0x3a0040[_0x1e2b('0x198')]})[_0x1e2b('0x1c5')](_0x1e2b('0x1d3'),{'description':_0x1e2b('0x1d7'),'value':_0x3a0040[_0x1e2b('0x1a3')]})[_0x1e2b('0x1c5')](_0x1e2b('0x1d3'),{'description':_0x1e2b('0x1d8'),'value':_0x3a0040[_0x1e2b('0x1b6')][_0x1e2b('0xe2')]('/')})[_0x1e2b('0x1c5')](_0x1e2b('0x1d3'),{'description':_0x1e2b('0x1d9'),'value':_0x3a0040[_0x1e2b('0x1b8')][_0x1e2b('0xe2')]('/')})[_0x1e2b('0x1c5')](_0x1e2b('0x1d3'),{'description':_0x1e2b('0x1da'),'value':_0x3a0040[_0x1e2b('0x1b4')][_0x1e2b('0x1ae')](_0x3a0040[_0x1e2b('0x1b5')])[_0x1e2b('0xe2')]('/')})[_0x1e2b('0x1c5')](_0x1e2b('0x1d3'),{'description':_0x1e2b('0x1db'),'value':_0x3a0040[_0x1e2b('0x1ba')]})[_0x1e2b('0x1c5')](_0x1e2b('0x1d3'),{'description':_0x1e2b('0x1dc'),'value':_0x3a0040[_0x1e2b('0x1aa')]})[_0x1e2b('0x1c5')](_0x1e2b('0x1d3'),{'description':_0x1e2b('0x1dd'),'value':_0x1e2b('0x1de')})[_0x1e2b('0x1c5')](_0x1e2b('0x1d3'),{'description':_0x1e2b('0x1df'),'value':_0x2f10f9[_0x1e2b('0x10d')]});if(''!==_0x3a0040[_0x1e2b('0x1bc')]){_0x1ef2f9[_0x1e2b('0x1c5')](_0x1e2b('0x1e0'),{'description':'','lyrics':_0x3a0040[_0x1e2b('0x1bc')]});}if(_0x4e87da){_0x1ef2f9[_0x1e2b('0x1c5')](_0x1e2b('0x1e1'),{'type':0x3,'data':_0x4e87da,'description':''});}if(0x0<parseInt(_0x3a0040[_0x1e2b('0x1a1')])){_0x1ef2f9[_0x1e2b('0x1c5')](_0x1e2b('0x1e2'),_0x3a0040[_0x1e2b('0x1a1')]);}if(0x0<parseInt(_0x3a0040[_0x1e2b('0x1a2')])){_0x1ef2f9[_0x1e2b('0x1c5')](_0x1e2b('0x1e3'),_0x3a0040[_0x1e2b('0x1a2')]);}if(0x0<parseInt(_0x3a0040[_0x1e2b('0x1a8')])){_0x1ef2f9[_0x1e2b('0x1c5')](_0x1e2b('0x1e4'),_0x3a0040[_0x1e2b('0x1a8')]);}_0x1ef2f9[_0x1e2b('0x1e5')]();const _0x332e83=Buffer[_0x1e2b('0x126')](_0x1ef2f9[_0x1e2b('0x1e6')]);ensureDir(_0x3feeb1);fs[_0x1e2b('0x60')](_0x3feeb1,_0x332e83);log[_0x1e2b('0x1a')](_0x1e2b('0x1e7')+_0x2f10f9[_0x1e2b('0x10d')]+'\x22');_0x59f8c1();}else if(_0x1e2b('0x1e8')===_0x3a120f){if(''!==_0x3a0040[_0x1e2b('0x1bf')][_0x1e2b('0xb3')]()){const _0x37c33b=_0x3feeb1[_0x1e2b('0x161')](0x0,-0x5)+_0x1e2b('0x1c3');ensureDir(_0x37c33b);fs[_0x1e2b('0x60')](_0x37c33b,_0x3a0040[_0x1e2b('0x1bf')]);}log[_0x1e2b('0x1a')](_0x1e2b('0x1e9')+_0x2f10f9[_0x1e2b('0x10d')]+'\x22');let _0x4c2ee8=[_0x1e2b('0x1ea'),_0x1e2b('0x1eb')+_0x2f10f9[_0x1e2b('0x10d')]];if(''!==_0x3a0040[_0x1e2b('0x195')]){_0x4c2ee8[_0x1e2b('0xe6')](_0x1e2b('0x1ec')+_0x3a0040[_0x1e2b('0x195')]);}if(''!==_0x3a0040[_0x1e2b('0xb8')]){_0x4c2ee8[_0x1e2b('0xe6')](_0x1e2b('0x1ed')+_0x3a0040[_0x1e2b('0xb8')]);}if(''!==_0x3a0040[_0x1e2b('0x19a')]){_0x4c2ee8[_0x1e2b('0xe6')](_0x1e2b('0x1ee')+_0x3a0040[_0x1e2b('0x19a')]);}if(''!==_0x3a0040[_0x1e2b('0x196')]){_0x4c2ee8[_0x1e2b('0xe6')](_0x1e2b('0x1ef')+_0x3a0040[_0x1e2b('0x196')]);}if(0x0<_0x3a0040[_0x1e2b('0x1af')][_0x1e2b('0x30')]){_0x4c2ee8[_0x1e2b('0xe6')](_0x1e2b('0x1f0')+_0x3a0040[_0x1e2b('0x1af')][_0x1e2b('0xe2')](',\x20'));}if(''!==_0x3a0040[_0x1e2b('0x19b')]){_0x4c2ee8[_0x1e2b('0xe6')](_0x1e2b('0x1f1')+_0x3a0040[_0x1e2b('0x19b')]);}if(''!==_0x3a0040[_0x1e2b('0x19d')]){_0x4c2ee8[_0x1e2b('0xe6')](_0x1e2b('0x1f2')+_0x3a0040[_0x1e2b('0x19d')]);_0x4c2ee8[_0x1e2b('0xe6')](_0x1e2b('0x1f3')+_0x3a0040[_0x1e2b('0x19d')]);}if(''!==_0x3a0040[_0x1e2b('0x19e')]){_0x4c2ee8[_0x1e2b('0xe6')](_0x1e2b('0x1f4')+_0x3a0040[_0x1e2b('0x19e')]);}if(''!==_0x3a0040[_0x1e2b('0x1a0')]){_0x4c2ee8[_0x1e2b('0xe6')](_0x1e2b('0x1f5')+_0x3a0040[_0x1e2b('0x1a0')]);_0x4c2ee8[_0x1e2b('0xe6')](_0x1e2b('0x1f6')+_0x3a0040[_0x1e2b('0x1a0')]);}if(''!==_0x3a0040[_0x1e2b('0x1a3')]){_0x4c2ee8[_0x1e2b('0xe6')](_0x1e2b('0x1f7')+_0x3a0040[_0x1e2b('0x1a3')]);}if(''!==_0x3a0040[_0x1e2b('0x1a5')]){_0x4c2ee8[_0x1e2b('0xe6')](_0x1e2b('0x1f8')+_0x3a0040[_0x1e2b('0x1a5')]);}if(''!==_0x3a0040[_0x1e2b('0x197')]){_0x4c2ee8[_0x1e2b('0xe6')](_0x1e2b('0x1f9')+_0x3a0040[_0x1e2b('0x197')]);}if(''!==_0x3a0040[_0x1e2b('0x1a6')]){_0x4c2ee8[_0x1e2b('0xe6')](_0x1e2b('0x1fa')+_0x3a0040[_0x1e2b('0x1a6')]);}if(''!==_0x3a0040[_0x1e2b('0x198')]){_0x4c2ee8[_0x1e2b('0xe6')](_0x1e2b('0x1fb')+_0x3a0040[_0x1e2b('0x198')]);}if(''!==_0x3a0040[_0x1e2b('0x1d1')]){_0x4c2ee8[_0x1e2b('0xe6')](_0x1e2b('0x1fc')+_0x3a0040[_0x1e2b('0x1d1')]);}if(''!==_0x3a0040[_0x1e2b('0x1ba')]){_0x4c2ee8[_0x1e2b('0xe6')](_0x1e2b('0x1fd')+_0x3a0040[_0x1e2b('0x1ba')]);}if(''!==_0x3a0040[_0x1e2b('0x1aa')]){_0x4c2ee8[_0x1e2b('0xe6')](_0x1e2b('0x1fe')+_0x3a0040[_0x1e2b('0x1aa')]);}if(_0x3a0040[_0x1e2b('0x199')]){_0x4c2ee8[_0x1e2b('0xe6')](_0x1e2b('0x1ff')+_0x3a0040[_0x1e2b('0x199')]);}_0x3a0040[_0x1e2b('0x1af')][_0x1e2b('0xbf')](_0x3e1d90=>{_0x4c2ee8[_0x1e2b('0xe6')](_0x1e2b('0x200')+_0x3e1d90);});_0x3a0040[_0x1e2b('0x1b1')][_0x1e2b('0xbf')](_0x667de9=>{_0x4c2ee8[_0x1e2b('0xe6')](_0x1e2b('0x201')+_0x667de9);});_0x3a0040[_0x1e2b('0x1b3')][_0x1e2b('0xbf')](_0x4cbe84=>{_0x4c2ee8[_0x1e2b('0xe6')](_0x1e2b('0x202')+_0x4cbe84);});_0x3a0040[_0x1e2b('0x1b4')][_0x1e2b('0xbf')](_0x2c8df9=>{_0x4c2ee8[_0x1e2b('0xe6')](_0x1e2b('0x203')+_0x2c8df9);});_0x3a0040[_0x1e2b('0x1b5')][_0x1e2b('0xbf')](_0x84182f=>{_0x4c2ee8[_0x1e2b('0xe6')](_0x1e2b('0x204')+_0x84182f);});_0x3a0040[_0x1e2b('0x1b6')][_0x1e2b('0xbf')](_0x3a9b3d=>{_0x4c2ee8[_0x1e2b('0xe6')](_0x1e2b('0x205')+_0x3a9b3d);});_0x3a0040[_0x1e2b('0x1b7')][_0x1e2b('0xbf')](_0x36d9e6=>{_0x4c2ee8[_0x1e2b('0xe6')](_0x1e2b('0x206')+_0x36d9e6);});_0x3a0040[_0x1e2b('0x1b8')][_0x1e2b('0xbf')](_0x258608=>{_0x4c2ee8[_0x1e2b('0xe6')](_0x1e2b('0x207')+_0x258608);});if(_0x3a0040[_0x1e2b('0x1bc')]){_0x4c2ee8[_0x1e2b('0xe6')](_0x1e2b('0x208')+_0x3a0040[_0x1e2b('0x1bc')]);}if(0x0<parseInt(_0x3a0040[_0x1e2b('0x1a1')])){_0x4c2ee8[_0x1e2b('0xe6')](_0x1e2b('0x209')+_0x3a0040[_0x1e2b('0x1a1')]);}if(0x0<parseInt(_0x3a0040[_0x1e2b('0x1a2')])){_0x4c2ee8[_0x1e2b('0xe6')](_0x1e2b('0x20a')+_0x3a0040[_0x1e2b('0x1a2')]);}if(0x0<parseInt(_0x3a0040[_0x1e2b('0x1a8')])){_0x4c2ee8[_0x1e2b('0xe6')](_0x1e2b('0x20b')+_0x3a0040[_0x1e2b('0x1a8')]);}const _0x18259f=new stream[(_0x1e2b('0x20c'))]();_0x18259f[_0x1e2b('0xd5')](_0x516b96);ensureDir(_0x3feeb1);const _0x1ef2f9=fs[_0x1e2b('0x1b')](_0x3feeb1);let _0xea2d32=new flacMetadata[(_0x1e2b('0x20d'))]({'parseMetaDataBlocks':!![]});let _0xa0617c=_0x1e2b('0x20e');let _0x4e87da;if(_0x41b667&&fs[_0x1e2b('0x5f')](_0x41b667)){_0x4e87da=fs[_0x1e2b('0x8d')](_0x41b667);}let _0x54276e;let _0x252330;_0xea2d32['on'](_0x1e2b('0x20f'),_0x20c14e=>{if(flacMetadata[_0x1e2b('0x20d')][_0x1e2b('0x210')]===_0x20c14e[_0x1e2b('0xb7')]){_0x20c14e[_0x1e2b('0xd8')]();}else if(_0x4e87da&&flacMetadata[_0x1e2b('0x20d')][_0x1e2b('0x211')]===_0x20c14e[_0x1e2b('0xb7')]){_0x20c14e[_0x1e2b('0xd8')]();}if(_0x20c14e[_0x1e2b('0x212')]){_0x54276e=flacMetadata[_0x1e2b('0xf9')][_0x1e2b('0x213')][_0x1e2b('0x214')](!_0x4e87da,_0xa0617c,_0x4c2ee8);if(_0x4e87da){_0x252330=flacMetadata[_0x1e2b('0xf9')][_0x1e2b('0x215')][_0x1e2b('0x214')](!![],0x3,_0x1e2b('0x216'),'',0x578,0x578,0x18,0x0,_0x4e87da);}_0x20c14e[_0x1e2b('0x212')]=![];}});_0xea2d32['on'](_0x1e2b('0x217'),_0x10bc6b=>{if(flacMetadata[_0x1e2b('0x20d')][_0x1e2b('0x210')]===_0x10bc6b[_0x1e2b('0xb7')]&&null!==_0x10bc6b[_0x1e2b('0x218')]){_0xa0617c=_0x10bc6b[_0x1e2b('0x218')];}if(_0x54276e){_0xea2d32[_0x1e2b('0xe6')](_0x54276e[_0x1e2b('0x219')]());}if(_0x252330){_0xea2d32[_0x1e2b('0xe6')](_0x252330[_0x1e2b('0x219')]());}});_0x18259f['on'](_0x1e2b('0xd5'),()=>{log[_0x1e2b('0x1a')](_0x1e2b('0x21a')+_0x2f10f9[_0x1e2b('0x10d')]+'\x22');_0x59f8c1();});_0x18259f[_0x1e2b('0x21b')](_0xea2d32)[_0x1e2b('0x21b')](_0x1ef2f9);}}}catch(_0x3d4e8b){log[_0x1e2b('0x1a')](_0x1e2b('0x21c')+_0x2f10f9[_0x1e2b('0x10d')]+_0x1e2b('0x21d')+_0x4dd3ce+_0x1e2b('0x21e')+_0x3d4e8b);if(0xa>_0x4dd3ce){_0x4dd3ce+=0x1;setTimeout(()=>{addTrackTags(_0x516b96,_0x2f10f9,_0x3feeb1,_0x4dd3ce)[_0x1e2b('0x68')](()=>{_0x59f8c1();})[_0x1e2b('0x71')](()=>{_0x1879d1();});},0x1f4);}else{ensureDir(_0x3feeb1);fs[_0x1e2b('0x60')](_0x3feeb1,_0x516b96);_0x1879d1();}}}});}
+const chalk = require('chalk');
+const ora = require('ora');
+const sanitize = require('sanitize-filename');
+const Promise = require('bluebird');
+const cacheManager = require('cache-manager');
+require('./node_modules/cache-manager/lib/stores/memory');
+const requestPlus = require('request-plus');
+const id3Writer = require('./libs/browser-id3-writer');
+const flacMetadata = require('./libs/flac-metadata');
+const crypto = require('crypto');
+const inquirer = require('inquirer');
+const fs = require('fs');
+const stream = require('stream');
+const Finder = require('fs-finder');
+const nodePath = require('path');
+const memoryStats = require('./libs/node-memory-stats');
+const commandLineArgs = require('command-line-args');
+const commandLineUsage = require('command-line-usage');
+const nodeJsonFile = require('jsonfile');
+const openUrl = require('openurl');
+const packageJson = require('./package.json');
+
+const configFile = 'SMLoadrConfig.json';
+const ConfigService = require('./src/service/ConfigService');
+let configService = new ConfigService(configFile);
+
+const Log = require('log');
+
+let DOWNLOAD_DIR = 'DOWNLOADS/';
+let PLAYLIST_DIR = 'PLAYLISTS/';
+let PLAYLIST_FILE_ITEMS = {};
+
+let DOWNLOAD_LINKS_FILE = 'downloadLinks.txt';
+let DOWNLOAD_MODE = 'single';
+
+const log = new Log('debug', fs.createWriteStream('SMLoadr.log'));
+
+const musicQualities = {
+    MP3_128: {
+        id: 1,
+        name: 'MP3 - 128 kbps',
+        aproxMaxSizeMb: '100'
+    },
+    MP3_256: {
+        id: 5,
+        name: 'MP3 - 256 kbps'
+    },
+    MP3_320: {
+        id: 3,
+        name: 'MP3 - 320 kbps',
+        aproxMaxSizeMb: '200'
+    },
+    FLAC: {
+        id: 9,
+        name: 'FLAC - 1411 kbps',
+        aproxMaxSizeMb: '700'
+    },
+    MP3_MISC: {
+        id: 0,
+        name: 'User uploaded song'
+    }
+};
+
+let selectedMusicQuality = musicQualities.MP3_320;
+
+const cliOptionDefinitions = [
+    {
+        name: 'help',
+        alias: 'h',
+        description: 'Print this usage guide :)'
+    },
+    {
+        name: 'quality',
+        alias: 'q',
+        type: String,
+        defaultValue: 'MP3_320',
+        description: 'The quality of the files to download: MP3_128/MP3_320/FLAC'
+    },
+    {
+        name: 'path',
+        alias: 'p',
+        type: String,
+        defaultValue: DOWNLOAD_DIR,
+        description: 'The path to download the files to: path with / in the end'
+    },
+    {
+        name: 'url',
+        alias: 'u',
+        type: String,
+        defaultOption: true,
+        description: 'Downloads single deezer url: album/artist/playlist/profile/track url'
+    },
+    {
+        name: 'downloadmode',
+        alias: 'd',
+        type: String,
+        defaultValue: 'single',
+        description: 'Downloads multiple urls from list: "all" for downloadLinks.txt'
+    }
+];
+
+let cliOptions;
+const isCli = process.argv.length > 2;
+
+const downloadSpinner = new ora({
+    spinner: {
+        interval: 400,
+        frames: [
+            '♫',
+            ' '
+        ]
+    },
+    color: 'white'
+});
+
+const unofficialApiUrl = 'https://www.deezer.com/ajax/gw-light.php';
+const ajaxActionUrl = 'https://www.deezer.com/ajax/action.php';
+
+const formLoginData = {
+    type: 'login',
+    mail: null,
+    password: null
+};
+
+let unofficialApiQueries = {
+    api_version: '1.0',
+    api_token: '',
+    input: 3
+};
+
+let httpHeaders;
+let requestWithoutCache;
+let requestWithoutCacheAndRetry;
+let requestWithCache;
+
+function initRequest() {
+    httpHeaders = {
+        'user-agent':      'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36',
+        'cache-control':   'max-age=0',
+        'accept-language': 'en-US,en;q=0.9,en-US;q=0.8,en;q=0.7',
+        'accept-charset':  'utf-8,ISO-8859-1;q=0.8,*;q=0.7',
+        'content-type':    'text/plain;charset=UTF-8',
+        'cookie': 'arl=' + configService.get('arl')
+    };
+
+    let requestConfig = {
+        retry:    {
+            attempts:    9999999999,
+            delay:       1000, // 1 second
+            errorFilter: error => 403 !== error.statusCode // retry all errors
+        },
+        defaults: {
+            headers: httpHeaders,
+        }
+    };
+
+    requestWithoutCache = requestPlus(requestConfig);
+
+
+    let requestConfigWithoutCacheAndRetry = {
+        defaults: {
+            headers: httpHeaders
+        }
+    };
+
+    requestWithoutCacheAndRetry = requestPlus(requestConfigWithoutCacheAndRetry);
+
+    const cacheManagerCache = cacheManager.caching({
+        store: 'memory',
+        max:   1000
+    });
+
+    requestConfig.cache = {
+        cache:        cacheManagerCache,
+        cacheOptions: {
+            ttl: 3600 * 2 // 2 hours
+        }
+    };
+
+    requestWithCache = requestPlus(requestConfig);
+}
+
+/**
+ * Application init.
+ */
+(function initApp() {
+    process.on('unhandledRejection', (reason, p) => {
+        log.debug(reason + 'Unhandled Rejection at Promise' + p);
+        console.error('\n' + reason + '\nUnhandled Rejection at Promise' + JSON.stringify(p) + '\n');
+    });
+
+    process.on('uncaughtException', (err) => {
+        log.debug(err + 'Uncaught Exception thrown');
+        console.error('\n' + err + '\nUncaught Exception thrown' + '\n');
+
+        process.exit(1);
+    });
+
+
+    // Ignore HTTPS certificate
+    process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
+
+
+    // App info
+    console.log(chalk.cyan('╔══════════════════════════════════════════════════════════════════╗'));
+    console.log(chalk.cyan('║') + chalk.bold.yellow('                          SMLoadr v' + packageJson.version + '                          ') + chalk.cyan('║'));
+    console.log(chalk.cyan('╠══════════════════════════════════════════════════════════════════╣'));
+    console.log(chalk.cyan('║') + ' DOWNLOADS:   https://git.fuwafuwa.moe/SMLoadrDev/SMLoadr/releases' + chalk.cyan('║'));
+    console.log(chalk.cyan('║') + ' MANUAL:      https://git.fuwafuwa.moe/SMLoadrDev/SMLoadr         ' + chalk.cyan('║'));
+    console.log(chalk.cyan('║') + ' NEWS:        https://t.me/SMLoadrNews                            ' + chalk.cyan('║'));
+    console.log(chalk.cyan('╠══════════════════════════════════════════════════════════════════╣'));
+    console.log(chalk.cyan('║') + chalk.redBright(' ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ DONATE ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ') + chalk.cyan('║'));
+    console.log(chalk.cyan('║') + ' BTC:         15GktD5M1kCmESyxfhA6EvmhGzWnRA8gvg                  ' + chalk.cyan('║'));
+    console.log(chalk.cyan('║') + ' BTC Cash:    1LpLtLREzTWzba94wBBpJxcv7r6h6u1jgF                  ' + chalk.cyan('║'));
+    console.log(chalk.cyan('║') + ' ETH:         0xd07c98bF53b21c4921E7b30491Fe0B86E714afeD          ' + chalk.cyan('║'));
+    console.log(chalk.cyan('║') + ' ETH Classic: 0x7b8f83e4cE082BfCe5B6f6E4F204c914e925f242          ' + chalk.cyan('║'));
+    console.log(chalk.cyan('║') + ' LTC:         LXJwhRmjfUruuwp76rJmLrhJJjHSG8TNxm                  ' + chalk.cyan('║'));
+    console.log(chalk.cyan('║') + ' DASH:        XmHzFcygcwtqabgfEtJyq9cen1G5EnvuGR                  ' + chalk.cyan('║'));
+    console.log(chalk.cyan('╚══════════════════════════════════════════════════════════════════╝\n'));
+    console.log(chalk.yellow('Please read the latest manual thoroughly before asking for help!\n'));
+
+
+    if (!fs.existsSync(DOWNLOAD_LINKS_FILE)) {
+        ensureDir(DOWNLOAD_LINKS_FILE);
+        fs.writeFileSync(DOWNLOAD_LINKS_FILE, '');
+    }
+
+    nodePath.normalize(DOWNLOAD_DIR).replace(/\/$|\\$/, '');
+    nodePath.normalize(PLAYLIST_DIR).replace(/\/$|\\$/, '');
+
+    if (isCli) {
+        try {
+            cliOptions = commandLineArgs(cliOptionDefinitions);
+        } catch (err) {
+            downloadSpinner.fail(err.message);
+            process.exit(1);
+        }
+    }
+
+    startApp();
+})();
+
+/**
+ * Start the app.
+ */
+function startApp() {
+    initRequest();
+
+    downloadSpinner.text = 'Checking for update...';
+    downloadSpinner.start();
+
+    isUpdateAvailable().then((response) => {
+        if (response) {
+            downloadSpinner.warn('New update available!\n  Please update to the latest version!');
+
+            setTimeout(() => {
+                openUrl.open('https://git.fuwafuwa.moe/SMLoadrDev/SMLoadr/releases');
+
+                if (isCli) {
+                    setTimeout(() => {
+                        process.exit(1);
+                    }, 100);
+                } else {
+                    setTimeout(() => {
+                        // Nothing, only to keep the app running
+                    }, 999999999);
+                }
+            }, 1000);
+        } else {
+            downloadSpinner.succeed('You have the latest version :)');
+
+            initDeezerCredentials().then(() => {
+                downloadSpinner.text = 'Initiating Deezer API...';
+                downloadSpinner.start();
+
+                initDeezerApi().then(() => {
+                    downloadSpinner.succeed('Connected to Deezer API');
+
+                    selectMusicQuality();
+                }).catch((err) => {
+                    if ('Wrong Deezer credentials!' === err) {
+                        downloadSpinner.fail('Wrong Deezer credentials!\n  Keep in mind that Facebook login and family accounts are not supported.\n  Create a new account if you use one.\n');
+
+                        configService.set('arl', null);
+
+                        configService.saveConfig();
+
+                        startApp();
+                    } else {
+                        downloadSpinner.fail(err);
+                    }
+                });
+            });
+        }
+    }).catch((err) => {
+        downloadSpinner.fail(err);
+
+        if (isCli) {
+            setTimeout(() => {
+                process.exit(1);
+            }, 100);
+        }
+    });
+}
+
+/**
+ * Check if a new update of the app is available.
+ *
+ * @returns {Boolean}
+ */
+function isUpdateAvailable() {
+    return new Promise((resolve, reject) => {
+        log.debug('Checking for update');
+
+        requestWithoutCacheAndRetry('https://pastebin.com/raw/1FE65caB').then((response) => {
+            log.debug('Checked for update on Pastebin. Response: "' + response + '"');
+
+            if (response !== packageJson.version) {
+                resolve(true);
+            } else {
+                resolve(false);
+            }
+        }).catch(() => {
+            log.debug('Failed checking on pastebin for update. Trying git repo.');
+
+            requestWithoutCache('https://git.fuwafuwa.moe/SMLoadrDev/SMLoadr/raw/branch/master/VERSION.md?' + Date.now()).then((response) => {
+                log.debug('Checked for update on the git repo. Response: "' + response + '"');
+
+                if (response !== packageJson.version) {
+                    resolve(true);
+                } else {
+                    resolve(false);
+                }
+            }).catch(() => {
+                reject('Could not check for update!');
+            });
+        });
+    });
+}
+
+/**
+ * Create directories of the given path if they don't exist.
+ *
+ * @param {String} filePath
+ * @return {boolean}
+ */
+function ensureDir(filePath) {
+    const dirName = nodePath.dirname(filePath);
+
+    if (fs.existsSync(dirName)) {
+        return true;
+    }
+
+    ensureDir(dirName);
+    fs.mkdirSync(dirName);
+}
+
+/**
+ * Fetch and set the api token.
+ */
+function initDeezerApi() {
+    return new Promise((resolve, reject) => {
+        log.debug('Init Deezer API');
+
+        requestWithoutCacheAndRetry({
+            method: 'POST',
+            url:    unofficialApiUrl,
+            qs:     Object.assign(unofficialApiQueries, {
+                method: 'deezer.getUserData',
+                cid:    getApiCid()
+            }),
+            json:   true,
+            jar:    true
+        }).then((response) => {
+            if (!response || 0 < Object.keys(response.error).length) {
+                throw 'Unable to initialize Deezer API.';
+            } else {
+                if (response.results['USER']['USER_ID'] !== 0) {
+                    requestWithoutCacheAndRetry({
+                        method: 'POST',
+                        url:    unofficialApiUrl,
+                        qs:     Object.assign(unofficialApiQueries, {
+                            method: 'deezer.getUserData',
+                            cid:    getApiCid()
+                        }),
+                        json:   true,
+                        jar:    true
+                    }).then((response) => {
+                        if (!response || 0 < Object.keys(response.error).length) {
+                            throw 'Unable to initialize Deezer API.';
+                        } else {
+                            if (response.results && response.results.checkForm) {
+                                log.debug('Successfully initiated Deezer API. Checkform: "' + response.results.checkForm + '"');
+
+                                unofficialApiQueries.api_token = response.results.checkForm;
+
+                                resolve();
+                            } else {
+                                throw 'Unable to initialize Deezer API.';
+                            }
+                        }
+                    }).catch((err) => {
+                        if (404 === err.statusCode) {
+                            err = 'Could not connect to Deezer.';
+                        }
+
+                        reject(err);
+                    });
+                } else {
+                    reject('Wrong Deezer credentials!');
+                }
+            }
+        });
+    });
+}
+
+/**
+ * Ask and set new Deezer account credentials.
+ */
+function initDeezerCredentials() {
+    return new Promise((resolve) => {
+        let arl = configService.get('arl');
+
+        if (arl) {
+            resolve();
+        } else {
+            console.log(chalk.yellow('\nVisit https://www.deezer.com/register if you don\'t have an account yet.\n'));
+
+            let questions = [
+                {
+                    type:    'input',
+                    name:    'arl',
+                    prefix:  '♫',
+                    message: 'arl cookie:'
+                }
+            ];
+
+            inquirer.prompt(questions).then(answers => {
+                configService.set('arl', answers.arl);
+
+                configService.saveConfig();
+                initRequest();
+
+                resolve();
+            });
+        }
+    });
+}
+
+/**
+ * Encrypt a deezer password.
+ *
+ * @param {String} deezerEmail
+ * @param {String} unencryptedDeezerPassword
+ * @returns {String}
+ */
+function encryptDeezerPassword(deezerEmail, unencryptedDeezerPassword) {
+    try {
+        let cipher = crypto.createCipher('aes-256-cbc', deezerEmail + '-SMLoadr');
+        let encryptedPassword = cipher.update(unencryptedDeezerPassword, 'utf-8', 'hex');
+        encryptedPassword += cipher.final('hex');
+
+        return encryptedPassword;
+    } catch (err) {
+        return '';
+    }
+}
+
+/**
+ * Decrypt an encrypted deezer password.
+ *
+ * @param {String} deezerEmail
+ * @param {String} encryptedDeezerPassword
+ * @returns {String}
+ */
+function decryptDeezerPassword(deezerEmail, encryptedDeezerPassword) {
+    try {
+        let decipher = crypto.createDecipher('aes-256-cbc', deezerEmail + '-SMLoadr');
+        let decryptedPassword = decipher.update(encryptedDeezerPassword, 'hex', 'utf-8');
+        decryptedPassword += decipher.final('utf-8');
+
+        return decryptedPassword;
+    } catch (err) {
+        return '';
+    }
+}
+
+/**
+ * Get a cid for a unofficial api request.
+ *
+ * @return {Number}
+ */
+function getApiCid() {
+    return Math.floor(1e9 * Math.random());
+}
+
+/**
+ * Show user selection for the music download quality.
+ */
+function selectMusicQuality() {
+    console.log('');
+
+    if (isCli) {
+        let cliHelp = cliOptions['help'];
+
+        if (cliHelp || null === cliHelp) {
+            const helpSections = [
+                {
+                    header:     'CLI Options',
+                    optionList: cliOptionDefinitions
+                },
+                {
+                    content: 'More help here: https://git.fuwafuwa.moe/SMLoadrDev/SMLoadr',
+                }
+            ];
+
+            console.log(commandLineUsage(helpSections));
+            process.exit(1);
+        } else {
+            let cliUrl = cliOptions['url'];
+            let cliQuality = cliOptions['quality'];
+            let cliPath = cliOptions['path'];
+            let cliDownloadMode = cliOptions['downloadmode'];
+
+            switch (cliQuality) {
+                case 'MP3_128':
+                    selectedMusicQuality = musicQualities.MP3_128;
+                    break;
+                case 'MP3_320':
+                    selectedMusicQuality = musicQualities.MP3_320;
+                    break;
+                case 'FLAC':
+                    selectedMusicQuality = musicQualities.FLAC;
+                    break;
+            }
+
+            DOWNLOAD_DIR = nodePath.normalize(cliPath).replace(/\/$|\\$/, '');
+            DOWNLOAD_MODE = cliDownloadMode;
+
+            downloadSpinner.warn(chalk.yellow('Do not scroll while downloading! This will mess up the UI!'));
+
+            if ('all' === DOWNLOAD_MODE) {
+                downloadLinksFromFile();
+            } else if ('single' === DOWNLOAD_MODE) {
+                startDownload(cliUrl).then(() => {
+                    setTimeout(() => {
+                        setTimeout(() => {
+                            process.exit(1);
+                        }, 100);
+                    }, 100);
+                }).catch((err) => {
+                    downloadSpinner.fail(err);
+                    downloadStateInstance.finish();
+                    process.exit(1);
+                });
+            }
+        }
+    } else {
+        inquirer.prompt([
+            {
+                type:    'list',
+                name:    'musicQuality',
+                prefix:  '♫',
+                message: 'Select music quality:',
+                choices: [
+                    'MP3  - 128  kbps',
+                    'MP3  - 320  kbps',
+                    'FLAC - 1411 kbps'
+                ],
+                default: 1
+            }
+        ]).then((answers) => {
+            switch (answers.musicQuality) {
+                case 'MP3  - 128  kbps':
+                    selectedMusicQuality = musicQualities.MP3_128;
+                    break;
+                case 'MP3  - 320  kbps':
+                    selectedMusicQuality = musicQualities.MP3_320;
+                    break;
+                case 'FLAC - 1411 kbps':
+                    selectedMusicQuality = musicQualities.FLAC;
+                    break;
+            }
+
+            selectDownloadMode();
+        });
+    }
+}
+
+/**
+ * Ask for download mode (single or all).
+ */
+function selectDownloadMode() {
+    inquirer.prompt([
+        {
+            type:    'list',
+            name:    'downloadMode',
+            prefix:  '♫',
+            message: 'Select download mode:',
+            choices: [
+                'Single (Download single link)',
+                'All    (Download all links in "' + DOWNLOAD_LINKS_FILE + '")'
+            ],
+            default: 0
+        }
+    ]).then((answers) => {
+        if ('All    (Download all links in "' + DOWNLOAD_LINKS_FILE + '")' === answers.downloadMode) {
+            console.log('');
+            downloadSpinner.warn(chalk.yellow('Do not scroll while downloading! This will mess up the UI!'));
+
+            downloadLinksFromFile();
+        } else {
+            askForNewDownload();
+        }
+    });
+}
+
+/**
+ * Download all links from file
+ */
+function downloadLinksFromFile() {
+    const lines = fs
+        .readFileSync(DOWNLOAD_LINKS_FILE, 'utf-8')
+        .split(/^(.*)[\r|\n]/)
+        .filter(Boolean);
+
+    if (lines[0]) {
+        const firstLine = lines[0].trim();
+
+        if ('' === firstLine) {
+            removeFirstLineFromFile(DOWNLOAD_LINKS_FILE);
+            downloadLinksFromFile();
+        } else {
+            startDownload(firstLine, true).then(() => {
+                removeFirstLineFromFile(DOWNLOAD_LINKS_FILE);
+                downloadLinksFromFile();
+            }).catch((err) => {
+                downloadSpinner.fail(err);
+                downloadStateInstance.finish(false);
+
+                removeFirstLineFromFile(DOWNLOAD_LINKS_FILE);
+                downloadLinksFromFile();
+            });
+        }
+    } else {
+        downloadSpinner.succeed('Finished downloading from text file');
+
+        if (isCli) {
+            setTimeout(() => {
+                process.exit(1);
+            }, 100);
+        } else {
+            console.log('\n');
+            selectDownloadMode();
+        }
+    }
+}
+
+/**
+ * Remove the first line from the given file.
+ *
+ * @param {String} filePath
+ */
+function removeFirstLineFromFile(filePath) {
+    const lines = fs
+        .readFileSync(filePath, 'utf-8')
+        .split(/^(.*)[\r|\n]/)
+        .filter(Boolean);
+
+    let contentToWrite = '';
+
+    if (lines[1]) {
+        contentToWrite = lines[1].trim();
+    }
+
+    fs.writeFileSync(filePath, contentToWrite);
+}
+
+/**
+ * Ask for a album, playlist or track link to start the download.
+ */
+function askForNewDownload() {
+    console.log('\n');
+
+    let questions = [
+        {
+            type:     'input',
+            name:     'deezerUrl',
+            prefix:   '♫',
+            message:  'Deezer URL:',
+            validate: (deezerUrl) => {
+                if (deezerUrl) {
+                    let deezerUrlType = getDeezerUrlParts(deezerUrl).type;
+                    let allowedDeezerUrlTypes = [
+                        'album',
+                        'artist',
+                        'playlist',
+                        'profile',
+                        'track'
+                    ];
+
+                    if (allowedDeezerUrlTypes.includes(deezerUrlType)) {
+                        return true;
+                    }
+                }
+
+                return 'Deezer URL example: https://www.deezer.com/album|artist|playlist|profile|track/0123456789';
+            }
+        }
+    ];
+
+    inquirer.prompt(questions).then(answers => {
+        downloadSpinner.warn(chalk.yellow('Do not scroll while downloading! This will mess up the UI!'));
+
+        startDownload(answers.deezerUrl).then(() => {
+            askForNewDownload();
+        }).catch((err) => {
+            downloadSpinner.fail(err);
+            downloadStateInstance.finish();
+            askForNewDownload();
+        });
+    });
+}
+
+/**
+ * Remove empty files.
+ *
+ * @param {Object} filePaths
+ */
+function removeEmptyFiles(filePaths) {
+    filePaths.forEach((filePath) => {
+        if (fs.existsSync(filePath)) {
+            const fileContent = fs.readFileSync(filePath, 'utf-8').trim();
+
+            if ('' === fileContent) {
+                fs.unlinkSync(filePath);
+            }
+        }
+    });
+}
+
+class downloadState {
+    constructor() {
+        this.currentlyDownloading = {};
+        this.currentlyDownloadingPaths = [];
+        this.downloading = false;
+        this.numberTracksFinished = 0;
+        this.numberTracksToDownload = 0;
+        this.downloadType = '';
+        this.downloadTypeId = 0;
+        this.downloadTypeName = '';
+        this.downloadedSuccessfully = null;
+        this.downloadedUnsuccessfully = null;
+        this.downloadedWithWarning = null;
+    }
+
+    start(downloadType, downloadTypeId) {
+        this.downloading = true;
+        this.downloadType = downloadType;
+        this.downloadTypeId = downloadTypeId;
+
+        this.downloadedSuccessfully = fs.createWriteStream('downloadedSuccessfully.txt', {
+            flags: 'a' // 'a' means appending (old data will be preserved)
+        });
+
+        this.downloadedUnsuccessfully = fs.createWriteStream('downloadedUnsuccessfully.txt', {
+            flags: 'a' // 'a' means appending (old data will be preserved)
+        });
+
+        this.downloadedWithWarning = fs.createWriteStream('downloadedWithWarning.txt', {
+            flags: 'a' // 'a' means appending (old data will be preserved)
+        });
+
+        this.display();
+    }
+
+    updateNumberTracksToDownload(numberTracksToDownload) {
+        this.numberTracksToDownload = numberTracksToDownload;
+    }
+
+    finish(showFinishMessage = true) {
+        this.downloading = false;
+
+        if (showFinishMessage) {
+            let downloadTypeAndName = this.downloadType;
+
+            if (this.downloadTypeName) {
+                downloadTypeAndName += ' "' + this.downloadTypeName + '"';
+            }
+
+            downloadSpinner.succeed('Finished downloading ' + downloadTypeAndName);
+        }
+
+        if ('-' !== this.downloadTypeId.toString().charAt(0)) {
+            this.downloadedSuccessfully.write('https://www.deezer.com/' + this.downloadType + '/' + this.downloadTypeId + '\r\n');
+        }
+
+        this.downloadedSuccessfully.end();
+        this.downloadedUnsuccessfully.end();
+        this.downloadedWithWarning.end();
+
+        removeEmptyFiles([
+            'downloadedSuccessfully.txt',
+            'downloadedUnsuccessfully.txt',
+            'downloadedWithWarning.txt'
+        ]);
+
+        this.currentlyDownloading = {};
+        this.currentlyDownloadingPaths = [];
+        this.numberTracksFinished = 0;
+        this.numberTracksToDownload = 0;
+        this.downloadType = '';
+        this.downloadTypeId = 0;
+        this.downloadTypeName = '';
+    }
+
+    setDownloadTypeName(downloadTypeName) {
+        this.downloadTypeName = downloadTypeName;
+
+        this.display();
+    }
+
+    add(trackId, message) {
+
+        this.currentlyDownloading[trackId] = message;
+
+        this.display();
+    }
+
+    update(trackId, message) {
+        this.add(trackId, message);
+    }
+
+    remove(trackId) {
+        delete this.currentlyDownloading[trackId];
+
+        this.display();
+    }
+
+    success(trackId, message) {
+        downloadSpinner.succeed(message);
+
+        this.numberTracksFinished++;
+        this.remove(trackId);
+    }
+
+    warn(trackId, message) {
+        downloadSpinner.warn(message);
+
+        if ('-' !== trackId.toString().charAt(0)) {
+            this.downloadedWithWarning.write('https://www.deezer.com/track/' + trackId + '\r\n');
+        }
+
+        this.numberTracksFinished++;
+        this.remove(trackId);
+    }
+
+    fail(trackId, message) {
+        downloadSpinner.fail(message);
+
+        if ('-' !== trackId.toString().charAt(0)) {
+            this.downloadedUnsuccessfully.write('https://www.deezer.com/track/' + trackId + '\r\n');
+        }
+
+        this.numberTracksFinished++;
+        this.remove(trackId);
+    }
+
+    display() {
+        if (this.downloading) {
+            let downloadTypeAndName = this.downloadType;
+
+            if (this.downloadTypeName) {
+                downloadTypeAndName += ' "' + this.downloadTypeName + '"';
+            }
+
+            let finishedPercentage = '0.00';
+
+            if (0 !== this.numberTracksToDownload) {
+                finishedPercentage = (this.numberTracksFinished / this.numberTracksToDownload * 100).toFixed(2);
+            }
+
+            let downloadSpinnerText = chalk.green('Downloading ' + downloadTypeAndName + ' [' + this.numberTracksFinished + '/' + this.numberTracksToDownload + ' - ' + finishedPercentage + '%]:\n');
+
+            if (0 < Object.keys(this.currentlyDownloading).length) {
+                downloadSpinnerText += '  › ' + Object.values(this.currentlyDownloading).join('\n  › ');
+            } else {
+                downloadSpinnerText += '  › Fetching infos...';
+            }
+
+            downloadSpinner.start(downloadSpinnerText);
+        }
+    }
+
+    addCurrentlyDownloadingPath(downloadPath) {
+        this.currentlyDownloadingPaths.push(downloadPath);
+    }
+
+    removeCurrentlyDownloadingPath(downloadPath) {
+        const index = this.currentlyDownloadingPaths.indexOf(downloadPath);
+
+        if (-1 !== index) {
+            this.currentlyDownloadingPaths.splice(index, 1);
+        }
+    }
+
+    isCurrentlyDownloadingPathUsed(downloadPath) {
+        return (this.currentlyDownloadingPaths.indexOf(downloadPath) > -1);
+    }
+}
+
+let downloadStateInstance = new downloadState();
+
+/**
+ * Start a deezer download.
+ *
+ * @param {String}  deezerUrl
+ * @param {Boolean} downloadFromFile
+ */
+function startDownload(deezerUrl, downloadFromFile = false) {
+    log.debug('------------------------------------------');
+    log.debug('Started download task: "' + deezerUrl + '"');
+
+    const deezerUrlParts = getDeezerUrlParts(deezerUrl);
+
+    downloadStateInstance.start(deezerUrlParts.type, deezerUrlParts.id);
+
+    switch (deezerUrlParts.type) {
+        case 'album':
+        case 'playlist':
+        case 'profile':
+            return downloadMultiple(deezerUrlParts.type, deezerUrlParts.id).then(() => {
+                downloadStateInstance.finish(!downloadFromFile);
+            });
+        case 'artist':
+            return downloadArtist(deezerUrlParts.id).then(() => {
+                downloadStateInstance.finish(!downloadFromFile);
+            });
+        case 'track':
+            downloadStateInstance.updateNumberTracksToDownload(1);
+
+            return downloadSingleTrack(deezerUrlParts.id).then(() => {
+                downloadStateInstance.finish(!downloadFromFile);
+            });
+    }
+}
+
+/**
+ * Get the url type (album/artist/playlist/profile/track) and the id from the deezer url.
+ *
+ * @param {String} deezerUrl
+ *
+ * @return {Object}
+ */
+function getDeezerUrlParts(deezerUrl) {
+    const urlParts = deezerUrl.split(/\/(\w+)\/(\d+)/);
+
+    return {
+        type: urlParts[1],
+        id:   urlParts[2]
+    };
+}
+
+/**
+ * Download all tracks of an artists.
+ *
+ * @param {Number} id
+ */
+function downloadArtist(id) {
+    return new Promise((resolve, reject) => {
+        let requestParams = {
+            method: 'POST',
+            url:    unofficialApiUrl,
+            qs:     Object.assign(unofficialApiQueries, {
+                method: 'artist.getData',
+                cid:    getApiCid()
+            }),
+            body:   {
+                art_id:         id,
+                filter_role_id: [0],
+                lang:           'us',
+                tab:            0,
+                nb:             -1,
+                start:          0
+            },
+            json:   true,
+            jar:    true
+        };
+
+        requestWithCache(requestParams).then((response) => {
+            if (!response || 0 < Object.keys(response.error).length) {
+                if (response.error.VALID_TOKEN_REQUIRED) {
+                    initDeezerApi();
+
+                    setTimeout(() => {
+                        downloadArtist(id).then(() => {
+                            resolve();
+                        }).catch((err) => {
+                            reject(err);
+                        });
+                    }, 1000);
+                } else {
+                    throw 'Could not fetch the artist!';
+                }
+            } else {
+                log.debug('Got artist infos for "artist/' + id + '"');
+
+                const artistName = response.results.ART_NAME;
+                downloadStateInstance.setDownloadTypeName(artistName);
+
+                requestParams.qs.method = 'album.getDiscography';
+                requestParams.qs.cid = getApiCid();
+                requestParams.body = {
+                    art_id:         id,
+                    filter_role_id: [0],
+                    lang:           'us',
+                    nb:             500,
+                    nb_songs:       -1,
+                    start:          0
+                };
+
+                requestWithoutCache(requestParams).then((response) => {
+                    if (!response || 0 < Object.keys(response.error).length) {
+                        if (response.error.VALID_TOKEN_REQUIRED) {
+                            initDeezerApi();
+
+                            setTimeout(() => {
+                                downloadArtist(id).then(() => {
+                                    resolve();
+                                }).catch((err) => {
+                                    reject(err);
+                                });
+                            }, 1000);
+                        } else {
+                            throw 'Could not fetch "' + artistName + '" albums!';
+                        }
+                    } else {
+                        log.debug('Got all albums for "artist/' + id + '"');
+
+                        if (0 < response.results.data.length) {
+                            let trackList = [];
+                            let albumList = {};
+
+                            response.results.data.forEach((album) => {
+                                albumList[album.ALB_ID] = album;
+
+                                album.SONGS.data.forEach((track) => {
+                                    trackList.push(track);
+                                });
+                            });
+
+                            downloadStateInstance.updateNumberTracksToDownload(trackList.length);
+
+                            trackListDownload(trackList, albumList).then(() => {
+                                resolve();
+                            });
+                        } else {
+                            downloadSpinner.warn('No tracks to download for artist "' + artistName + '"');
+
+                            resolve();
+                        }
+                    }
+                }).catch((err) => {
+                    reject(err);
+                });
+            }
+        }).catch((err) => {
+            reject(err);
+        });
+    });
+}
+
+/**
+ * Download multiple tracks (album, playlist or users favourite tracks)
+ *
+ * @param {String} type
+ * @param {Number} id
+ */
+function downloadMultiple(type, id) {
+    let requestBody;
+    let requestQueries = unofficialApiQueries;
+
+    switch (type) {
+        case 'album':
+            requestQueries.method = 'deezer.pageAlbum';
+            requestBody = {
+                alb_id: id,
+                lang:   'en',
+                tab:    0
+            };
+            break;
+
+        case 'playlist':
+            requestQueries.method = 'deezer.pagePlaylist';
+            requestBody = {
+                playlist_id: id,
+                lang:        'en',
+                nb:          -1,
+                start:       0,
+                tab:         0,
+                tags:        true,
+                header:      true
+            };
+            break;
+
+        case 'profile':
+            requestQueries.method = 'deezer.pageProfile';
+            requestBody = {
+                user_id: id,
+                tab:     'loved',
+                nb:      -1
+            };
+            break;
+    }
+
+    let requestParams = {
+        method: 'POST',
+        url:    unofficialApiUrl,
+        qs:     requestQueries,
+        body:   requestBody,
+        json:   true,
+        jar:    true
+    };
+
+    let request = requestWithoutCache;
+
+    if (!['playlist', 'profile'].includes(type)) {
+        request = requestWithCache;
+    }
+
+    return new Promise((resolve, reject) => {
+        request(requestParams).then((response) => {
+            if (!response || 0 < Object.keys(response.error).length || ('playlist' === type && 1 === Number(response.results.DATA.STATUS) && 0 < response.results.DATA.DURATION && 0 === response.results.SONGS.data.length)) {
+                if (response.error.VALID_TOKEN_REQUIRED) {
+                    initDeezerApi();
+
+                    setTimeout(() => {
+                        downloadMultiple(type, id).then(() => {
+                            resolve();
+                        }).catch((err) => {
+                            reject(err);
+                        });
+                    }, 1000);
+                } else if ('playlist' === type && response.results && response.results.DATA && 1 === Number(response.results.DATA.STATUS && 0 < response.results.DATA.DURATION && 0 === response.results.SONGS.data.length)) {
+                    throw 'Other users private playlists are not supported!';
+                } else {
+                    throw 'Could not fetch the ' + type + '!';
+                }
+            } else {
+                log.debug('Got track list for "' + type + '/' + id + '"');
+
+                let trackList = [];
+                let albumList = {};
+                let downloadTypeName = '';
+
+                switch (type) {
+                    case 'album':
+                        trackList = response.results.SONGS.data;
+
+                        response.results.DATA.SONGS = response.results.SONGS;
+                        albumList[response.results.DATA.ALB_ID] = response.results.DATA;
+
+                        downloadTypeName = response.results.DATA.ALB_TITLE;
+
+                        break;
+                    case 'playlist':
+                        trackList = response.results.SONGS.data;
+                        downloadTypeName = response.results.DATA.TITLE;
+
+                        break;
+                    case 'profile':
+                        trackList = response.results.TAB.loved.data;
+                        downloadTypeName = response.results.DATA.USER.DISPLAY_NAME;
+
+                        break;
+                }
+
+                downloadStateInstance.setDownloadTypeName(downloadTypeName);
+
+                if (0 < trackList.length) {
+                    // We don't want to generate a playlist file if this is no playlist
+                    if (['profile', 'album'].includes(type)) {
+                        PLAYLIST_FILE_ITEMS = null;
+                    } else {
+                        PLAYLIST_FILE_ITEMS = {};
+                    }
+
+                    downloadStateInstance.updateNumberTracksToDownload(trackList.length);
+
+                    trackListDownload(trackList, albumList).then(() => {
+                        // Generate the playlist file
+                        if (PLAYLIST_FILE_ITEMS != null) {
+                            const playlistName = multipleWhitespacesToSingle(sanitizeFilename(response.results.DATA.TITLE));
+                            const playlistFile = nodePath.join(PLAYLIST_DIR, playlistName + '.m3u8');
+                            let playlistFileContent = '';
+
+                            for (let i = 0; i < PLAYLIST_FILE_ITEMS.length; i++) {
+                                playlistFileContent += PLAYLIST_FILE_ITEMS[i] + '\r\n';
+                            }
+
+                            trackList.forEach((trackInfos) => {
+                                if (PLAYLIST_FILE_ITEMS[trackInfos.SNG_ID]) {
+                                    const playlistFileItem = PLAYLIST_FILE_ITEMS[trackInfos.SNG_ID];
+
+                                    playlistFileContent += '#EXTINF:' + playlistFileItem.trackDuration + ',' + playlistFileItem.trackArtist + ' - ' + playlistFileItem.trackTitle + '\r\n';
+                                    playlistFileContent += '../' + playlistFileItem.trackSavePath + '\r\n';
+                                }
+                            });
+
+                            ensureDir(playlistFile);
+                            fs.writeFileSync(playlistFile, playlistFileContent);
+                        }
+
+                        resolve();
+                    });
+                } else {
+                    downloadSpinner.warn('No tracks to download for ' + type + ' "' + downloadTypeName + '"');
+
+                    resolve();
+                }
+            }
+        }).catch((err) => {
+            reject(err);
+        });
+    });
+}
+
+/**
+ * Get the number of parallel downloads to use for the current available memory and selected quality.
+ *
+ * @return {Number}
+ */
+function getNumberOfParallelDownloads() {
+    let freeMemoryMb;
+    const approxMaxSizeMb = selectedMusicQuality.aproxMaxSizeMb;
+
+    try {
+        freeMemoryMb = memoryStats.free() / 1024 / 1024;
+    } catch (e) {
+        freeMemoryMb = 0;
+    }
+
+    let numberOfParallel = parseInt(((freeMemoryMb - 300) / approxMaxSizeMb).toString());
+
+    if (20 < numberOfParallel) {
+        numberOfParallel = 20;
+    } else if (1 > numberOfParallel) {
+        numberOfParallel = 1;
+    }
+
+    return numberOfParallel;
+}
+
+/**
+ * Map through a track list and download it.
+ *
+ * @param {Object} trackList
+ * @param {Object} albumInfos
+ */
+function trackListDownload(trackList, albumInfos = {}) {
+    const numberOfParallel = getNumberOfParallelDownloads();
+
+    return Promise.map(trackList, (trackInfos) => {
+        let trackAlbumInfos;
+
+        if (albumInfos[trackInfos.ALB_ID]) {
+            trackAlbumInfos = albumInfos[trackInfos.ALB_ID];
+        }
+
+        trackInfos.SNG_TITLE_VERSION = trackInfos.SNG_TITLE;
+
+        if (trackInfos.VERSION) {
+            trackInfos.SNG_TITLE_VERSION = (trackInfos.SNG_TITLE + ' ' + trackInfos.VERSION).trim();
+        }
+
+        let artistName = trackInfos.ART_NAME;
+
+        if (trackAlbumInfos && '' !== trackAlbumInfos.ART_NAME) {
+            artistName = trackAlbumInfos.ART_NAME;
+        }
+
+        artistName = multipleWhitespacesToSingle(sanitizeFilename(artistName));
+
+        if ('' === artistName.trim()) {
+            artistName = 'Unknown artist';
+        }
+
+        if ('various' === artistName.trim().toLowerCase()) {
+            artistName = 'Various Artists';
+        }
+
+        let albumName = multipleWhitespacesToSingle(sanitizeFilename(trackInfos.ALB_TITLE));
+
+        if ('' === albumName.trim()) {
+            albumName = 'Unknown album';
+        }
+
+        albumName += ' (Album)';
+
+        let saveFileDir = nodePath.join(DOWNLOAD_DIR, artistName, albumName);
+
+        if (trackAlbumInfos && trackAlbumInfos.SONGS && trackAlbumInfos.SONGS.data && 0 < trackAlbumInfos.SONGS.data.length && '' !== trackAlbumInfos.SONGS.data[trackAlbumInfos.SONGS.data.length - 1].DISK_NUMBER) {
+            const albumNumberOfDisks = trackAlbumInfos.SONGS.data[trackAlbumInfos.SONGS.data.length - 1].DISK_NUMBER;
+
+            if (albumNumberOfDisks > 1) {
+                saveFileDir += nodePath.join(saveFileDir, 'Disc ' + toTwoDigits(trackInfos.DISK_NUMBER));
+            }
+        }
+
+        let saveFileName = multipleWhitespacesToSingle(sanitizeFilename(toTwoDigits(trackInfos.TRACK_NUMBER) + ' ' + trackInfos.SNG_TITLE_VERSION));
+        let fileExtension = 'mp3';
+
+        if (musicQualities.FLAC.id === selectedMusicQuality.id) {
+            fileExtension = 'flac';
+        }
+
+        const downloadingMessage = artistName + ' - ' + trackInfos.SNG_TITLE_VERSION;
+        downloadStateInstance.add(trackInfos.SNG_ID, downloadingMessage);
+
+        if (fs.existsSync(saveFileDir)) {
+            let files = Finder.from(saveFileDir).findFiles(saveFileName + '.' + fileExtension);
+
+            if (0 < files.length) {
+                addTrackToPlaylist(files[0], trackInfos);
+
+                const warningMessage = artistName + ' - ' + trackInfos.SNG_TITLE_VERSION + ' \n  › Song already exists';
+                downloadStateInstance.success(trackInfos.SNG_ID, warningMessage);
+
+                return true;
+            }
+        }
+
+        return downloadSingleTrack(trackInfos.SNG_ID, trackInfos, trackAlbumInfos);
+    }, {
+        concurrency: numberOfParallel
+    });
+}
+
+/**
+ * Download a track + id3tags (album cover...) and save it in the downloads folder.
+ *
+ * @param {Number}  id
+ * @param {Object}  trackInfos
+ * @param {Object}  albumInfos
+ * @param {Boolean} isAlternativeTrack
+ * @param {Number}  numberRetry
+ */
+function downloadSingleTrack(id, trackInfos = {}, albumInfos = {}, isAlternativeTrack = false, numberRetry = 0) {
+    let dirPath;
+    let saveFilePath;
+    let originalTrackInfos;
+    let fileExtension = 'mp3';
+    let trackQuality;
+
+    log.debug('Start downloading "track/' + id + '"');
+
+    return new Promise((resolve) => {
+        if ('-' === id.toString().charAt(0) && 0 < Object.keys(trackInfos).length) {
+            getTrackAlternative(trackInfos).then((alternativeTrackInfos) => {
+                downloadStateInstance.remove(id);
+
+                log.debug('Using alternative "track/' + alternativeTrackInfos.SNG_ID + '" for "track/' + trackInfos.SNG_ID + '"');
+
+                downloadSingleTrack(alternativeTrackInfos.SNG_ID, {}, {}, true).then(() => {
+                    resolve();
+                });
+            }).catch(() => {
+                startTrackInfoFetching();
+            });
+        } else {
+            startTrackInfoFetching();
+        }
+
+        function startTrackInfoFetching() {
+            if (!isAlternativeTrack && 0 < Object.keys(trackInfos).length) {
+                originalTrackInfos = trackInfos;
+
+                afterTrackInfoFetching();
+            } else {
+                getTrackInfos(id).then((trackInfosResponse) => {
+                    originalTrackInfos = trackInfosResponse;
+
+                    afterTrackInfoFetching();
+                }).catch((err) => {
+                    errorHandling(err);
+                });
+            }
+        }
+
+        function afterTrackInfoFetching() {
+            if (!isAlternativeTrack || 0 === Object.keys(trackInfos).length) {
+                trackInfos = originalTrackInfos;
+            }
+
+            trackQuality = getValidTrackQuality(originalTrackInfos);
+
+            originalTrackInfos.SNG_TITLE_VERSION = originalTrackInfos.SNG_TITLE;
+
+            if (originalTrackInfos.VERSION) {
+                originalTrackInfos.SNG_TITLE_VERSION = (originalTrackInfos.SNG_TITLE + ' ' + originalTrackInfos.VERSION).trim();
+            }
+
+            if (0 < Object.keys(albumInfos).length || 0 === trackInfos.ALB_ID) {
+                afterAlbumInfoFetching();
+            } else {
+                const downloadingMessage = trackInfos.ART_NAME + ' - ' + trackInfos.SNG_TITLE_VERSION;
+                downloadStateInstance.update(originalTrackInfos.SNG_ID, downloadingMessage);
+
+                getAlbumInfos(trackInfos.ALB_ID).then((albumInfosResponse) => {
+                    albumInfos = albumInfosResponse;
+
+                    albumInfos.TYPE = 'album';
+                    albumInfos.GENRES = [];
+
+                    afterAlbumInfoFetching();
+                }).catch(() => {
+                    afterAlbumInfoFetching();
+                });
+            }
+        }
+
+        function afterAlbumInfoFetching() {
+            originalTrackInfos.ALB_UPC = '';
+            originalTrackInfos.ALB_LABEL = '';
+            originalTrackInfos.ALB_NUM_TRACKS = '';
+            originalTrackInfos.ALB_NUM_DISCS = '';
+
+            if (albumInfos.UPC) {
+                originalTrackInfos.ALB_UPC = albumInfos.UPC;
+            }
+
+            if (albumInfos.PHYSICAL_RELEASE_DATE && !trackInfos.ALB_RELEASE_DATE) {
+                originalTrackInfos.ALB_RELEASE_DATE = albumInfos.PHYSICAL_RELEASE_DATE;
+            }
+
+            if (albumInfos.SONGS && 0 < albumInfos.SONGS.data.length && albumInfos.SONGS.data[albumInfos.SONGS.data.length - 1].DISK_NUMBER) {
+                originalTrackInfos.ALB_NUM_DISCS = albumInfos.SONGS.data[albumInfos.SONGS.data.length - 1].DISK_NUMBER;
+            }
+
+            originalTrackInfos.ALB_ART_NAME = originalTrackInfos.ART_NAME;
+
+            if (albumInfos.ART_NAME) {
+                originalTrackInfos.ALB_ART_NAME = albumInfos.ART_NAME;
+            }
+
+            if (!originalTrackInfos.ARTISTS || 0 === originalTrackInfos.ARTISTS.length) {
+                originalTrackInfos.ARTISTS = [
+                    {
+                        ART_ID:      originalTrackInfos.ART_ID,
+                        ART_NAME:    originalTrackInfos.ALB_ART_NAME,
+                        ART_PICTURE: originalTrackInfos.ART_PICTURE
+                    }
+                ];
+            }
+
+            if ('various' === originalTrackInfos.ALB_ART_NAME.trim().toLowerCase()) {
+                originalTrackInfos.ALB_ART_NAME = 'Various Artists';
+            }
+
+            if (albumInfos.LABEL_NAME) {
+                originalTrackInfos.ALB_LABEL = albumInfos.LABEL_NAME;
+            }
+
+            if (albumInfos.SONGS && albumInfos.SONGS.data.length) {
+                originalTrackInfos.ALB_NUM_TRACKS = albumInfos.SONGS.data.length;
+            }
+
+            const downloadingMessage = trackInfos.ALB_ART_NAME + ' - ' + trackInfos.SNG_TITLE_VERSION;
+            downloadStateInstance.update(originalTrackInfos.SNG_ID, downloadingMessage);
+
+            if (0 === trackInfos.ALB_ID) {
+                afterAlbumInfoOfficialApiFetching();
+            } else {
+                getAlbumInfosOfficialApi(trackInfos.ALB_ID).then((albumInfosResponse) => {
+                    albumInfos.TYPE = albumInfosResponse.record_type;
+                    albumInfos.GENRES = [];
+
+                    albumInfosResponse.genres.data.forEach((albumGenre) => {
+                        albumInfos.GENRES.push(albumGenre.name);
+                    });
+
+                    afterAlbumInfoOfficialApiFetching();
+                }).catch(() => {
+                    afterAlbumInfoOfficialApiFetching();
+                });
+            }
+        }
+
+        function afterAlbumInfoOfficialApiFetching() {
+            originalTrackInfos.ALB_GENRES = albumInfos.GENRES;
+
+            if (albumInfos.TYPE) {
+                originalTrackInfos.ALB_RELEASE_TYPE = albumInfos.TYPE;
+            }
+
+            if (isAlternativeTrack) {
+                trackInfos.DURATION = originalTrackInfos.DURATION;
+                trackInfos.GAIN = originalTrackInfos.GAIN;
+                trackInfos.LYRICS_ID = originalTrackInfos.LYRICS_ID;
+                trackInfos.LYRICS = originalTrackInfos.LYRICS;
+            } else {
+                trackInfos = originalTrackInfos;
+            }
+
+            if (trackQuality) {
+                let artistName = multipleWhitespacesToSingle(sanitizeFilename(trackInfos.ALB_ART_NAME));
+
+                if ('' === artistName.trim()) {
+                    artistName = 'Unknown artist';
+                }
+
+                let albumType = 'Album';
+
+                if (albumInfos.TYPE) {
+                    albumType = albumInfos.TYPE.toLowerCase();
+
+                    if ('ep' === albumType) {
+                        albumType = 'EP';
+                    } else {
+                        albumType = capitalizeFirstLetter(albumType);
+                    }
+                }
+
+                let albumName = multipleWhitespacesToSingle(sanitizeFilename(trackInfos.ALB_TITLE));
+
+                if ('' === albumName.trim()) {
+                    albumName = 'Unknown album';
+                }
+
+                albumName += ' (' + albumType + ')';
+
+                if (trackInfos.ALB_NUM_DISCS > 1) {
+                    dirPath = nodePath.join(DOWNLOAD_DIR, artistName, albumName, 'Disc ' + toTwoDigits(trackInfos.DISK_NUMBER));
+                } else {
+                    dirPath = nodePath.join(DOWNLOAD_DIR, artistName, albumName);
+                }
+
+                if (musicQualities.FLAC.id === trackQuality.id) {
+                    fileExtension = 'flac';
+                }
+                saveFilePath = dirPath + nodePath.sep;
+
+                if (trackInfos.TRACK_NUMBER) {
+                    saveFilePath += toTwoDigits(trackInfos.TRACK_NUMBER) + ' ';
+                }
+
+                saveFilePath += multipleWhitespacesToSingle(sanitizeFilename(trackInfos.SNG_TITLE_VERSION));
+
+                saveFilePath += '.' + fileExtension;
+
+                if (!fs.existsSync(saveFilePath) && !downloadStateInstance.isCurrentlyDownloadingPathUsed(saveFilePath)) {
+                    downloadStateInstance.addCurrentlyDownloadingPath(saveFilePath);
+
+                    return downloadTrack(originalTrackInfos, trackQuality.id, saveFilePath).then((decryptedTrackBuffer) => {
+                        onTrackDownloadComplete(decryptedTrackBuffer);
+                    }).catch((error) => {
+                        log.debug('Failed downloading "track/' + trackInfos.SNG_ID + '". Error: "' + error + '"');
+
+                        if (originalTrackInfos.FALLBACK && originalTrackInfos.FALLBACK.SNG_ID && trackInfos.SNG_ID !== originalTrackInfos.FALLBACK.SNG_ID && originalTrackInfos.SNG_ID !== originalTrackInfos.FALLBACK.SNG_ID) {
+                            downloadStateInstance.removeCurrentlyDownloadingPath(saveFilePath);
+                            downloadStateInstance.remove(originalTrackInfos.SNG_ID);
+
+                            log.debug('Using alternative "track/' + originalTrackInfos.FALLBACK.SNG_ID + '" for "track/' + trackInfos.SNG_ID + '"');
+
+                            downloadSingleTrack(originalTrackInfos.FALLBACK.SNG_ID, trackInfos, albumInfos, true).then(() => {
+                                resolve();
+                            });
+
+                            const error = {
+                                message: '-',
+                                name:    'notAvailableButAlternative'
+                            };
+
+                            errorHandling(error);
+                        } else {
+                            getTrackAlternative(trackInfos).then((alternativeTrackInfos) => {
+                                downloadStateInstance.removeCurrentlyDownloadingPath(saveFilePath);
+                                downloadStateInstance.remove(originalTrackInfos.SNG_ID);
+
+                                log.debug('Using alternative "track/' + alternativeTrackInfos.SNG_ID + '" for "track/' + trackInfos.SNG_ID + '"');
+
+                                if (albumInfos.ALB_TITLE) {
+                                    albumInfos = {};
+                                }
+
+                                downloadSingleTrack(alternativeTrackInfos.SNG_ID, trackInfos, albumInfos, true).then(() => {
+                                    resolve();
+                                });
+                            }).catch(() => {
+                                const errorMessage = trackInfos.ALB_ART_NAME + ' - ' + trackInfos.SNG_TITLE_VERSION + '\n  › Deezer doesn\'t provide the song anymore';
+
+                                errorHandling(errorMessage);
+                            });
+                        }
+                    });
+                } else {
+                    addTrackToPlaylist(saveFilePath, trackInfos);
+
+                    const error = {
+                        message: trackInfos.ALB_ART_NAME + ' - ' + trackInfos.SNG_TITLE_VERSION + ' \n  › Song already exists',
+                        name: 'songAlreadyExists'
+                    };
+
+                    errorHandling(error);
+                }
+            } else {
+                errorHandling(trackInfos.ALB_ART_NAME + ' - ' + trackInfos.SNG_TITLE_VERSION + '\n  › Deezer doesn\'t provide the song anymore');
+            }
+        }
+
+        function onTrackDownloadComplete(decryptedTrackBuffer) {
+            let downloadMessageAppend = '';
+
+            if (isAlternativeTrack && originalTrackInfos.SNG_TITLE_VERSION.trim().toLowerCase() !== trackInfos.SNG_TITLE_VERSION.trim().toLowerCase()) {
+                downloadMessageAppend = '\n  › Used "' + originalTrackInfos.ALB_ART_NAME + ' - ' + originalTrackInfos.SNG_TITLE_VERSION + '" as alternative';
+            }
+
+            if (trackQuality !== selectedMusicQuality) {
+                let selectedMusicQualityName = musicQualities[Object.keys(musicQualities).find(key => musicQualities[key] === selectedMusicQuality)].name;
+                let trackQualityName = musicQualities[Object.keys(musicQualities).find(key => musicQualities[key] === trackQuality)].name;
+
+                downloadMessageAppend += '\n  › Used "' + trackQualityName + '" because "' + selectedMusicQualityName + '" wasn\'t available';
+            }
+
+            const successMessage = '' + trackInfos.ALB_ART_NAME + ' - ' + trackInfos.SNG_TITLE_VERSION + '' + downloadMessageAppend;
+
+            addTrackTags(decryptedTrackBuffer, trackInfos, saveFilePath).then(() => {
+                downloadStateInstance.success(originalTrackInfos.SNG_ID, successMessage);
+
+                downloadStateInstance.removeCurrentlyDownloadingPath(saveFilePath);
+                addTrackToPlaylist(saveFilePath, trackInfos);
+
+                resolve();
+            }).catch(() => {
+                const warningMessage = successMessage + '\n  › Failed writing ID3 tags';
+                downloadStateInstance.warn(originalTrackInfos.SNG_ID, warningMessage);
+
+                downloadStateInstance.removeCurrentlyDownloadingPath(saveFilePath);
+                addTrackToPlaylist(saveFilePath, trackInfos);
+
+                resolve();
+            });
+        }
+
+        function errorHandling(err) {
+            if (404 === err.statusCode) {
+                err = 'Track "' + id + '" not found';
+            }
+
+            if (err.name && err.message) {
+                if ('-' !== err.message) {
+                    if ('songAlreadyExists' === err.name) {
+                        downloadStateInstance.success(originalTrackInfos.SNG_ID, err.message);
+                    } else {
+                        downloadStateInstance.fail(originalTrackInfos.SNG_ID, err.message);
+                    }
+                }
+            } else {
+                downloadStateInstance.fail(id, err);
+            }
+
+            if ('notAvailableButAlternative' !== err.name && 'invalidApiToken' !== err.name) {
+                resolve();
+            }
+        }
+    });
+}
+
+/**
+ * Get track infos of a song by id.
+ *
+ * @param {Number} id
+ */
+function getTrackInfos(id) {
+    return new Promise((resolve, reject) => {
+        return requestWithCache({
+            method: 'POST',
+            url:    unofficialApiUrl,
+            qs:     Object.assign(unofficialApiQueries, {
+                method: 'deezer.pageTrack',
+                cid:    getApiCid()
+            }),
+            body:   {
+                sng_id: id
+            },
+            json:   true,
+            jar:    true
+        }).then((response) => {
+            log.debug('Got track infos for "track/' + id + '"');
+
+            if (response && 0 === Object.keys(response.error).length && response.results && response.results.DATA) {
+                let trackInfos = response.results.DATA;
+
+                if (response.results.LYRICS) {
+                    trackInfos.LYRICS = response.results.LYRICS;
+                }
+
+                resolve(trackInfos);
+            } else if (response.error.VALID_TOKEN_REQUIRED) {
+                initDeezerApi();
+
+                setTimeout(() => {
+                    getTrackInfos(id).then((trackInfos) => {
+                        resolve(trackInfos);
+                    }).catch((err) => {
+                        reject(err);
+                    });
+                }, 1000);
+            } else {
+                reject({statusCode: 404});
+            }
+        }).catch(() => {
+            reject({statusCode: 404});
+        });
+    });
+}
+
+/**
+ * Get alternative track for a song by its track infos.
+ *
+ * @param {Object} trackInfos
+ */
+function getTrackAlternative(trackInfos) {
+    return new Promise((resolve, reject) => {
+        return requestWithCache({
+            method: 'POST',
+            url:    unofficialApiUrl,
+            qs:     Object.assign(unofficialApiQueries, {
+                method: 'search.music',
+                cid:    getApiCid()
+            }),
+            body:   {
+                QUERY:  'artist:\'' + trackInfos.ART_NAME + '\' track:\'' + trackInfos.SNG_TITLE + '\'',
+                OUTPUT: 'TRACK',
+                NB:     50,
+                FILTER: 0
+            },
+            json:   true,
+            jar:    true
+        }).then((response) => {
+            log.debug('Got alternative track for "track/' + trackInfos.SNG_ID + '"');
+            if (response && 0 === Object.keys(response.error).length && response.results && response.results.data && 0 < response.results.data.length) {
+                const foundTracks = response.results.data;
+                let matchingTracks = [];
+                if (foundTracks.length > 0) {
+                    foundTracks.forEach((foundTrack) => {
+                        if (trackInfos.MD5_ORIGIN === foundTrack.MD5_ORIGIN && trackInfos.DURATION - 5 <= foundTrack.DURATION && trackInfos.DURATION + 10 >= foundTrack.DURATION) {
+                            matchingTracks.push(foundTrack);
+                        }
+                    });
+
+                    if (1 === matchingTracks.length) {
+                        resolve(matchingTracks[0]);
+                    } else {
+                        let foundAlternativeTrack = false;
+
+                        if (0 === matchingTracks.length) {
+                            foundTracks.forEach((foundTrack) => {
+                                if (trackInfos.MD5_ORIGIN === foundTrack.MD5_ORIGIN) {
+                                    matchingTracks.push(foundTrack);
+                                }
+                            });
+                        }
+
+                        matchingTracks.forEach((foundTrack) => {
+                            foundTrack.SNG_TITLE_VERSION = foundTrack.SNG_TITLE;
+
+                            if (foundTrack.VERSION) {
+                                foundTrack.SNG_TITLE_VERSION = (foundTrack.SNG_TITLE + ' ' + foundTrack.VERSION).trim();
+                            }
+
+                            if (removeWhitespacesAndSpecialChars(trackInfos.SNG_TITLE_VERSION).toLowerCase() === removeWhitespacesAndSpecialChars(foundTrack.SNG_TITLE_VERSION).toLowerCase()) {
+                                foundAlternativeTrack = true;
+
+                                resolve(foundTrack);
+                            }
+                        });
+
+                        if (!foundAlternativeTrack) {
+                            reject();
+                        }
+                    }
+                } else {
+                    reject();
+                }
+            } else if (response.error.VALID_TOKEN_REQUIRED) {
+                initDeezerApi();
+
+                setTimeout(() => {
+                    getTrackAlternative(trackInfos).then((alternativeTrackInfos) => {
+                        resolve(alternativeTrackInfos);
+                    }).catch(() => {
+                        reject();
+                    });
+                }, 1000);
+            } else {
+                reject();
+            }
+        }).catch(() => {
+            reject();
+        });
+    });
+}
+
+/**
+ * Remove whitespaces and special characters from the given string.
+ *
+ * @param {String} string
+ */
+function removeWhitespacesAndSpecialChars(string) {
+    return string.replace(/[^A-Z0-9]/ig, '');
+}
+
+/**
+ * Get infos of an album by id.
+ *
+ * @param {Number} id
+ */
+function getAlbumInfos(id) {
+    return new Promise((resolve, reject) => {
+        return requestWithCache({
+            method: 'POST',
+            url:    unofficialApiUrl,
+            qs:     Object.assign(unofficialApiQueries, {
+                method: 'deezer.pageAlbum',
+                cid:    getApiCid()
+            }),
+            body:   {
+                alb_id: id,
+                lang:   'us',
+                tab:    0
+            },
+            json:   true,
+            jar:    true
+        }).then((response) => {
+            log.debug('Got album infos for "album/' + id + '"');
+
+            if (response && 0 === Object.keys(response.error).length && response.results && response.results.DATA && response.results.SONGS) {
+                let albumInfos = response.results.DATA;
+                albumInfos.SONGS = response.results.SONGS;
+
+                resolve(albumInfos);
+            } else if (response.error.VALID_TOKEN_REQUIRED) {
+                initDeezerApi();
+
+                setTimeout(() => {
+                    getAlbumInfos(id).then((albumInfos) => {
+                        resolve(albumInfos);
+                    }).catch((err) => {
+                        reject(err);
+                    });
+                }, 1000);
+            } else {
+                reject({statusCode: 404});
+            }
+        }).catch(() => {
+            reject({statusCode: 404});
+        });
+    });
+}
+
+/**
+ * Get infos of an album from the official api by id.
+ *
+ * @param {Number} id
+ */
+function getAlbumInfosOfficialApi(id) {
+    return new Promise((resolve, reject) => {
+        return requestWithCache({
+            url:  'https://api.deezer.com/album/' + id,
+            json: true
+        }).then((albumInfos) => {
+            log.debug('Got album infos (official api) for "album/' + id + '"');
+
+            if (albumInfos && !albumInfos.error) {
+                resolve(albumInfos);
+            } else {
+                reject({statusCode: 404});
+            }
+        }).catch(() => {
+            reject({statusCode: 404});
+        });
+    });
+}
+
+/**
+ * Get lyrics of a track by id.
+ *
+ * @param {Number} id
+ */
+function getTrackLyrics(id) {
+    return new Promise((resolve, reject) => {
+        return requestWithCache({
+            method: 'POST',
+            url:    unofficialApiUrl,
+            qs:     Object.assign(unofficialApiQueries, {
+                method: 'song.getLyrics',
+                cid:    getApiCid()
+            }),
+            body:   {
+                sng_id: id
+            },
+            json:   true,
+            jar:    true
+        }).then((response) => {
+            log.debug('Got lyrics for "track/' + id + '"');
+
+            if (response && 0 === Object.keys(response.error).length && response.results && response.results.LYRICS_ID) {
+                let trackLyrics = response.results;
+
+                resolve(trackLyrics);
+            } else if (response.error.VALID_TOKEN_REQUIRED) {
+                initDeezerApi();
+
+                setTimeout(() => {
+                    getTrackLyrics(id).then((trackLyrics) => {
+                        resolve(trackLyrics);
+                    }).catch((err) => {
+                        reject(err);
+                    });
+                }, 1000);
+            } else {
+                reject({statusCode: 404});
+            }
+        }).catch(() => {
+            reject({statusCode: 404});
+        });
+    });
+}
+
+/**
+ * Add a track to the playlist file content.
+ *
+ * @param {String} saveFilePath
+ * @param {Object} trackInfos
+ */
+function addTrackToPlaylist(saveFilePath, trackInfos) {
+    if (PLAYLIST_FILE_ITEMS != null) {
+        let saveFilePathForPlaylist = saveFilePath.replace(/\\+/g, '/');
+
+        if (!trackInfos.ALB_ART_NAME) {
+            trackInfos.ALB_ART_NAME = trackInfos.ART_NAME;
+        }
+
+        let artistName = multipleWhitespacesToSingle(sanitizeFilename(trackInfos.ALB_ART_NAME));
+
+        if ('' === artistName.trim()) {
+            artistName = 'Unknown artist';
+        }
+
+        PLAYLIST_FILE_ITEMS[trackInfos.SNG_ID] = {
+            trackTitle:    trackInfos.SNG_TITLE_VERSION,
+            trackArtist:   artistName,
+            trackDuration: trackInfos.DURATION,
+            trackSavePath: saveFilePathForPlaylist
+        };
+    }
+}
+
+/**
+ * Capitalizes the first letter of a string
+ *
+ * @param {String} string
+ *
+ * @returns {String}
+ */
+function capitalizeFirstLetter(string) {
+    return string.charAt(0).toUpperCase() + string.slice(1);
+}
+
+/**
+ * Adds a zero to the beginning if the number has only one digit.
+ *
+ * @param {Number} number
+ * @returns {String}
+ */
+function toTwoDigits(number) {
+    return (number < 10 ? '0' : '') + number;
+}
+
+/**
+ * Replaces multiple whitespaces with a single one.
+ *
+ * @param {String} string
+ * @returns {String}
+ */
+function multipleWhitespacesToSingle(string) {
+    return string.replace(/[ _,]+/g, ' ');
+}
+
+/**
+ * Replaces multiple whitespaces with a single one.
+ *
+ * @param {String} fileName
+ * @returns {String}
+ */
+function sanitizeFilename(fileName) {
+    fileName = fileName.replace('/', '-');
+
+    return sanitize(fileName);
+}
+
+/**
+ * Calculate the URL to download the track.
+ *
+ * @param {Object} trackInfos
+ * @param {Number} trackQuality
+ *
+ * @returns {String}
+ */
+function getTrackDownloadUrl(trackInfos, trackQuality) {
+    const step1 = [trackInfos.MD5_ORIGIN, trackQuality, trackInfos.SNG_ID, trackInfos.MEDIA_VERSION].join('¤');
+
+    let step2 = crypto.createHash('md5').update(step1, 'ascii').digest('hex') + '¤' + step1 + '¤';
+    while (step2.length % 16 > 0) step2 += ' ';
+
+    const step3 = crypto.createCipheriv('aes-128-ecb', 'jo6aey6haid2Teih', '').update(step2, 'ascii', 'hex');
+    const cdn = trackInfos.MD5_ORIGIN[0];
+
+    return 'https://e-cdns-proxy-' + cdn + '.dzcdn.net/mobile/1/' + step3;
+}
+
+/**
+ * Parse file size and check if it is defined & is non zero zero
+ *
+ * @returns {Boolean}
+ */
+function fileSizeIsDefined(filesize) {
+    return !('undefined' === typeof filesize || 0 === parseInt(filesize));
+}
+
+/**
+ * Get a downloadable track quality.
+ *
+ * FLAC -> 320kbps -> 256kbps -> 128kbps
+ * 320kbps -> FLAC -> 256kbps -> 128kbps
+ * 128kbps -> 256kbps -> 320kbps -> FLAC
+ *
+ * @param {Object} trackInfos
+ *
+ * @returns {Object|Boolean}
+ */
+function getValidTrackQuality(trackInfos) {
+    if (fileSizeIsDefined(trackInfos.FILESIZE_MP3_MISC)) {
+        return musicQualities.MP3_MISC;
+    }
+
+    if (musicQualities.FLAC === selectedMusicQuality) {
+        if (!fileSizeIsDefined(trackInfos.FILESIZE_FLAC)) {
+            if (!fileSizeIsDefined(trackInfos.FILESIZE_MP3_320)) {
+                if (!fileSizeIsDefined(trackInfos.FILESIZE_MP3_256)) {
+                    if (!fileSizeIsDefined(trackInfos.FILESIZE_MP3_128)) {
+                        return false;
+                    }
+
+                    return musicQualities.MP3_128;
+                }
+
+                return musicQualities.MP3_256;
+            }
+
+            return musicQualities.MP3_320;
+        }
+
+        return musicQualities.FLAC;
+    }
+
+    if (musicQualities.MP3_320 === selectedMusicQuality) {
+        if (!fileSizeIsDefined(trackInfos.FILESIZE_MP3_320)) {
+            if (!fileSizeIsDefined(trackInfos.FILESIZE_FLAC)) {
+                if (!fileSizeIsDefined(trackInfos.FILESIZE_MP3_256)) {
+                    if (!fileSizeIsDefined(trackInfos.FILESIZE_MP3_128)) {
+                        return false;
+                    }
+
+                    return musicQualities.MP3_128;
+                }
+
+                return musicQualities.MP3_256;
+            }
+
+            return musicQualities.FLAC;
+        }
+
+        return musicQualities.MP3_320;
+    }
+
+    if (musicQualities.MP3_128 === selectedMusicQuality) {
+        if (!fileSizeIsDefined(trackInfos.FILESIZE_MP3_128)) {
+            if (!fileSizeIsDefined(trackInfos.FILESIZE_MP3_256)) {
+                if (!fileSizeIsDefined(trackInfos.FILESIZE_MP3_320)) {
+                    if (!fileSizeIsDefined(trackInfos.FILESIZE_FLAC)) {
+                        return false;
+                    }
+
+                    return musicQualities.FLAC;
+                }
+
+                return musicQualities.MP3_320;
+            }
+
+            return musicQualities.MP3_256;
+        }
+
+        return musicQualities.MP3_128;
+    }
+
+    return false;
+}
+
+/**
+ * Calculate the blowfish key to decrypt the track
+ *
+ * @param {Object} trackInfos
+ */
+function getBlowfishKey(trackInfos) {
+    const SECRET = 'g4el58wc0zvf9na1';
+
+    const idMd5 = crypto.createHash('md5').update(trackInfos.SNG_ID.toString(), 'ascii').digest('hex');
+    let bfKey = '';
+
+    for (let i = 0; i < 16; i++) {
+        bfKey += String.fromCharCode(idMd5.charCodeAt(i) ^ idMd5.charCodeAt(i + 16) ^ SECRET.charCodeAt(i));
+    }
+
+    return bfKey;
+}
+
+/**
+ * Decrypt a deezer track.
+ *
+ * @param {Buffer} trackBuffer
+ * @param {Object} trackInfos
+ *
+ * @return {Buffer}
+ */
+function decryptTrack(trackBuffer, trackInfos) {
+    const blowFishKey = getBlowfishKey(trackInfos);
+    let i = 0;
+    let position = 0;
+
+    let decryptedBuffer = new Buffer(trackBuffer.length);
+    decryptedBuffer.fill(0);
+
+    while (position < trackBuffer.length) {
+        let chunkSize = 2048;
+
+        if ((trackBuffer.length - position) < 2048) {
+            chunkSize = trackBuffer.length - position;
+        }
+
+        let encryptedChunk = new Buffer(chunkSize);
+        encryptedChunk.fill(0);
+        trackBuffer.copy(encryptedChunk, 0, position, position + chunkSize);
+
+        if (i % 3 > 0 || chunkSize < 2048) {
+            // Already decrypted
+        } else {
+            let cipher = crypto.createDecipheriv('bf-cbc', blowFishKey, new Buffer([0, 1, 2, 3, 4, 5, 6, 7]));
+
+            cipher.setAutoPadding(false);
+            encryptedChunk = cipher.update(encryptedChunk, 'binary', 'binary') + cipher.final();
+        }
+
+        decryptedBuffer.write(encryptedChunk.toString('binary'), position, 'binary');
+
+        position += chunkSize;
+        i++;
+    }
+
+    return decryptedBuffer;
+}
+
+/**
+ * Download the track, decrypt it and write it to a file.
+ *
+ * @param {Object} trackInfos
+ * @param {Number} trackQualityId
+ * @param {String} saveFilePath
+ * @param {Number} numberRetry
+ */
+function downloadTrack(trackInfos, trackQualityId, saveFilePath, numberRetry = 0) {
+    return new Promise((resolve, reject) => {
+        const trackDownloadUrl = getTrackDownloadUrl(trackInfos, trackQualityId);
+
+        log.debug('Started downloading "track/' + trackInfos.SNG_ID + '" in "' + trackQualityId + '". Download url: "' + trackDownloadUrl + '"');
+
+        requestWithoutCache({
+            url:      trackDownloadUrl,
+            headers:  httpHeaders,
+            jar:      true,
+            encoding: null
+        }).then((response) => {
+            log.debug('Got download response for "track/' + trackInfos.SNG_ID + '"');
+
+            const decryptedTrackBuffer = decryptTrack(response, trackInfos);
+
+            resolve(decryptedTrackBuffer);
+        }).catch((err) => {
+            if (403 === err.statusCode) {
+                let maxNumberRetry = 1;
+
+                if ((trackInfos.RIGHTS && 0 !== Object.keys(trackInfos.RIGHTS).length) || (trackInfos.AVAILABLE_COUNTRIES && trackInfos.AVAILABLE_COUNTRIES.STREAM_ADS && 0 < trackInfos.AVAILABLE_COUNTRIES.STREAM_ADS.length)) {
+                    maxNumberRetry = 20;
+                }
+
+                if (maxNumberRetry >= numberRetry) {
+                    numberRetry += 1;
+
+                    setTimeout(() => {
+                        downloadTrack(trackInfos, trackQualityId, saveFilePath, numberRetry).then((decryptedTrackBuffer) => {
+                            resolve(decryptedTrackBuffer);
+                        }).catch((error) => {
+                            reject(error);
+                        });
+                    }, 1000);
+                } else {
+                    reject();
+                }
+            } else {
+                reject();
+            }
+        });
+    });
+}
+
+/**
+ * Download the album cover of a track.
+ *
+ * @param {Object} trackInfos
+ * @param {String} saveFilePath
+ * @param {Number} numberRetry
+ */
+function downloadAlbumCover(trackInfos, saveFilePath, numberRetry = 0) {
+
+    const albumCoverUrl = 'https://e-cdns-images.dzcdn.net/images/cover/' + trackInfos.ALB_PICTURE + '/1400x1400-000000-94-0-0.jpg';
+    const albumCoverSavePath = nodePath.dirname(saveFilePath) + '/cover.jpg';
+    const tempAlbumCoverSavePath = albumCoverSavePath + '.temp';
+
+    return new Promise((resolve, reject) => {
+        // check to make sure there is a cover for this album
+        if (!trackInfos.ALB_PICTURE) {
+            reject();
+        } else {
+        if (!fs.existsSync(albumCoverSavePath)) {
+            if (!fs.existsSync(tempAlbumCoverSavePath)) {
+                log.debug('Started downloading album cover for "track/' + trackInfos.SNG_ID + '". Album cover url: "' + albumCoverUrl + '"');
+
+                ensureDir(tempAlbumCoverSavePath);
+                fs.writeFileSync(tempAlbumCoverSavePath, '');
+
+                requestWithoutCache({
+                    url:      albumCoverUrl,
+                    headers:  httpHeaders,
+                    jar:      true,
+                    encoding: null
+                }).then((response) => {
+                    log.debug('Got album cover download response for "track/' + trackInfos.SNG_ID + '"');
+
+                    ensureDir(tempAlbumCoverSavePath);
+
+                    fs.writeFile(tempAlbumCoverSavePath, response, (err) => {
+                        if (err) {
+                            removeTempAlbumCover();
+                            reject();
+                        } else {
+                            log.debug('Finished downloading album cover for "track/' + trackInfos.SNG_ID + '"');
+
+                            if (fs.existsSync(tempAlbumCoverSavePath)) {
+                                fs.renameSync(tempAlbumCoverSavePath, albumCoverSavePath);
+                            }
+
+                            resolve(albumCoverSavePath);
+                        }
+                    });
+                }).catch((err) => {
+                    if (403 === err.statusCode) {
+                        if (4 >= numberRetry) {
+                            numberRetry += 1;
+
+                            setTimeout(() => {
+                                removeTempAlbumCover();
+
+                                downloadAlbumCover(trackInfos, saveFilePath, numberRetry).then((albumCoverSavePath) => {
+                                    resolve(albumCoverSavePath);
+                                }).catch(() => {
+                                    reject();
+                                });
+                            }, 500);
+                        } else {
+                            removeTempAlbumCover();
+                            reject();
+                        }
+                    } else {
+                        removeTempAlbumCover();
+                        reject();
+                    }
+                });
+            } else {
+                setTimeout(() => {
+                    downloadAlbumCover(trackInfos, saveFilePath, numberRetry).then((albumCoverSavePath) => {
+                        resolve(albumCoverSavePath);
+                    }).catch(() => {
+                        reject();
+                    });
+                }, 500);
+            }
+        } else {
+            log.debug('Album cover for "track/' + trackInfos.SNG_ID + '" already exists');
+
+            resolve(albumCoverSavePath);
+        }
+	}
+    });
+
+    function removeTempAlbumCover() {
+        if (fs.existsSync(tempAlbumCoverSavePath)) {
+            fs.unlinkSync(tempAlbumCoverSavePath);
+        }
+    }
+}
+
+/**
+ * Add tags to the mp3/flac file.
+ *
+ * @param {Buffer} decryptedTrackBuffer
+ * @param {Object} trackInfos
+ * @param {String} saveFilePath
+ * @param {Number} numberRetry
+ */
+function addTrackTags(decryptedTrackBuffer, trackInfos, saveFilePath, numberRetry = 0) {
+    return new Promise((resolve, reject) => {
+        log.debug('Started tagging "track/' + trackInfos.SNG_ID + '"');
+
+        downloadAlbumCover(trackInfos, saveFilePath).then((albumCoverSavePath) => {
+            log.debug('Got album cover and started tagging "track/' + trackInfos.SNG_ID + '"');
+
+            startTagging(albumCoverSavePath);
+        }).catch(() => {
+            startTagging();
+        });
+
+        function startTagging(albumCoverSavePath = null) {
+            try {
+                if (trackInfos.LYRICS || !trackInfos.LYRICS_ID || 0 === trackInfos.LYRICS_ID) {
+                    afterLyricsFetching();
+                } else {
+                    getTrackLyrics(trackInfos.SNG_ID).then((trackLyrics) => {
+                        trackInfos.LYRICS = trackLyrics;
+
+                        afterLyricsFetching();
+                    }).catch(() => {
+                        afterLyricsFetching();
+                    });
+                }
+
+                function afterLyricsFetching() {
+                    let trackMetadata = {
+                        title:                '',
+                        album:                '',
+                        releaseType:          '',
+                        genre:                '',
+                        artists:              [],
+                        albumArtist:          '',
+                        trackNumber:          '',
+                        trackNumberCombined:  '',
+                        partOfSet:            '',
+                        partOfSetCombined:    '',
+                        label:                '',
+                        copyright:            '',
+                        composer:             [],
+                        publisher:            [],
+                        producer:             [],
+                        engineer:             [],
+                        writer:               [],
+                        author:               [],
+                        mixer:                [],
+                        ISRC:                 '',
+                        duration:             '',
+                        bpm:                  '',
+                        upc:                  '',
+                        explicit:             '',
+                        tracktotal:           '',
+                        disctotal:            '',
+                        compilation:          '',
+                        unsynchronisedLyrics: '',
+                        synchronisedLyrics:   '',
+                        media:                'Digital Media',
+                    };
+
+                    if (trackInfos.SNG_TITLE_VERSION) {
+                        trackMetadata.title = trackInfos.SNG_TITLE_VERSION;
+                    }
+
+                    if (trackInfos.ALB_TITLE) {
+                        trackMetadata.album = trackInfos.ALB_TITLE;
+                    }
+
+                    if (trackInfos.ALB_ART_NAME) {
+                        trackMetadata.albumArtist = trackInfos.ALB_ART_NAME;
+                    }
+
+                    if (trackInfos.DURATION) {
+                        trackMetadata.duration = trackInfos.DURATION;
+                    }
+
+                    if (trackInfos.ALB_UPC) {
+                        trackMetadata.upc = trackInfos.ALB_UPC;
+                    }
+
+                    if (trackInfos.ALB_RELEASE_TYPE) {
+                        let releaseType = trackInfos.ALB_RELEASE_TYPE;
+
+                        if ('ep' === releaseType) {
+                            releaseType = 'EP';
+                        } else {
+                            releaseType = capitalizeFirstLetter(releaseType);
+                        }
+
+                        trackMetadata.releaseType = releaseType;
+                    }
+
+                    if (trackInfos.ALB_GENRES && trackInfos.ALB_GENRES[0]) {
+                        trackMetadata.genre = trackInfos.ALB_GENRES[0];
+                    }
+
+                    if (trackInfos.TRACK_NUMBER) {
+                        trackMetadata.trackNumber = trackInfos.TRACK_NUMBER;
+                        trackMetadata.trackNumberCombined = trackInfos.TRACK_NUMBER;
+                    }
+
+                    if (trackInfos.ALB_NUM_TRACKS) {
+                        trackMetadata.tracktotal = trackInfos.ALB_NUM_TRACKS;
+                        trackMetadata.trackNumberCombined += '/' + trackInfos.ALB_NUM_TRACKS;
+                    }
+
+                    if (trackInfos.DISK_NUMBER) {
+                        trackMetadata.partOfSet = trackInfos.DISK_NUMBER;
+                        trackMetadata.partOfSetCombined = trackInfos.DISK_NUMBER;
+                    }
+
+                    if (trackInfos.ALB_NUM_DISCS) {
+                        trackMetadata.disctotal = trackInfos.ALB_NUM_DISCS;
+                        trackMetadata.partOfSetCombined += '/' + trackInfos.ALB_NUM_DISCS;
+                    }
+
+                    if (trackInfos.ALB_RELEASE_DATE || trackInfos.PHYSICAL_RELEASE_DATE) {
+                        let releaseDate = trackInfos.ALB_RELEASE_DATE;
+
+                        if (!trackInfos.ALB_RELEASE_DATE) {
+                            releaseDate = trackInfos.PHYSICAL_RELEASE_DATE;
+                        }
+
+                        trackMetadata.releaseYear = releaseDate.slice(0, 4);
+                        trackMetadata.releaseDate = releaseDate.slice(0, 10);
+                    }
+
+                    if (trackInfos.ALB_LABEL) {
+                        trackMetadata.label = trackInfos.ALB_LABEL;
+                    }
+
+                    if (trackInfos.COPYRIGHT) {
+                        trackMetadata.copyright = trackInfos.COPYRIGHT;
+                    }
+
+                    if (trackInfos.ISRC) {
+                        trackMetadata.ISRC = trackInfos.ISRC;
+                    }
+
+                    if (trackInfos.BPM) {
+                        trackMetadata.bpm = trackInfos.BPM;
+                    }
+
+                    if (trackInfos.EXPLICIT_LYRICS) {
+                        trackMetadata.explicit = trackInfos.EXPLICIT_LYRICS;
+                    }
+
+                    if (trackInfos.ARTISTS) {
+                        let trackArtists = [];
+
+                        trackInfos.ARTISTS.forEach((trackArtist) => {
+                            if (trackArtist.ART_NAME) {
+                                trackArtist = trackArtist.ART_NAME.split(new RegExp(' and | & | featuring | feat. | Ft. | ft. | vs | vs. | x | - |, ', 'g'));
+                                trackArtist = trackArtist.map(Function.prototype.call, String.prototype.trim);
+
+                                trackArtists = trackArtists.concat(trackArtist);
+                            }
+                        });
+
+                        trackArtists = [...new Set(trackArtists)];
+                        trackMetadata.artists = trackArtists;
+                    }
+
+                    if (trackInfos.SNG_CONTRIBUTORS) {
+                        if (trackInfos.SNG_CONTRIBUTORS.composer) {
+                            trackMetadata.composer = trackInfos.SNG_CONTRIBUTORS.composer;
+                        }
+
+                        if (trackInfos.SNG_CONTRIBUTORS.musicpublisher) {
+                            trackMetadata.publisher = trackInfos.SNG_CONTRIBUTORS.musicpublisher;
+                        }
+
+                        if (trackInfos.SNG_CONTRIBUTORS.producer) {
+                            trackMetadata.producer = trackInfos.SNG_CONTRIBUTORS.producer;
+                        }
+
+                        if (trackInfos.SNG_CONTRIBUTORS.engineer) {
+                            trackMetadata.engineer = trackInfos.SNG_CONTRIBUTORS.engineer;
+                        }
+
+                        if (trackInfos.SNG_CONTRIBUTORS.writer) {
+                            trackMetadata.writer = trackInfos.SNG_CONTRIBUTORS.writer;
+                        }
+
+                        if (trackInfos.SNG_CONTRIBUTORS.author) {
+                            trackMetadata.author = trackInfos.SNG_CONTRIBUTORS.author;
+                        }
+
+                        if (trackInfos.SNG_CONTRIBUTORS.mixer) {
+                            trackMetadata.mixer = trackInfos.SNG_CONTRIBUTORS.mixer;
+                        }
+                    }
+
+                    if ('Various Artists' === trackMetadata.performerInfo) {
+                        trackMetadata.compilation = 1;
+                    } else {
+                        trackMetadata.compilation = 0;
+                    }
+
+                    if (trackInfos.LYRICS) {
+                        if (trackInfos.LYRICS.LYRICS_TEXT) {
+                            trackMetadata.unsynchronisedLyrics = trackInfos.LYRICS.LYRICS_TEXT;
+                        }
+
+                        if (trackInfos.LYRICS.LYRICS_SYNC_JSON) {
+                            const syncedLyrics = trackInfos.LYRICS.LYRICS_SYNC_JSON;
+
+                            for (let i = 0; i < syncedLyrics.length; i++) {
+                                if (syncedLyrics[i].lrc_timestamp) {
+                                    trackMetadata.synchronisedLyrics += syncedLyrics[i].lrc_timestamp + syncedLyrics[i].line + '\r\n';
+                                } else if (i + 1 < syncedLyrics.length) {
+                                    trackMetadata.synchronisedLyrics += syncedLyrics[i + 1].lrc_timestamp + syncedLyrics[i].line + '\r\n';
+                                }
+                            }
+                        }
+                    }
+
+                    let saveFilePathExtension = nodePath.extname(saveFilePath);
+
+                    if ('.mp3' === saveFilePathExtension) {
+                        if ('' !== trackMetadata.synchronisedLyrics.trim()) {
+                            const lyricsFile = saveFilePath.slice(0, -4) + '.lrc';
+
+                            ensureDir(lyricsFile);
+                            fs.writeFileSync(lyricsFile, trackMetadata.synchronisedLyrics);
+                        }
+
+                        log.debug('Started MP3 tagging "track/' + trackInfos.SNG_ID + '"');
+
+                        const writer = new id3Writer(decryptedTrackBuffer);
+                        let coverBuffer;
+
+                        if (albumCoverSavePath && fs.existsSync(albumCoverSavePath)) {
+                            coverBuffer = fs.readFileSync(albumCoverSavePath);
+                        }
+
+                        writer
+                            .setFrame('TIT2', trackMetadata.title)
+                            .setFrame('TALB', trackMetadata.album)
+                            .setFrame('TCON', [trackMetadata.genre])
+                            .setFrame('TPE2', trackMetadata.albumArtist)
+                            .setFrame('TPE1', [trackMetadata.artists.join(', ')])
+                            .setFrame('TRCK', trackMetadata.trackNumberCombined)
+                            .setFrame('TPOS', trackMetadata.partOfSetCombined)
+                            .setFrame('WCOP', trackMetadata.copyright)
+                            .setFrame('TPUB', trackMetadata.publisher.join('/'))
+                            .setFrame('TLEN', trackMetadata.duration)
+                            .setFrame('TMED', trackMetadata.media)
+                            .setFrame('TCOM', trackMetadata.composer)
+                            .setFrame('TXXX', {
+                                description: 'Artists',
+                                value:       trackMetadata.artists.join('/')
+                            })
+                            .setFrame('TXXX', {
+                                description: 'RELEASETYPE',
+                                value:       trackMetadata.releaseType
+                            })
+                            .setFrame('TXXX', {
+                                description: 'ISRC',
+                                value:       trackMetadata.ISRC
+                            })
+                            .setFrame('TXXX', {
+                                description: 'BARCODE',
+                                value:       trackMetadata.upc
+                            })
+                            .setFrame('TXXX', {
+                                description: 'LABEL',
+                                value:       trackMetadata.label
+                            })
+                            .setFrame('TXXX', {
+                                description: 'LYRICIST',
+                                value:       trackMetadata.writer.join('/')
+                            })
+                            .setFrame('TXXX', {
+                                description: 'MIXARTIST',
+                                value:       trackMetadata.mixer.join('/')
+                            })
+                            .setFrame('TXXX', {
+                                description: 'INVOLVEDPEOPLE',
+                                value:       trackMetadata.producer.concat(trackMetadata.engineer).join('/')
+                            })
+                            .setFrame('TXXX', {
+                                description: 'COMPILATION',
+                                value:       trackMetadata.compilation
+                            })
+                            .setFrame('TXXX', {
+                                description: 'EXPLICIT',
+                                value:       trackMetadata.explicit
+                            })
+                            .setFrame('TXXX', {
+                                description: 'SOURCE',
+                                value:       'Deezer'
+                            })
+                            .setFrame('TXXX', {
+                                description: 'SOURCEID',
+                                value:       trackInfos.SNG_ID
+                            });
+
+                        if ('' !== trackMetadata.unsynchronisedLyrics) {
+                            writer.setFrame('USLT', {
+                                description: '',
+                                lyrics:      trackMetadata.unsynchronisedLyrics
+                            });
+                        }
+
+                        if (coverBuffer) {
+                            writer.setFrame('APIC', {
+                                type:        3,
+                                data:        coverBuffer,
+                                description: ''
+                            });
+                        }
+
+                        if (0 < parseInt(trackMetadata.releaseYear)) {
+                            writer.setFrame('TYER', trackMetadata.releaseYear);
+                        }
+
+                        if (0 < parseInt(trackMetadata.releaseDate)) {
+                            writer.setFrame('TDAT', trackMetadata.releaseDate);
+                        }
+
+                        if (0 < parseInt(trackMetadata.bpm)) {
+                            writer.setFrame('TBPM', trackMetadata.bpm);
+                        }
+
+                        writer.addTag();
+
+                        const taggedTrackBuffer = Buffer.from(writer.arrayBuffer);
+
+                        ensureDir(saveFilePath);
+                        fs.writeFileSync(saveFilePath, taggedTrackBuffer);
+
+                        log.debug('Finished MP3 tagging "track/' + trackInfos.SNG_ID + '"');
+
+                        resolve();
+                    } else if ('.flac' === saveFilePathExtension) {
+                        if ('' !== trackMetadata.synchronisedLyrics.trim()) {
+                            const lyricsFile = saveFilePath.slice(0, -5) + '.lrc';
+
+                            ensureDir(lyricsFile);
+                            fs.writeFileSync(lyricsFile, trackMetadata.synchronisedLyrics);
+                        }
+
+                        log.debug('Started FLAC tagging "track/' + trackInfos.SNG_ID + '"');
+
+                        let flacComments = [
+                            'SOURCE=Deezer',
+                            'SOURCEID=' + trackInfos.SNG_ID
+                        ];
+
+                        if ('' !== trackMetadata.title) {
+                            flacComments.push('TITLE=' + trackMetadata.title);
+                        }
+
+                        if ('' !== trackMetadata.album) {
+                            flacComments.push('ALBUM=' + trackMetadata.album);
+                        }
+
+                        if ('' !== trackMetadata.genre) {
+                            flacComments.push('GENRE=' + trackMetadata.genre);
+                        }
+
+                        if ('' !== trackMetadata.albumArtist) {
+                            flacComments.push('ALBUMARTIST=' + trackMetadata.albumArtist);
+                        }
+
+                        if (0 < trackMetadata.artists.length) {
+                            flacComments.push('ARTIST=' + trackMetadata.artists.join(', '));
+                        }
+
+                        if ('' !== trackMetadata.trackNumber) {
+                            flacComments.push('TRACKNUMBER=' + trackMetadata.trackNumber);
+                        }
+
+                        if ('' !== trackMetadata.tracktotal) {
+                            flacComments.push('TRACKTOTAL=' + trackMetadata.tracktotal);
+                            flacComments.push('TOTALTRACKS=' + trackMetadata.tracktotal);
+                        }
+
+                        if ('' !== trackMetadata.partOfSet) {
+                            flacComments.push('DISCNUMBER=' + trackMetadata.partOfSet);
+                        }
+
+                        if ('' !== trackMetadata.disctotal) {
+                            flacComments.push('DISCTOTAL=' + trackMetadata.disctotal);
+                            flacComments.push('TOTALDISCS=' + trackMetadata.disctotal);
+                        }
+
+                        if ('' !== trackMetadata.label) {
+                            flacComments.push('LABEL=' + trackMetadata.label);
+                        }
+
+                        if ('' !== trackMetadata.copyright) {
+                            flacComments.push('COPYRIGHT=' + trackMetadata.copyright);
+                        }
+
+                        if ('' !== trackMetadata.duration) {
+                            flacComments.push('LENGTH=' + trackMetadata.duration);
+                        }
+
+                        if ('' !== trackMetadata.ISRC) {
+                            flacComments.push('ISRC=' + trackMetadata.ISRC);
+                        }
+
+                        if ('' !== trackMetadata.upc) {
+                            flacComments.push('BARCODE=' + trackMetadata.upc);
+                        }
+
+                        if ('' !== trackMetadata.media) {
+                            flacComments.push('MEDIA=' + trackMetadata.media);
+                        }
+
+                        if ('' !== trackMetadata.compilation) {
+                            flacComments.push('COMPILATION=' + trackMetadata.compilation);
+                        }
+
+                        if ('' !== trackMetadata.explicit) {
+                            flacComments.push('EXPLICIT=' + trackMetadata.explicit);
+                        }
+
+                        if (trackMetadata.releaseType) {
+                            flacComments.push('RELEASETYPE=' + trackMetadata.releaseType);
+                        }
+
+                        trackMetadata.artists.forEach((artist) => {
+                            flacComments.push('ARTISTS=' + artist);
+                        });
+
+                        trackMetadata.composer.forEach((composer) => {
+                            flacComments.push('COMPOSER=' + composer);
+                        });
+
+                        trackMetadata.publisher.forEach((publisher) => {
+                            flacComments.push('ORGANIZATION=' + publisher);
+                        });
+
+                        trackMetadata.producer.forEach((producer) => {
+                            flacComments.push('PRODUCER=' + producer);
+                        });
+
+                        trackMetadata.engineer.forEach((engineer) => {
+                            flacComments.push('ENGINEER=' + engineer);
+                        });
+
+                        trackMetadata.writer.forEach((writer) => {
+                            flacComments.push('WRITER=' + writer);
+                        });
+
+                        trackMetadata.author.forEach((author) => {
+                            flacComments.push('AUTHOR=' + author);
+                        });
+
+                        trackMetadata.mixer.forEach((mixer) => {
+                            flacComments.push('MIXER=' + mixer);
+                        });
+
+                        if (trackMetadata.unsynchronisedLyrics) {
+                            flacComments.push('LYRICS=' + trackMetadata.unsynchronisedLyrics);
+                        }
+
+                        if (0 < parseInt(trackMetadata.releaseYear)) {
+                            flacComments.push('YEAR=' + trackMetadata.releaseYear);
+                        }
+
+                        if (0 < parseInt(trackMetadata.releaseDate)) {
+                            flacComments.push('DATE=' + trackMetadata.releaseDate);
+                        }
+
+                        if (0 < parseInt(trackMetadata.bpm)) {
+                            flacComments.push('BPM=' + trackMetadata.bpm);
+                        }
+
+                        const reader = new stream.PassThrough();
+                        reader.end(decryptedTrackBuffer);
+
+                        ensureDir(saveFilePath);
+
+                        const writer = fs.createWriteStream(saveFilePath);
+                        let processor = new flacMetadata.Processor({parseMetaDataBlocks: true});
+                        let vendor = 'reference libFLAC 1.2.1 20070917';
+                        let coverBuffer;
+
+                        if (albumCoverSavePath && fs.existsSync(albumCoverSavePath)) {
+                            coverBuffer = fs.readFileSync(albumCoverSavePath);
+                        }
+
+                        let mdbVorbisComment;
+                        let mdbVorbisPicture;
+
+                        processor.on('preprocess', (mdb) => {
+                            // Remove existing VORBIS_COMMENT and PICTURE blocks, if any.
+                            if (flacMetadata.Processor.MDB_TYPE_VORBIS_COMMENT === mdb.type) {
+                                mdb.remove();
+                            } else if (coverBuffer && flacMetadata.Processor.MDB_TYPE_PICTURE === mdb.type) {
+                                mdb.remove();
+                            }
+
+                            if (mdb.isLast) {
+                                mdbVorbisComment = flacMetadata.data.MetaDataBlockVorbisComment.create(!coverBuffer, vendor, flacComments);
+
+                                if (coverBuffer) {
+                                    mdbVorbisPicture = flacMetadata.data.MetaDataBlockPicture.create(true, 3, 'image/jpeg', '', 1400, 1400, 24, 0, coverBuffer);
+                                }
+
+                                mdb.isLast = false;
+                            }
+                        });
+
+                        processor.on('postprocess', (mdb) => {
+                            if (flacMetadata.Processor.MDB_TYPE_VORBIS_COMMENT === mdb.type && null !== mdb.vendor) {
+                                vendor = mdb.vendor;
+                            }
+
+                            if (mdbVorbisComment) {
+                                processor.push(mdbVorbisComment.publish());
+                            }
+
+                            if (mdbVorbisPicture) {
+                                processor.push(mdbVorbisPicture.publish());
+                            }
+                        });
+
+                        reader.on('end', () => {
+                            log.debug('Finished FLAC tagging "track/' + trackInfos.SNG_ID + '"');
+
+                            resolve();
+                        });
+
+                        reader.pipe(processor).pipe(writer);
+                    }
+                }
+            } catch (err) {
+                log.debug('Error tagging "track/' + trackInfos.SNG_ID + '". Number retries: "' + numberRetry + '". Error: ' + err);
+
+                if (10 > numberRetry) {
+                    numberRetry += 1;
+
+                    setTimeout(() => {
+                        addTrackTags(decryptedTrackBuffer, trackInfos, saveFilePath, numberRetry).then(() => {
+                            resolve();
+                        }).catch(() => {
+                            reject();
+                        });
+                    }, 500);
+                } else {
+                    ensureDir(saveFilePath);
+                    fs.writeFileSync(saveFilePath, decryptedTrackBuffer);
+
+                    reject();
+                }
+            }
+        }
+    });
+}

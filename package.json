@@ -1,10 +1,10 @@
 {
     "name": "SMLoadr",
-    "version": "1.9.4",
+    "version": "1.9.5",
     "description": "A streaming music downloader written in NodeJS.",
     "author": "SMLoadrDev",
     "license": "Unlicense",
-    "private": true,
+    "private": false,
     "main": "SMLoadr.js",
     "bin": "SMLoadr.js",
     "repository": {
@@ -15,20 +15,23 @@
         "node": ">=8.0.0"
     },
     "dependencies": {
-        "bluebird": "^3.5.1",
+        "bluebird": "^3.5.3",
         "cache-manager": "^2.9.0",
-        "chalk": "^2.4.1",
+        "chalk": "^2.4.2",
         "command-line-args": "^5.0.2",
         "command-line-usage": "^5.0.5",
         "fs-finder": "^1.8.1",
-        "inquirer": "^6.0.0",
-        "jsonfile": "^4.0.0",
+        "inquirer": "^6.2.2",
+        "jsonfile": "^5.0.0",
         "log": "^1.4.0",
         "openurl": "^1.1.1",
-        "ora": "^3.0.0",
-        "request": "^2.85.0",
-        "request-plus": "^1.0.1",
+        "ora": "^3.2.0",
+        "request": "^2.88.0",
+        "request-plus": "^2.0.0",
         "sanitize-filename": "^1.6.1",
-        "util": "^0.11.0"
+        "util": "^0.11.1"
+    },
+    "devDependencies": {
+        "pkg": "4.3.1"
     }
 }
