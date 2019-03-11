@@ -148,8 +148,12 @@ BUILD.cmd
 Linux:
 
 ```
+# Install dependencies
+npm install
+
 # Run the build script
 ./BUILD.sh linux
+
 # Run './BUILD.sh -h' for help
 ```
 
@@ -192,7 +196,7 @@ Linux:
 
 - We do **not** call to commit crimes.
 - The usage of this tool **may be illegal** in your country! Please inform yourself.
-- We do **not** give any guarantee at all and we am **not** responsible for damages of all kinds!
+- We do **not** give any guarantee at all and we are **not** responsible for damages of all kinds!
 
 
 
