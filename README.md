@@ -77,19 +77,10 @@ chmod +x SMLoadr-linux-x64
 ```
 
 
-
-## How to use (Android)
-
-There are 2 Options available. Please use the Automatic Version because it is a lot easier and user friendlier than the manual Version.
-Also keep in mind that Android is **not** officially supported.
-
-
-
 ## How to use (Android): _Automatic Method_
 
-The automatic Version is a lot easier to setup than the Manual Method mentioned below.
 
-If you run into Errors please tag @NeonDragon1909 in Telegram
+If you run into errors please tag @NeonDragon1909 in Telegram
 
 ### 1. Install Termux
 In order to run SMLoadr on Android you have to install `Termux`.
@@ -128,83 +119,40 @@ eg.:
 ### 5. Start SMLoadr from Termux
 Whenever you want to start SMLoadr on your Phone just enter ```./SMLoadr.sh``` into Termux and you are ready to go.
 
-
-
-## How to use (Android): _Manual Method_
-
-Installing SMLoadr manually on Android is a little bit complicated and **not officially supported** :/
-
-If you need help, tag @sudoHackr in Telegram, and don't expect many people to help you.
-
-### 1. Install Termux
-In order to run SMLoadr on Android you have to install `Termux`.
-- Play Store: [link](https://play.google.com/store/apps/details?id=com.termux)
-- Apk Mirror: [link](https://www.apkmirror.com/apk/fredrik-fornwall/termux)
-
-### 2. Install dependencies
-Run `Termux` and enter these lines in the given order (If it asks you if you want to continue, enter `y`):
-```
-pkg update
-pkg upgrade
-pkg install nodejs git
-
-```
-
-### 3. Download
-First download the latest version from the repo:
-```
-git clone --depth 1 https://git.fuwafuwa.moe/SMLoadrDev/SMLoadr.git
-```
-
-### 4. Install
-Move files and remove unnecessary ones:
-```
-mv SMLoadr/{package.json,SMLoadr.js,./libs/} ./
-rm -rf SMLoadr
-```
-
-Now we install what we've downloaded:
-```
-npm install
-```
-
-Patch openurl:
-```
-sed -i 's/linux/android/' node_modules/openurl/openurl.js
-```
-
-### 5. Setup storage
-In order to let SMLoadr download to the right folder, we need to setup storage for `Termux`:
-```
-termux-setup-storage
-```
-
-Now we trick SMLoadr into downloading to the public storage:
-```
-mkdir ~/storage/shared/SMLoadr
-ln -s ~/storage/shared/SMLoadr DOWNLOADS
-```
-
-### 6. Run
-Last but not least run the app (downloaded files will be in a folder named SMLoadr in public storage):
-```
-node SMLoadr.js
-```
-
-### 7. Updating to a new version
-To update it, run step 3 and step 4
-
-
-
-## How to use (from source)
+## How to run (from source)
 
 To run it from source you have to install [Node.js](https://nodejs.org/) first (>= 8.0.0 is required).
+Node.js 9 is recommended, while Node.js 10 is currently not working well with the code, but changes will be made in future.
 
-After that download the repo and execute the following commands in the directory:
+After that download/clone the repo and execute the following commands in the directory:
 ```
-npm i
+# Install dependencies
+npm install
+
+# Run the app
 node SMLoadr.js
 ```
+
+## How to compile to executable
+
+Windows:
+
+```
+# Install dependencies
+npm install
+
+# Run the build script
+BUILD.cmd
+```
+
+Linux:
+
+```
+# Run the build script
+./BUILD.sh linux
+# Run './BUILD.sh -h' for help
+```
+
 
 
 
