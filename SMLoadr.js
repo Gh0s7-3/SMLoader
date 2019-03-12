@@ -292,7 +292,7 @@ function startApp() {
                     selectMusicQuality();
                 }).catch((err) => {
                     if ('Wrong Deezer credentials!' === err) {
-                        downloadSpinner.fail('Wrong Deezer credentials!\n  Keep in mind that Facebook login and family accounts are not supported.\n  Create a new account if you use one.\n');
+                        downloadSpinner.fail('Wrong Deezer credentials!\n');
 
                         configService.set('arl', null);
 
