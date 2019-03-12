@@ -33,13 +33,13 @@ Remember that the artists and studios put a lot of work into making music - purc
 - Android (Run from source, see guide below)
 - ARM like Raspberry Pi (Run from source)
 
-## How to login with arl cookie
-
-Guide on the [Wiki](https://git.fuwafuwa.moe/SMLoadrDev/SMLoadr/wiki/How-to-login-via-cookie)
-
 ## How to use, run and compile
 
 Guide on the [Wiki](https://git.fuwafuwa.moe/SMLoadrDev/SMLoadr/wiki/How-to-use%2C-run-and-compile)
+
+## How to login with arl cookie
+
+Guide on the [Wiki](https://git.fuwafuwa.moe/SMLoadrDev/SMLoadr/wiki/How-to-login-via-cookie)
 
 ## CLI parameters
 
